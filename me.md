@@ -1,8 +1,10 @@
 # Markus Tiede
 
+```
 > Dipl.-Inf. (FH)
 > Softwaredeveloper
 > [BREDEX GmbH][bredex]
+```
 
 ## bio
 
