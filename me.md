@@ -20,8 +20,9 @@ Markus Tiede hat einen Abschluss als Diplom-Informatiker von der [FH Braunschwei
 ## other references
 
 ```
-XING: http://www.xing.com/profile/Markus_Tiede
+XING:    http://www.xing.com/profile/Markus_Tiede
 Twitter: http://twitter.com/MarkusTiede
+this:    http://raw.github.com/MarkusTiede/about/master/me.md
 ```
 
 
