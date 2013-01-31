@@ -3,8 +3,8 @@
 ```
 > Dipl.-Inf. (FH)
 > Softwaredeveloper
-> [BREDEX GmbH][bredex]
 ```
+> [BREDEX GmbH][bredex]
 
 ## bio
 
