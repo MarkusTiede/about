@@ -21,9 +21,14 @@ Markus Tiede hat einen Abschluss als Diplom-Informatiker von der [FH Braunschwei
 
 ### p.2012
 
-`de` Open Sourcing and Release Engineering @ Eclipse.org, The Making of an Eclipse Project
-  - Januar: Eclipse Magazin
-  - Mai: [JAXenter][p.2012.jaxenter]
+`de` Open Sourcing and Release Engineering @ Eclipse.org - The Making of an Eclipse Project
+ - Januar: Eclipse Magazin
+ - Mai: [JAXenter][p.2012.jaxenter]
+
+### p.2010
+
+`en` Test design for stubborn applications - Event handling in automated acceptance tests
+ - March: [*t*esting *e*xperience][p.2010.te]
 
 ## other references
 
@@ -41,3 +46,4 @@ this:    http://raw.github.com/MarkusTiede/about/master/me.md
 [Jubula]: http://www.eclipse.org/jubula
 
 [p.2012.jaxenter]: http://it-republik.de/jaxenter/artikel/Open-Sourcing-%26-Release-Engineering-@-Eclipse.org-4748.html
+[p.2010.te]: http://www.bredex.de/web/tl_files/BredexDateien/whitepapers/testingexperience01_10_Imrie_Tiede.pdf
