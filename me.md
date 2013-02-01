@@ -21,7 +21,9 @@ Markus Tiede hat einen Abschluss als Diplom-Informatiker von der [FH Braunschwei
 
 ### p.2012
 
- - Eclipse Magazin (de) - Open Sourcing and Release Engineering @ Eclipse.org
+ - Open Sourcing and Release Engineering @ Eclipse.org, The Making of an Eclipse Project
+  - Januar: Eclipse Magazin (de)
+  - Mai: [JAXenter][p.2012.jaxenter]
 
 ## other references
 
@@ -37,3 +39,5 @@ this:    http://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-en]: http://www.ostfalia.de/cms/en/index.html
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
+
+[p.2012.jaxenter]: http://it-republik.de/jaxenter/artikel/Open-Sourcing-%26-Release-Engineering-@-Eclipse.org-4748.html
