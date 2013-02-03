@@ -17,6 +17,21 @@ Markus Tiede hat einen Abschluss als Diplom-Informatiker von der [FH Braunschwei
 
 ### t.2012
 
+### t.2010
+
+#### `de` Automatisiertes Testen mit Jubula
+ - [SEACON][t.2010.seacon]
+
+Ab März werden Kernteile von GUIdancer als Open Source Projekt in der Eclipse Foundation veröffentlicht. Das Jubula Functional Testing Tool Projekt ermöglicht die Erstellung und Ausführung automatisierter Akzeptanztests anhand von den bekannten Best-Practices aus der Softwareentwicklung (Lesbarkeit, Modularität, Wartbarkeit) ohne jeglichen Programmieraufwand. Das Verfahren des Keyword-Driven Testings erlaubt außerdem eine frühzeitige Testfallerstellung, welches die Einbindung in agilen Prozessen unterstützt. In diesem Talk stellen wir das Jubula Projekt vor und geben eine Vorführung von dem Tools.
+
+### t.2008
+
+#### `en` Best Practices for the Creation of Automated Agile GUI Tests 
+ - [STPCon][t.stpcon]
+
+This class uses insights and project experience from agile development processes to suggest requirements and solutions for automated agile test design.
+Begin by looking at the agile development process to determine the requirements for agile testing. Then hear practical solutions to achieving these goals within a project based on real industrial project experience with automated agile testing. Aimed at testers and project managers, the class offers a set of practices that enable tests to grow alongside product development, ensuring that both new and old functions are tested at each release.
+
 ## publications
 
 ### p.2012
@@ -68,6 +83,9 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-en]: http://www.ostfalia.de/cms/en/index.html
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
+
+[t.stpcon]: http://www.stpcon.com
+[t.2010.seacon]: http://www.sigs-datacom.de/seacon2011/konferenz/sessiondetails.html?tx_mwconferences_pi1%5BshowUid%5D=559&tx_mwconferences_pi1%5Banchor%5D=%23Di41&tx_mwconferences_pi1%5Bs%5D=0
 
 [p.2012.jx]: http://it-republik.de/jaxenter/artikel/Open-Sourcing-%26-Release-Engineering-@-Eclipse.org-4748.html
 [p.2012.em]: http://www.pressekatalog.de/inhalt/eclipse+magazin-00001_2012_2012199.pdf
