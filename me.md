@@ -17,6 +17,20 @@ Markus Tiede hat einen Abschluss als Diplom-Informatiker von der [FH Braunschwei
 
 ### t.2013
 
+#### `de` UI-Testautomatisierung für mobile Plattformen – Herausforderung und Chance zugleich! 
+ - [DWX - Mobile Developer Conference][t.2013.dwx]
+
+Die BREDEX GmbH hat als Open-Source Testtoolhersteller für Desktop-Applikationen jahrelang ausgiebig Erfahrungen im Bereich der User-Interface Testautomatisierung sammeln können. Dabei haben sich eine Vielzahl von Konzepten als tragfähige Grundlage für die Qualitätssicherung von Anwendungen bewiesen, um eine nachhaltige und kosteneffiziente Automatisierung betreiben zu können. Zu diesen Konzepten zählen
+
+ - die strikte Entkopplung von UI-Toolkit-Technologie und Testsprache
+ - das Bereitstellen von „high-level“ UI-Automatisierungsbausteinen die eine natürlich-sprachliche Testspezifikation ermöglichen
+ - die Wiederverwendbarkeit von Tests zu fordern und zu fördern
+
+Dieser Vortrag zeigt am konkreten Beispiel „iOS“ die Probleme und Schwierigkeiten des Transfers eben diese Konzepte in die Welt der mobilen Plattformen zu übertragen und demonstriert zugleich das große Potential der technologieübergreifenden Testautomatisierung auf mobiler Hard- und Software.
+
+#### `de` UI-Testautomatisierung für mobile Plattformen – Herausforderung und Chance zugleich! Ein Erfahrungsbericht
+ - [iqnite][t.2013.iq]
+
 #### `en` Continuous testing with Jubula – where the rubber meets the road!
  - [EclipseCon North America][t.2013.ec]
 
@@ -142,7 +156,9 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
 
+[t.2013.dwx]: http://www.developer-week.de/Programm/Veranstaltung/(event)/11089
 [t.2013.ec]: http://www.eclipsecon.org/2013/sessions/continuous-testing-jubula-–-where-rubber-meets-road 
+[t.2013.iq]: http://www.iqnite-conferences.com/de/index.aspx
 [t.2012.ece]: http://www.eclipsecon.org/europe2012/sessions/ui-testing-jubula-wacky-widgets
 [t.2012.ece.slides]: http://www.eclipsecon.org/europe2012/sites/eclipsecon.org.europe2012/files/UI%20testing%20with%20Jubula%20-%20wacky%20widgets.pdf
 [t.2011.ece]: http://www.eclipsecon.org/europe2011/sessions/starting-eclipse-project-first-90-days…-and-year-follows
