@@ -28,7 +28,7 @@ Die BREDEX GmbH hat als Open-Source Testtoolhersteller für Desktop-Applikatione
 
 Dieser Vortrag zeigt am konkreten Beispiel „iOS“ die Probleme und Schwierigkeiten des Transfers eben diese Konzepte in die Welt der mobilen Plattformen zu übertragen und demonstriert zugleich das große Potential der technologieübergreifenden Testautomatisierung auf mobiler Hard- und Software.
 
-#### `de` UI-Testautomatisierung für mobile Plattformen – Herausforderung und Chance zugleich! Ein Erfahrungsbericht
+#### `de` UI-Testautomatisierung für mobile Plattformen – Ein Erfahrungsbericht
  - [iqnite][t.2013.iq]
 
 #### `en` Continuous testing with Jubula – where the rubber meets the road!
