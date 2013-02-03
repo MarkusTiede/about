@@ -15,7 +15,44 @@ Markus Tiede hat einen Abschluss als Diplom-Informatiker von der [FH Braunschwei
 
 ## talks
 
+### t.2013
+
+#### `en` Continuous testing with Jubula – where the rubber meets the road!
+ - [EclipseCon North America][t.2013.ec]
+
+You've got software. You've got a list of features to implement. You've got some automated tests. You've got upcoming releases. The only glue that is going to make this scenario work is Continuous Integration. When you're adding and changing functionality, knowing what your changes are doing to your quality on a daily basis can be the difference between a successful release and a horrifically painful one. A project team needs to be able to make qualified decisions based on quality information at any given time, which is why you’ve got to hit the road (the application under test) with the rubber (the automated tests) as often as possible!
+
+In this session Markus will give a full technical walk-through of all the necessary steps to setup Jubula tests in various continuous integration scenarios.
+
+After starting with a super-quick overview of Jubula's concepts and architecture for any Jubula "newbies" in the audience, Markus moves onto a live walk-through of the necessary steps to get Jubula and Hudson playing well together. On the way, we'll look at topics such as:
+
+- setup, maintenance and teardown of the test environment
+- useful Jubula tools, configurations and settings
+- Hudson options to optimize scheduling and test distribution
+- making the whole system work for more complex test scenarios such as testing multiple AUTs and projects on various architectures and operating systems.
+
+This talk is designed to give a detailed technical road-map for successful continuous testing with Jubula.
+
 ### t.2012
+
+#### `en` UI testing with Jubula - wacky widgets
+ - [EclipseCon Europe][t.2012.ece]
+
+Standard widgets and usage concepts are great. They are known by users, respond in expected ways, and are generally testable out-of-the-box with UI automation tools like Jubula.
+
+Apparently though, standard widgets are boring, that table-in-a-combo-box-with-a-tree-in-it is the new black. Joking aside, the temptation (or necessity) to stray from the standard path will happen to all of us at one time or another. Good examples for that can e.g. be found in the Nebula project.
+You may well ask yourself what that means for UI testing ...
+
+In this session Markus will give a brief introduction to Jubula and its toolkit concepts, as well as demonstrate how easy it is to extend Jubula to support custom UI widgets.
+
+### t.2011
+
+#### `en` Starting an Eclipse Project: The first 90 days… and the year that follows
+ - [EclipseCon Europe][t.2011.ece]
+
+What are you getting yourself into by deciding to host your project at Eclipse? From the decision to open source your software, to the formal processes for intellectual property and development, all the way up to the generation and care of the community, the road may contain more twists and turns than you expect. Unless of course, you have a map – which is what we’d like to try and give you.
+
+This talk looks at the steps for hosting your project at Eclipse from various aspects, and through two sets of eyes. Wayne Beaton combines his knowledge of the Eclipse and IP processes with the recent experiences of Markus Tiede, a committer on the new Jubula project. Together, they navigate through the “why” of open sourcing software, the “how” it is done at Eclipse, the “what” else to expect, and the “who” of the project – the community.
 
 ### t.2010
 
@@ -84,8 +121,11 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
 
-[t.stpcon]: http://www.stpcon.com
+[t.2013.ec]: http://www.eclipsecon.org/2013/sessions/continuous-testing-jubula-–-where-rubber-meets-road 
+[t.2012.ece]: http://www.eclipsecon.org/europe2012/sessions/ui-testing-jubula-wacky-widgets
+[t.2011.ece]: http://www.eclipsecon.org/europe2011/sessions/starting-eclipse-project-first-90-days…-and-year-follows
 [t.2010.seacon]: http://www.sigs-datacom.de/seacon2011/konferenz/sessiondetails.html?tx_mwconferences_pi1%5BshowUid%5D=559&tx_mwconferences_pi1%5Banchor%5D=%23Di41&tx_mwconferences_pi1%5Bs%5D=0
+[t.stpcon]: http://www.stpcon.com
 
 [p.2012.jx]: http://it-republik.de/jaxenter/artikel/Open-Sourcing-%26-Release-Engineering-@-Eclipse.org-4748.html
 [p.2012.em]: http://www.pressekatalog.de/inhalt/eclipse+magazin-00001_2012_2012199.pdf
