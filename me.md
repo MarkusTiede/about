@@ -61,6 +61,25 @@ This talk looks at the steps for hosting your project at Eclipse from various as
 
 Ab März werden Kernteile von GUIdancer als Open Source Projekt in der Eclipse Foundation veröffentlicht. Das Jubula Functional Testing Tool Projekt ermöglicht die Erstellung und Ausführung automatisierter Akzeptanztests anhand von den bekannten Best-Practices aus der Softwareentwicklung (Lesbarkeit, Modularität, Wartbarkeit) ohne jeglichen Programmieraufwand. Das Verfahren des Keyword-Driven Testings erlaubt außerdem eine frühzeitige Testfallerstellung, welches die Einbindung in agilen Prozessen unterstützt. In diesem Talk stellen wir das Jubula Projekt vor und geben eine Vorführung von dem Tools.
 
+### t.2009
+
+#### `en` Write Once, Test Everywhere? Cross Platform Development and Testing with Eclipse
+ - [Eclipse Live - Webinar][t.2009.el]
+ - [PDF Slides][t.2009.el.slides]
+
+How platform independent are Eclipse applications in practice? This talk looks at some of the differences between operating systems supported by Eclipse with respect to RCP applications and examines their effects on usability, development and testing.
+
+This webinar is aimed at developers, project managers and testers (automated and manual) working on RCP applications that are intended to run on more than one platform. Participants will learn about large and small differences between the platforms. Some of these differences must simply be considered in the development and testing process, others mean that testing, documentation and development are affected.
+
+Some of the points raised include:
+
+ - How widgets can behave differently on the platforms
+ - Variation in the library support for each platform
+ - Other GUI considerations such as tooltips, toolbars, buttons and focus
+ - Automated testers will also benefit from the information and examples in the talk. Ideally, only one automated test should be necessary to test all versions of an application. Some of the differences between the platforms make this aim difficult, and some differences mean finding a lowest common denominator to be able to write tests. The variation between the platforms is therefore something which must be considered at the test planning stage, and in the test design itself.
+
+Participants will learn to consider and deal with any variations between platforms to make cross-platform projects a success.
+
 ### t.2008
 
 #### `en` Best Practices for the Creation of Automated Agile GUI Tests 
@@ -125,6 +144,8 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [t.2012.ece]: http://www.eclipsecon.org/europe2012/sessions/ui-testing-jubula-wacky-widgets
 [t.2011.ece]: http://www.eclipsecon.org/europe2011/sessions/starting-eclipse-project-first-90-days…-and-year-follows
 [t.2010.seacon]: http://www.sigs-datacom.de/seacon2011/konferenz/sessiondetails.html?tx_mwconferences_pi1%5BshowUid%5D=559&tx_mwconferences_pi1%5Banchor%5D=%23Di41&tx_mwconferences_pi1%5Bs%5D=0
+[t.2009.el]: http://live.eclipse.org/node/834
+[t.2009.el.slides]: http://www.eclipse.org/community/training/webinars/091201_CrossPlatform_Webinar.pdf
 [t.stpcon]: http://www.stpcon.com
 
 [p.2012.jx]: http://it-republik.de/jaxenter/artikel/Open-Sourcing-%26-Release-Engineering-@-Eclipse.org-4748.html
