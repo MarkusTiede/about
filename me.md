@@ -64,6 +64,7 @@ Ab März werden Kernteile von GUIdancer als Open Source Projekt in der Eclipse F
 ### t.2009
 
 #### `en` Write Once, Test Everywhere? Cross Platform Development and Testing with Eclipse
+ - [Eclipse Summit Europe][t.2009.ese]
  - [Eclipse Live - Webinar][t.2009.el]
  - [PDF Slides][t.2009.el.slides]
 
@@ -144,6 +145,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [t.2012.ece]: http://www.eclipsecon.org/europe2012/sessions/ui-testing-jubula-wacky-widgets
 [t.2011.ece]: http://www.eclipsecon.org/europe2011/sessions/starting-eclipse-project-first-90-days…-and-year-follows
 [t.2010.seacon]: http://www.sigs-datacom.de/seacon2011/konferenz/sessiondetails.html?tx_mwconferences_pi1%5BshowUid%5D=559&tx_mwconferences_pi1%5Banchor%5D=%23Di41&tx_mwconferences_pi1%5Bs%5D=0
+[t.2009.ese]: http://www.eclipsecon.org/summiteurope2009/sessions?id=920
 [t.2009.el]: http://live.eclipse.org/node/834
 [t.2009.el.slides]: http://www.eclipse.org/community/training/webinars/091201_CrossPlatform_Webinar.pdf
 [t.stpcon]: http://www.stpcon.com
