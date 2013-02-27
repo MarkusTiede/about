@@ -187,8 +187,7 @@
 
         <section>
           <h2>Single Level of Abstraction (SLA)</h2>
-          <pre>
-          <code contenteditable>public void performAllOperations() {
+          <pre><code contenteditable>public void performAllOperations() {
     gatherData();
     m_valid = !((!false && true) || !globalValid);
     validateData();
@@ -197,17 +196,18 @@
     persistData();
 }
 
+
+
 private void gatherData() {}
 private void validateData() {}
 private void alterData() {}
-private void persistData() {}</code>
-        </pre>
+private void persistData() {}</code></pre>
+          <h3>falsch</h3>
         </section>
 
         <section>
           <h2>Single Level of Abstraction (SLA)</h2>
-          <pre>
-          <code contenteditable>public void performAllOperations() {
+          <pre><code contenteditable>public void performAllOperations() {
     gatherData();
     validateData();
     alterData();
@@ -221,43 +221,152 @@ private void validateData() {
     m_valid = !m_valid;
 }
 private void alterData() {}
-private void persistData() {}</code>
-        </pre>
+private void persistData() {}</code></pre>
+          <h3>richtig</h3>
         </section>
 
         <section>
           <h2>Single Responsibility Principle (SRP)</h2>
+          <blockquote>Eine Klasse sollte nur eine
+            Verantwortlichkeit haben.</blockquote>
+          <ul>
+            <li>Änderungen / Erweiterungen sollen sich auf wenige
+              Klassen beschränken lassen</li>
+            <li>Verstoß führt zu</li>
+            <ul>
+              <li>hoher Kopplung von Klassen</li>
+              <li>hoher Komplexität bei Änderungen</li>
+            </ul>
+            <li>eines der <a
+              href="http://www.clean-code-developer.de/SOLID.ashx">SOLID</a>
+              Prinzipien
+            </li>
+            <li><code>E++, K+, P, R</code></li>
+          </ul>
+        </section>
 
+        <section>
+          <h2>Single Responsibility Principle (SRP)</h2>
+          <pre><code contenteditable>public class EierLegendeWollMilchSau {
+          
+	public void legeEier() {}
+	public void habFell() {}
+	public void produziereMilch() {}
+	public void seiFett() {}
+}
+</code></pre>
+          <h3>falsch</h3>
+        </section>
+
+        <section>
+          <h2>Single Responsibility Principle (SRP)</h2>
+          <pre><code contenteditable>public class Huhn { public void legeEier() {} }
+
+public class Schaf { public void habFell() {} }
+
+public class Kuh { public void produziereMilch() {} }
+
+public class Schwein { public void seiFett() {} }</code></pre>
+          <h3>richtig</h3>
         </section>
 
         <section>
           <h2>Separation of Concerns (SoC)</h2>
+          <blockquote>Trennung der Belange - a.k.a.
+            komplett verschiedener Zwecke.</blockquote>
+          <ul>
+            <li>Belange stehen häufig orthogonal zu einander</li>
+            <li>Beispiel für "Belange": Logging, Transaktionalität,
+              Caching</li>
+            <li>ähnelt Separation of Concerns Prinzip<br>Responsibility
+              &sub; Concerns
+            </li>
+            <li>Ergebnis</li>
+            <ul>
+              <li>lose Kopplung &raquo; gute Testbarkeit</li>
+              <li>enges Zusammenspiel von Attributen und Methoden
+                einer Klasse (hohe Kohäsion) &raquo;
+                Wiederverwendbarkeit</li>
+            </ul>
+            <li><code>E++, K+, P, R</code></li>
+          </ul>
+        </section>
 
+        <section>
+          <h2>Separation of Concerns (SoC)</h2>
+          <h3>Beispiel - Trennung von:</h3>
+          <p>Business Domain &hArr; Persistenzinfrastruktur</p>
+          <p>Geschäftslogik &hArr; Datenbankzugriffe</p>
+          <br>
+          <blockquote>Persistenz ist ein "Concern" der
+            nichts mit der Business Logik zu tun hat.</blockquote>
+          <br>
+          <p>Problem: häufig sind in einer Responsibility
+            verschiedene Concerns vermischt.</p>
+          <p>mögliche Lösung: Aspektorientierten Programmierung
+            (AOP)</p>
         </section>
 
         <section>
           <h2>Source Code Konventionen</h2>
-
+          <blockquote>Code wird häufiger gelesen als
+            geschrieben.</blockquote>
+          <ul>
+            <li>BREDEX Code Conventions</li>
+            <li>CCD</li>
+            <ul>
+              <li>Namensregeln und deren konsequenter Einsatz</li>
+              <li>"richtige" Kommentare:</li>
+              <pre><code contenteditable>int laenge; // in mm</code></pre>
+              <pre><code contenteditable>int laengeInMM;</code></pre>
+              <li>oder auch</li>
+              <pre><code contenteditable>public double Preis() {
+        // Berechnet den Bruttopreis ...
+}</code></pre>
+              <pre><code contenteditable>public Money BruttoPreis() {...} </code></pre>
+            </ul>
+            <li><code>E+, K+, P(+), R</code></li>
+          </ul>
         </section>
 
         <section>
           <h2>Issue Tracking</h2>
-
+          <blockquote>Nur, was man aufschreibt, vergisst
+            man nicht und kann man effektiv delegieren und verfolgen.</blockquote>
+          <p>schafft Bewusstsein und Überblick</p>
+          <p>ermöglicht Priorisierung</p>
+          <p>BREDEX: trac + bugzilla</p>
+          <p>Tätigkeit steht über Tool!</p>
+          <p><code>E+, K+, P++, R+</code></p>
         </section>
 
         <section>
           <h2>Automatisierte Integrationstests</h2>
-
+          <blockquote>Wiederkehrende Tätigkeit nicht zu automatisieren wäre Zeitverschwendung.</blockquote>
+          <p>Schafft "Sicherheitsnetz" + Regression</p>
+          <p>Anzuwenden noch vor Unit Tests</p>
+          <p>Grund: Unit Tests fordern eingehaltenes SRP!</p>
+          <p><code>E++, K++, P++, R</code></p>
         </section>
 
         <section>
           <h2>Lesen, Lesen, Lesen</h2>
-
+          <blockquote>Lesen bildet!</blockquote>
+          <p>Ständige Forbildung um "Schritt" zu halten</p>
+          <p>Empfehlung: mind. 6 Fachbücher pro Jahr</p>
+          <p>+ regelmäßiges Lesen von Fachzeitschriften und Blogs</p>
+          <p>BREDEX: große Bibliothek + Zeitschriftenfundus</p>
+          <p><code>E, K, P, R+</code></p>
         </section>
 
         <section>
           <h2>Reviews</h2>
-
+          <blockquote>Vier Augen sehen mehr als zwei.</blockquote>
+          <p>Pair Programming oder Code Review</p>
+          <p>Code diskutieren und reflektieren</p>
+          <p>sehr frühes finden von Fehlern möglich</p>
+          <p>führt zu ständiger Verbesserung auf beiden Seiten</p>
+          <p><code>E++, K++, P, R++</code></p>
         </section>
       </section>
 
@@ -279,7 +388,7 @@ private void persistData() {}</code>
 
       <section>
         <h2>Referenzen</h2>
-
+        <p>Website <a href="http://www.clean-code-developer.de">clean-code-developer.de</a></p>
       </section>
 
     </div>
