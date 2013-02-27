@@ -53,13 +53,13 @@
       <section>
         <h2>Agenda</h2>
         <ul>
-          <li>Motivation / Idee - FZ</li>
-          <li>Wertesystem(e) - FZ</li>
-          <li>Prinzipien und Praktiken - MT</li>
-          <li>der rote Grad - FZ</li>
-          <li>der orange Grad - MT</li>
-          <li>der gelbe, grüne und blaue Grad - MT</li>
-          <li>Fazit / Ausblick - FZ</li>
+          <li>Motivation / Idee</li>
+          <li>Wertesystem(e)</li>
+          <li>Prinzipien und Praktiken</li>
+          <li>der rote Grad</li>
+          <li>der orange Grad</li>
+          <li>der gelbe, grüne und blaue Grad</li>
+          <li>Fazit / Ausblick</li>
         </ul>
       </section>
 
@@ -118,7 +118,7 @@
       <section>
         <section>
           <h2>Der rote Grad</h2>
-          <img width="80%" src="2013-mms-ccd/Postkarte_rot_Page_1.jpg"
+          <img width="75%" src="2013-mms-ccd/Postkarte_rot_Page_1.jpg"
             alt="Der rote Grad">
         </section>
 
@@ -163,14 +163,66 @@
       <section>
         <section>
           <h2>Der orange Grad</h2>
-          <img width="80%"
+          <img width="75%"
             src="2013-mms-ccd/Postkarte_orange_Page_1.jpg"
             alt="Der orange Grad">
         </section>
 
         <section>
           <h2>Single Level of Abstraction (SLA)</h2>
+          <blockquote>Bitpfriemeleien nicht mit
+            Methodenaufrufen mischen...</blockquote>
+          <ul>
+            <li>Methoden sollen genau ein Abstraktionsniveau
+              besitzen</li>
+            <li>"Zeitungs"-analogie</li>
+            <ul>
+              <li>Überschrift = Klassenname</li>
+              <li>Untertitel = public methods</li>
+              <li>Inhalt = private methods</li>
+            </ul>
+            <li><code>E++, K+, P, R</code></li>
+          </ul>
+        </section>
 
+        <section>
+          <h2>Single Level of Abstraction (SLA)</h2>
+          <pre>
+          <code contenteditable>public void performAllOperations() {
+    gatherData();
+    m_valid = !((!false && true) || !globalValid);
+    validateData();
+    m_valid = !m_valid;
+    alterData();
+    persistData();
+}
+
+private void gatherData() {}
+private void validateData() {}
+private void alterData() {}
+private void persistData() {}</code>
+        </pre>
+        </section>
+
+        <section>
+          <h2>Single Level of Abstraction (SLA)</h2>
+          <pre>
+          <code contenteditable>public void performAllOperations() {
+    gatherData();
+    validateData();
+    alterData();
+    persistData();
+}
+
+private void gatherData() {}
+private void validateData() {
+    m_valid = !((!false && true) || !globalValid);
+    ...
+    m_valid = !m_valid;
+}
+private void alterData() {}
+private void persistData() {}</code>
+        </pre>
         </section>
 
         <section>
@@ -211,7 +263,7 @@
 
       <section>
         <h2>der gelbe, grüne und blaue Grad</h2>
-        <img height="80%" src="2013-mms-ccd/overview.jpg"
+        <img width="75%" src="2013-mms-ccd/overview.jpg"
           alt="CCD Overview">
       </section>
 
