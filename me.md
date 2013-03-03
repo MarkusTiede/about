@@ -28,8 +28,10 @@ Die BREDEX GmbH hat als Open-Source Testtoolhersteller für Desktop-Applikatione
 
 Dieser Vortrag zeigt am konkreten Beispiel „iOS“ die Probleme und Schwierigkeiten des Transfers eben diese Konzepte in die Welt der mobilen Plattformen zu übertragen und demonstriert zugleich das große Potential der technologieübergreifenden Testautomatisierung auf mobiler Hard- und Software.
 
-#### `de` UI-Testautomatisierung für mobile Plattformen – Ein Erfahrungsbericht
+#### `de` UI-Testautomatisierung für mobile Plattformen – Herausforderung und Chance zugleich!
  - [iqnite][t.2013.iq]
+
+Dieser Vortrag zeigt am konkreten Beispiel iOS und Windows 8 die Probleme und Schwierigkeiten, die Konzepte der Desktopwelt in die der mobilen Plattformen zu übertragen und demonstriert zugleich das große Potential der technologieübergreifenden Testautomatisierung auf mobiler Hard- und Software. Es werden dabei sowohl die grundlegenden Technologien und Konzepte, als auch konkrete Erfahrungen der mobilen cross-plattform „App“-entwicklung und -testautomatisierung erläutert. Belegt und unterstrichen wird dies durch eine Reihe von Demonstrationen.
 
 #### `en` Continuous testing with Jubula – where the rubber meets the road!
  - [EclipseCon North America][t.2013.ec]
@@ -158,7 +160,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 
 [t.2013.dwx]: http://www.developer-week.de/Programm/Veranstaltung/(event)/11089
 [t.2013.ec]: http://www.eclipsecon.org/2013/sessions/continuous-testing-jubula-–-where-rubber-meets-road 
-[t.2013.iq]: http://www.iqnite-conferences.com/de/index.aspx
+[t.2013.iq]: http://www.iqnite-conferences.com/de/programm/25april.aspx
 [t.2012.ece]: http://www.eclipsecon.org/europe2012/sessions/ui-testing-jubula-wacky-widgets
 [t.2012.ece.slides]: http://www.eclipsecon.org/europe2012/sites/eclipsecon.org.europe2012/files/UI%20testing%20with%20Jubula%20-%20wacky%20widgets.pdf
 [t.2011.ece]: http://www.eclipsecon.org/europe2011/sessions/starting-eclipse-project-first-90-days…-and-year-follows
