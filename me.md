@@ -108,6 +108,11 @@ Begin by looking at the agile development process to determine the requirements 
 
 ## publications
 
+### p.2013
+
+#### `de` Automatisiertes Testen im mobilen Umfeld - Der Umstieg aus der Desktop-Welt
+ - [Eclipse Magazin][p.2013.em]
+
 ### p.2012
 
 #### `de` Open Sourcing and Release Engineering @ Eclipse.org - The Making of an Eclipse Project 
@@ -170,6 +175,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [t.2009.el.slides]: http://www.eclipse.org/community/training/webinars/091201_CrossPlatform_Webinar.pdf
 [t.stpcon]: http://www.stpcon.com
 
+[p.2013.em]: http://it-republik.de/jaxenter/eclipse-magazin-ausgaben/
 [p.2012.jx]: http://it-republik.de/jaxenter/artikel/Open-Sourcing-%26-Release-Engineering-@-Eclipse.org-4748.html
 [p.2012.em]: http://www.pressekatalog.de/inhalt/eclipse+magazin-00001_2012_2012199.pdf
 [p.2010.te]: http://www.bredex.de/web/tl_files/BredexDateien/whitepapers/testingexperience01_10_Imrie_Tiede.pdf
