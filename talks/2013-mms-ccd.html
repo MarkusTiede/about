@@ -65,7 +65,8 @@
 
       <section>
         <h2>Motivation / Idee</h2>
-        Die Branche braucht einen Qualitätsmaßstab oder zumindest einen Erwartungshorizont für Professionalität.
+        Die Branche braucht einen Qualitätsmaßstab oder zumindest einen Erwartungshorizont für Professionalität.<br><br>
+        Wir haben einen "Haufen"... junger Mitarbeiter!
       </section>
 
       <section>
@@ -74,7 +75,7 @@
           <li><code>E</code> - Evolvierbarkeit<br>
             Anpassungsfähige Struktur</li>
           <li><code>K</code> - Korrektheit</li>
-          <li><code>P</code> - Produkteffizienz<br>
+          <li><code>P</code> - Produktionseffizienz<br>
             Angemessene Arbeitsweise</li>
           <li><code>R</code> - Reflektion<br> Kontinuierliche
             Verbesserung</li>
@@ -113,6 +114,12 @@
           <li><code>SC</code> - <strong>S</strong>tay <strong>C</strong>lean</li>
           <li><code>KM</code> - <strong>K</strong>eep <strong>M</strong>oving</li>
         </ul>
+      </section>
+
+      <section>
+        <h2>Die Grade</h2>
+        <img width="75%" src="2013-mms-ccd/band.jpg"
+          alt="Armbänder">
       </section>
 
       <section>
@@ -346,17 +353,16 @@ public class Schwein { public void seiFett() {} }</code></pre>
             komplett verschiedener Zwecke.</blockquote>
           <ul>
             <li>Belange stehen häufig orthogonal zu einander</li>
-            <li>Beispiel für "Belange": Logging, Transaktionalität,
-              Caching</li>
-            <li>ähnelt Separation of Concerns Prinzip<br>Responsibility
+            <li>Beispiel für "Belange": Logging, Persistenz, Darstellung</li>
+            <li>ähnelt Single Responsibility Principle<br>Responsibility
               &sub; Concerns
             </li>
             <li>Ergebnis</li>
             <ul>
-              <li>lose Kopplung &raquo; gute Testbarkeit</li>
+              <li>lose Kopplung &raquo; gute Testbarkeit + Wiederverwendbarkeit</li>
               <li>enges Zusammenspiel von Attributen und Methoden
                 einer Klasse (hohe Kohäsion) &raquo;
-                Wiederverwendbarkeit</li>
+                lokale (große) Änderungen möglich</li>
             </ul>
             <li><code>E++, K+, P, R</code></li>
           </ul>
@@ -373,7 +379,7 @@ public class Schwein { public void seiFett() {} }</code></pre>
           <br>
           <p>Problem: häufig sind in einer Responsibility
             verschiedene Concerns vermischt.</p>
-          <p>mögliche Lösung: Aspektorientierten Programmierung
+          <p>mögliche Lösung: <br> Aspektorientierten Programmierung
             (AOP)</p>
         </section>
 
@@ -464,11 +470,12 @@ public class Schwein { public void seiFett() {} }</code></pre>
       </section>
 
       <section>
-        <h2>Fazit-Erfahrungen</h2>
-        <ul>
-          <li>Schärft die Aufmerksamkeit</li>
-        </ul>
-
+        <h2>Fazit / Erfahrungen</h2>
+        <p>Schärft die Aufmerksamkeit</p>
+        <p>Roter Grad ermöglich "sanften" Einstieg</p>
+        <p>Projekt muss es "erlauben", da höherer Aufwand (ab Orange)!</p>
+        <p>Man "fühlt" sich besser...</p>
+        <p>Für Tester nur bedingt nutzbar</p>
       </section>
 
       <section>
@@ -478,6 +485,7 @@ public class Schwein { public void seiFett() {} }</code></pre>
           <li>Soll es einen weiteren Vortrag zu den anderen Graden
             geben?</li>
           <li>Wer interessiert sich für das Wertesystem des CCD?</li>
+          <li>Welchen Grad hat euer Projekt?</li>
         </ul>
 
       </section>
