@@ -25,14 +25,14 @@
 
 <!-- If the query includes 'print-pdf', use the PDF print sheet -->
 <script>
-	document.write('<link rel="stylesheet" href="lib/reveal.js/css/print/'
-			+ (window.location.search.match(/print-pdf/gi) ? 'pdf' : 'paper')
-			+ '.css" type="text/css" media="print">');
+    document.write('<link rel="stylesheet" href="lib/reveal.js/css/print/'
+            + (window.location.search.match(/print-pdf/gi) ? 'pdf' : 'paper')
+            + '.css" type="text/css" media="print">');
 </script>
 
 <!--[if lt IE 9]>
-		<script src="lib/js/html5shiv.js"></script>
-		<![endif]-->
+        <script src="lib/js/html5shiv.js"></script>
+        <![endif]-->
 </head>
 
 <body>
@@ -326,10 +326,10 @@ private void persistData() {}</code></pre>
           <h2>Single Responsibility Principle (SRP)</h2>
           <pre><code contenteditable>public class EierLegendeWollMilchSau {
           
-	public void legeEier() {}
-	public void habFell() {}
-	public void produziereMilch() {}
-	public void seiFett() {}
+    public void legeEier() {}
+    public void habFell() {}
+    public void produziereMilch() {}
+    public void seiFett() {}
 }
 </code></pre>
           <h3>falsch</h3>
@@ -509,62 +509,62 @@ public class Schwein { public void seiFett() {} }</code></pre>
   <script src="lib/reveal.js/js/reveal.min.js"></script>
 
   <script>
-			// Full list of configuration options available here:
-			// https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				controls : false,
-				progress : true,
-				history : true,
-				center : true,
-				keyboard : true,
-				overview : true,
+    // Full list of configuration options available here:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls : false,
+        progress : true,
+        history : true,
+        center : true,
+        keyboard : true,
+        overview : true,
 
-				width: 1024,
-			    height: 768,
-				maxScale: 1.50,
-				
-				theme : Reveal.getQueryHash().theme || 'bredex', // available themes are in /css/theme
-				transition : Reveal.getQueryHash().transition || 'none', // default/cube/page/concave/zoom/linear/fade/none
+        width: 1024,
+        height: 768,
+        maxScale: 1.50,
+        
+        theme : Reveal.getQueryHash().theme || 'bredex', // available themes are in /css/theme
+        transition : Reveal.getQueryHash().transition || 'none', // default/cube/page/concave/zoom/linear/fade/none
 
-				// Optional libraries used to extend on reveal.js
-				dependencies : [ {
-					src : 'lib/reveal.js/lib/js/classList.js',
-					condition : function() {
-						return !document.body.classList;
-					}
-				}, {
-					src : 'lib/reveal.js/plugin/markdown/showdown.js',
-					condition : function() {
-						return !!document.querySelector('[data-markdown]');
-					}
-				}, {
-					src : 'lib/reveal.js/plugin/markdown/markdown.js',
-					condition : function() {
-						return !!document.querySelector('[data-markdown]');
-					}
-				}, {
-					src : 'lib/reveal.js/plugin/highlight/highlight.js',
-					async : true,
-					callback : function() {
-						hljs.initHighlightingOnLoad();
-					}
-				}, {
-					src : 'lib/reveal.js/plugin/zoom-js/zoom.js',
-					async : true,
-					condition : function() {
-						return !!document.body.classList;
-					}
-				}, {
-					src : 'lib/reveal.js/plugin/notes/notes.js',
-					async : true,
-					condition : function() {
-						return !!document.body.classList;
-					}
-				}
-				// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
-				]
-			});
-		</script>
+        // Optional libraries used to extend on reveal.js
+        dependencies : [ {
+            src : 'lib/reveal.js/lib/js/classList.js',
+            condition : function() {
+                return !document.body.classList;
+            }
+        }, {
+            src : 'lib/reveal.js/plugin/markdown/showdown.js',
+            condition : function() {
+                return !!document.querySelector('[data-markdown]');
+            }
+        }, {
+            src : 'lib/reveal.js/plugin/markdown/markdown.js',
+            condition : function() {
+                return !!document.querySelector('[data-markdown]');
+            }
+        }, {
+            src : 'lib/reveal.js/plugin/highlight/highlight.js',
+            async : true,
+            callback : function() {
+                hljs.initHighlightingOnLoad();
+            }
+        }, {
+            src : 'lib/reveal.js/plugin/zoom-js/zoom.js',
+            async : true,
+            condition : function() {
+                return !!document.body.classList;
+            }
+        }, {
+            src : 'lib/reveal.js/plugin/notes/notes.js',
+            async : true,
+            condition : function() {
+                return !!document.body.classList;
+            }
+        }
+        // { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+        ]
+    });
+  </script>
 
 </body>
 </html>
