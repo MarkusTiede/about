@@ -1,4 +1,4 @@
-﻿<!doctype html>
+﻿﻿<!doctype html>
 <html lang="en">
 
 <head>
@@ -65,7 +65,7 @@
 
       <section>
         <h2>Motivation / Idee</h2>
-
+        Die Branche braucht einen Qualitätsmaßstab oder zumindest einen Erwartungshorizont für Professionalität.
       </section>
 
       <section>
@@ -124,38 +124,108 @@
 
         <section>
           <h2>Don´t repeat yourself (DRY)</h2>
+          <blockquote>Jeder Strg+C sollte einen inneren
+            Alarm auslösen</blockquote>
+          <ul>
+            <li>Vermeiden von Wiederholungen</li>
+            <li>Beseitigen von Wiederholungen</li>
+            <li><code>E++, K++, P+, R+</code></li>
+          </ul>
         </section>
 
         <section>
           <h2>Keep it simple, stupid (KISS)</h2>
+          <blockquote>Alles sollte so einfach wie möglich
+            gemacht werden, aber nicht einfacher.</blockquote>
+          <ul>
+            <li>Eine einfache Lösung ist stets vorzuziehen.</li>
+            <li>Nicht Strukturen für die Zukunft planen, die
+              eventuell nie kommt.</li>
+            <li><code>E++, K++, P+, R</code></li>
+          </ul>
         </section>
 
         <section>
           <h2>Vorsicht vor Optimierungen</h2>
+          <blockquote>
+            Rules of Optimization: </br> Rule 1: Don't do it. </br> Rule 2 (for
+            experts only): Don't do it yet
+          </blockquote>
+          <ul>
+            <li>Kosten/Nutzen nicht unbedingt gewährleistet.</li>
+            <li>Code kann dadurch umständlich werden.</li>
+            <li><code>E++, K, P++, R</code></li>
+          </ul>
         </section>
 
         <section>
           <h2>Favour Composition over Inheritance</h2>
+          <ul>
+            <li>"has a"-Beziehungen niemals mit Vererbung
+              realisieren</li>
+            <li>Fördert die Entkopplung von Klassen</li>
+            <li><code>E+, K, P, R</code></li>
+          </ul>
         </section>
 
         <section>
           <h2>Pfadfinderregel</h2>
+          <blockquote>Hinterlasse einen Ort immer in einem
+            besseren Zustand als du ihn vorgefunden hast.</blockquote>
+          <ul>
+            <li>Große Refaktorings in der Regel nicht machbar</li>
+            <li>Vorgehen in kleinen Schritten</li>
+            <li>Mittel gegen den "Broken-Window"-Effekt</li>
+            <li><code>E++, K, P, R</code></li>
+          </ul>
         </section>
 
         <section>
           <h2>Root Cause Analysis</h2>
+          <blockquote>Beseitige die Wurzel eines Problems
+            nicht dessen Sympthom.</blockquote>
+          <ul>
+            <li>Dienst an der Verständlichkeit und am Aufwand</li>
+            <li>Ansonsten: Ein Workaround für einen Workaround für
+              einen Workaround ...</li>
+            <li>Five Why's</li>
+            <li><code>E+, K, P, R++</code></li>
+          </ul>
         </section>
 
         <section>
           <h2>Versionskontrolle</h2>
+          <blockquote>Erste Voraussetzung für den Einstieg
+            ins Clean Code Development ist der ständige Gebrauch eines
+            Versionskontrollsystems!</blockquote>
+          <ul>
+            <li>nimmt die Angst, etwas falsch und damit kaputt zu
+              machen.</li>
+            <li><code>E, K, P++, R+</code></li>
+          </ul>
         </section>
 
         <section>
           <h2>Einfache Refaktorisierungen</h2>
+          <ul>
+            <li>Methode/Test Case extrahieren</li>
+            <li>Umbenennen</li>
+            <li><code>E++, K, P, R+</code></li>
+          </ul>
         </section>
 
         <section>
           <h2>Täglich reflektieren</h2>
+          <blockquote>Keine Verbesserung, kein Fortschritt,
+            kein Lernen ohne Reflexion.</blockquote>
+          <ul>
+            <li>Abendliche Bewertung: Habe ich alle meine Aufgaben
+              erledigt? Wie habe ich meine Aufgaben erledigt?</li>
+            <li>Wechsel des Armbands zum anderen Arm bei
+              Verbesserungsbedarf</li>
+            <li>Nach 21 Tagen ohne Wechsel neuer Grad</li>
+            <li><code>E, K, P, R++</code></li>
+          </ul>
         </section>
 
       </section>
@@ -342,7 +412,8 @@ public class Schwein { public void seiFett() {} }</code></pre>
 
         <section>
           <h2>Automatisierte Integrationstests</h2>
-          <blockquote>Wiederkehrende Tätigkeit nicht zu automatisieren wäre Zeitverschwendung.</blockquote>
+          <blockquote>Wiederkehrende Tätigkeit nicht zu
+            automatisieren wäre Zeitverschwendung.</blockquote>
           <p>Schafft "Sicherheitsnetz" + Regression</p>
           <p>Anzuwenden noch vor Unit Tests</p>
           <p>Grund: Unit Tests fordern eingehaltenes SRP!</p>
@@ -378,17 +449,48 @@ public class Schwein { public void seiFett() {} }</code></pre>
 
       <section>
         <h2>der schwarze und weiße Grad</h2>
+        <h3>schwarz</h3>
+        <ul>
+          <li>signalisiert Interesse</li>
+          <li>Schaffen von Voraussetzungen</li>
+        </ul>
+        <p/>
+        <h3>weiss</h3>
+        <ul>
+          <li>Ende eines Durchlaufs</li>
+          <li>Neubeginn mit dem roten Grad</li>
+        </ul>
 
       </section>
 
       <section>
-        <h2>Fazit / Ausblick</h2>
+        <h2>Fazit-Erfahrungen</h2>
+        <ul>
+          <li>Schärft die Aufmerksamkeit</li>
+        </ul>
+
+      </section>
+
+      <section>
+        <h2>Ausblick</h2>
+        <ul>
+          <li>Wen interessiert das Thema CCD?</li>
+          <li>Soll es einen weiteren Vortrag zu den anderen Graden
+            geben?</li>
+          <li>Wer interessiert sich für das Wertesystem des CCD?</li>
+        </ul>
 
       </section>
 
       <section>
         <h2>Referenzen</h2>
-        <p>Website <a href="http://www.clean-code-developer.de">clean-code-developer.de</a></p>
+        <ul>
+          <li>Website <a href="http://www.clean-code-developer.de">clean-code-developer.de</a>
+          </li>
+          <li>Buch: Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)</li>
+          <li><a href="http://www.clean-code-developer.de/Literaturliste.ashx">Literaturliste</a>
+          </li>
+        </ul>
       </section>
 
     </div>
