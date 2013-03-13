@@ -54,18 +54,90 @@
 
       <section>
         <h2>Agenda</h2>
-        <p>What's Jubula</p>
-        <p>Why Continuous</p>
-        <p>Why Hudson</p>
+        <p>What's Jubula?</p>
+        <p>Why automation &amp; continuous testing?</p>
+        <p>What's Hudson?</p>
         <br>
         <p>CI scenarios in theory</p>
         <p>... and practice</p>
       </section>
 
       <section>
-        <h2>That's Jubula</h2>
-        <p>UI automation &amp; testing @ <a href="http://www.eclipse.org/jubula">eclipse.org/jubula</a></p>
-        <p>cross UI-toolkit &amp; platform approach</p>
+        <h2>That's Jubula!</h2>
+        <img src="2013-ec-ci-jubula-hudson/jubula.png" alt="Jubula Logo">
+        <p>
+          UI automation @ <a href="http://www.eclipse.org/jubula">eclipse.org/jubula</a>
+        </p>
+      </section>
+
+      <section>
+        <h2>Jubula features</h2>
+        <p>
+          <b>cross UI-toolkit</b> <br>SWT/RCP/GEF (e3 &amp; e4) +
+          Swing + HTML
+        </p>
+        <p>
+          <b>cross-platform</b> <br> Windows, Linux &amp; Mac OS X
+        </p>
+        <p>
+          <b>code-free end-to-end testing</b> <br> keyword based
+          &amp; huge library
+        </p>
+        <p>
+          <b>continuous integration tools</b> <br> testexec,
+          autagent, dbtool
+        </p>
+      </section>
+
+      <section>
+        <h2>Why automate UI tests?</h2>
+        <p>
+          <b>Why not?</b> <br> manual user interface tests are...
+        </p>
+        <p>
+          <b>slow</b> <br> ± 2-3 steps/min vs. ± 180 steps/min
+        </p>
+        <p>
+          <b>expensive</b> <br> time consuming &amp; recurring
+        </p>
+        <p>
+          <b>error-prone</b> <br> boring task
+        </p>
+        <p>
+          <b>deferred</b> <br> no regression
+        </p>
+      </section>
+
+      <section>
+        <h2>Why continuous testing?</h2>
+        <p>
+          <b>multiply</b> the potential of automated task<br> run
+          tests as often as possible
+        </p>
+        <p>
+          prompt <b>feedback</b> <br> fail fast!
+        </p>
+        <p>
+          constant <b>quality knowledge</b>
+        </p>
+        <p>
+          build <b>safety net</b> <br> nightly regression runs
+        </p>
+        <br>
+        <p>rope construction material: Hudson</p>
+      </section>
+
+      <section>
+        <h2>That's Hudson!</h2>
+        <img src="2013-ec-ci-jubula-hudson/hudson.png" alt="Hudson Logo">
+        <p>
+          continuous integration tool @ <a
+            href="http://www.eclipse.org/hudson">eclipse.org/hudson</a>
+        </p>
+      </section>
+
+      <section>
+        <h2>Hudson features</h2>
       </section>
     </div>
 
@@ -75,62 +147,62 @@
   <script src="lib/reveal.js/js/reveal.min.js"></script>
 
   <script>
-      // Full list of configuration options available here:
-      // https://github.com/hakimel/reveal.js#configuration
-      Reveal.initialize({
-          controls : false,
-          progress : true,
-          history : true,
-          center : true,
-          keyboard : true,
-          overview : true,
-  
-          width : 1024,
-          height : 768,
-          maxScale : 2.50,
-  
-          theme : Reveal.getQueryHash().theme || 'eclipse', // available themes are in /css/theme
-          transition : Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
-  
-          // Optional libraries used to extend on reveal.js
-          dependencies : [ {
-              src : 'lib/reveal.js/lib/js/classList.js',
-              condition : function() {
-                  return !document.body.classList;
-              }
-          }, {
-              src : 'lib/reveal.js/plugin/markdown/showdown.js',
-              condition : function() {
-                  return !!document.querySelector('[data-markdown]');
-              }
-          }, {
-              src : 'lib/reveal.js/plugin/markdown/markdown.js',
-              condition : function() {
-                  return !!document.querySelector('[data-markdown]');
-              }
-          }, {
-              src : 'lib/reveal.js/plugin/highlight/highlight.js',
-              async : true,
-              callback : function() {
-                  hljs.initHighlightingOnLoad();
-              }
-          }, {
-              src : 'lib/reveal.js/plugin/zoom-js/zoom.js',
-              async : true,
-              condition : function() {
-                  return !!document.body.classList;
-              }
-          }, {
-              src : 'lib/reveal.js/plugin/notes/notes.js',
-              async : true,
-              condition : function() {
-                  return !!document.body.classList;
-              }
-          }
-          // { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
-          ]
-      });
-  </script>
+    // Full list of configuration options available here:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls : false,
+        progress : true,
+        history : true,
+        center : true,
+        keyboard : true,
+        overview : true,
+
+        width : 1024,
+        height : 768,
+        maxScale : 2.50,
+
+        theme : Reveal.getQueryHash().theme || 'eclipse', // available themes are in /css/theme
+        transition : Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+        // Optional libraries used to extend on reveal.js
+        dependencies : [ {
+            src : 'lib/reveal.js/lib/js/classList.js',
+            condition : function() {
+                return !document.body.classList;
+            }
+        }, {
+            src : 'lib/reveal.js/plugin/markdown/showdown.js',
+            condition : function() {
+                return !!document.querySelector('[data-markdown]');
+            }
+        }, {
+            src : 'lib/reveal.js/plugin/markdown/markdown.js',
+            condition : function() {
+                return !!document.querySelector('[data-markdown]');
+            }
+        }, {
+            src : 'lib/reveal.js/plugin/highlight/highlight.js',
+            async : true,
+            callback : function() {
+                hljs.initHighlightingOnLoad();
+            }
+        }, {
+            src : 'lib/reveal.js/plugin/zoom-js/zoom.js',
+            async : true,
+            condition : function() {
+                return !!document.body.classList;
+            }
+        }, {
+            src : 'lib/reveal.js/plugin/notes/notes.js',
+            async : true,
+            condition : function() {
+                return !!document.body.classList;
+            }
+        }
+        // { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+        ]
+    });
+</script>
 
 </body>
 </html>
