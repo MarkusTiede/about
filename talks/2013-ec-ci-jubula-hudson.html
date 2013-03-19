@@ -1,4 +1,4 @@
-﻿﻿
+﻿﻿﻿
 <!doctype html>
 <html lang="en">
 
@@ -56,10 +56,9 @@
         <h2>Agenda</h2>
         <p>What's Jubula?</p>
         <p>Why automation &amp; continuous testing?</p>
-        <p>What's Hudson?</p>
         <br>
         <p>CI scenarios in theory</p>
-        <p>... and practice</p>
+        <p>... and in Hudson</p>
       </section>
 
       <section>
@@ -67,11 +66,16 @@
         <img src="2013-ec-ci-jubula-hudson/jubula.png" alt="Jubula Logo">
         <p>
           UI automation @ <a href="http://www.eclipse.org/jubula">eclipse.org/jubula</a>
+          <br> since 2011
         </p>
       </section>
 
       <section>
         <h2>Jubula features</h2>
+        <p>
+          <b>code-free end-to-end testing</b> <br> keyword based
+          &amp; huge library
+        </p>
         <p>
           <b>cross UI-toolkit</b> <br>SWT/RCP/GEF (e3 &amp; e4) +
           Swing + HTML
@@ -80,12 +84,8 @@
           <b>cross-platform</b> <br> Windows, Linux &amp; Mac OS X
         </p>
         <p>
-          <b>code-free end-to-end testing</b> <br> keyword based
-          &amp; huge library
-        </p>
-        <p>
           <b>continuous integration tools</b> <br> testexec,
-          autagent, dbtool
+          autagent, dbtool, autrun
         </p>
       </section>
 
@@ -109,6 +109,16 @@
       </section>
 
       <section>
+        <h2>The ITE</h2>
+        <p>
+          <b>I</b>ntegrated <b>T</b>esting <b>E</b>nvironment
+        </p>
+        <p>daily test specification &amp; result analysis</p>
+        <br>
+        <h3>Demo!</h3>
+      </section>
+
+      <section>
         <h2>Why continuous testing?</h2>
         <p>
           <b>multiply</b> the potential of automated task<br> run
@@ -123,8 +133,6 @@
         <p>
           build <b>safety net</b> <br> nightly regression runs
         </p>
-        <br>
-        <p>rope construction material: Hudson</p>
       </section>
 
       <section>
@@ -138,6 +146,161 @@
 
       <section>
         <h2>Hudson features</h2>
+        <p>(super)-easy setup</p>
+        <p>central "dashboard" web-app</p>
+        <p>job scheduling</p>
+        <p>job distribution</p>
+        <p>result processing</p>
+      </section>
+
+      <section>
+        <h2>CT tools used</h2>
+        <p>
+          Jubula <a href="http://www.eclipse.org/jubula/download.php">
+            2.0.0</a> - standalone version
+        </p>
+        <p>
+          Hudson <a href="http://www.eclipse.org/hudson/download.php">
+            3.0.0</a> - plugin bundle WAR
+        </p>
+        <p>
+          Jubula-CI <a href="http://github.com/MarkusTiede/jubula-ci">
+            ANT scripts</a>
+        </p>
+        <p>
+          ANT <a href="http://ant.apache.org"> 1.8.2</a>
+        </p>
+        <p>
+          Java <a href="http://www.java.com"> 1.5+</a>
+        </p>
+      </section>
+
+      <section>
+        <h2>steps to test continuously</h2>
+        <p class="fragment shrink">
+          <b>build</b> AUT<br> having a CI is recommended but not
+          mandatory
+        </p>
+        <p class="fragment shrink">
+          <b>deploy / install &amp; configure</b> AUT<br> using a
+          well-defined &amp; stable environment is recommended
+        </p>
+        <p class="fragment grow">
+          <b>start &amp; test</b> AUT<br>
+        </p>
+        <p class="fragment shrink">
+          <b>process &amp; analyze results</b> <br> reaction is
+          necessary
+        </p>
+      </section>
+
+      <section>
+        <h2>start &amp; test AUT - prerequisites</h2>
+        <p>
+          <b>(re)-start test machine</b><br> best practice: use
+          "cleanly" started OS
+        </p>
+        <p>
+          <b>enable auto-login</b><br> we do perform "real" clicks
+        </p>
+        <p>
+          <b>disable auto-updates &amp; screensaver</b> for OS and Apps<br>
+          otherwise non-deterministic behavior
+        </p>
+        <p>
+          <b>start <a
+            href="http://wiki.hudson-ci.org/display/HUDSON/Distributed+builds">Hudson
+              slave</a> on test machine
+          </b> <br>
+        </p>
+      </section>
+
+      <section>
+        <h2>start &amp; test AUT - Jubula CT tools</h2>
+        <p>
+          <b>autagent</b><br> starts &amp; remote-controls AUT
+        </p>
+        <p>
+          <b>testexec</b><br> provides &amp; processes test
+          execution information <br> drives the AUT-Agent &raquo;
+          AUT
+        </p>
+        <p>
+          <b>database</b><br> stores tests &amp; results<br>embedded
+          H2, Oracle, MySQL, PostgreSQL
+        </p>
+        <br>
+        <p>
+          <b>[autrun]</b> launch multiple AUTs externally
+        </p>
+        <p>
+          <b>[dbtool]</b> im- &amp; export test projects within CI
+        </p>
+      </section>
+
+      <section>
+        <h2>start &amp; test AUT - standard workflow</h2>
+        <p>
+          <b>1. start autagent</b><br> on test machine
+        </p>
+        <p>
+          <b>2. start testexec</b><br> loads tests from database
+        </p>
+        <p>
+          <b>3. testexec &raquo; autagent: "start &amp; wait AUT"</b><br>
+          via AUT configuration
+        </p>
+        <p>
+          <b>4. test suite execution</b><br>documents all events /
+          steps
+        </p>
+        <p>
+          <b>5. testexec provides test result</b><br>in database
+          &amp; file-system
+        </p>
+      </section>
+
+      <section>
+        <h2>start &amp; test AUT - workflow</h2>
+        <p>
+          <b>highly customizable</b><br> 35+ parameters
+        </p>
+        <br>
+        <p>
+          <b>default layout / test execution</b><br> Jubula-CI <a
+            href="http://github.com/MarkusTiede/jubula-ci"> ANT
+            scripts</a><br> dbURL, project name, AUT-name, test result
+          directory
+        </p>
+
+        <br>
+        <p>
+          <b>naming conventions</b><br> <small>AUT-configuration:
+            ci.${os.arch}.${os.name}</small><br> <small>Test Suite
+            names: ${AUT-name}-FULLTEST</small>
+        </p>
+        <br>
+        <h3>Demo!</h3>
+      </section>
+
+      <section>
+        <h2>start &amp; test AUT in Hudson</h2>
+        <p>
+          <b>execute ANT script</b><br> cross-platform
+        </p>
+        <p>
+          <b>use build trigger</b><br> timer (nightly execution),
+          SCM change, ...
+        </p>
+        <p>
+          <b>execute on hudson slaves</b><br>test distribution
+        </p>
+        <br>
+        <h3>Demo!</h3>
+      </section>
+
+      <section>
+        <h1>Thank you! - QA?</h1>
       </section>
     </div>
 
