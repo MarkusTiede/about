@@ -27,9 +27,9 @@
 
 <!-- If the query includes 'print-pdf', use the PDF print sheet -->
 <script>
-    document.write('<link rel="stylesheet" href="lib/reveal.js/css/print/'
-            + (window.location.search.match(/print-pdf/gi) ? 'pdf' : 'paper')
-            + '.css" type="text/css" media="print">');
+	document.write('<link rel="stylesheet" href="lib/reveal.js/css/print/'
+			+ (window.location.search.match(/print-pdf/gi) ? 'pdf' : 'paper')
+			+ '.css" type="text/css" media="print">');
 </script>
 
 <!--[if lt IE 9]>
@@ -66,25 +66,24 @@
         <img src="2013-ec-ci-jubula-hudson/jubula.png" alt="Jubula Logo">
         <p>
           UI automation @ <a href="http://www.eclipse.org/jubula">eclipse.org/jubula</a>
-          since 2011 <br>
-          <b>GUI</b><i>dancer</i> "Core" since 2004
+          since 2011 <br> <b>GUI</b><i>dancer</i> "Core" since 2004
         </p>
       </section>
 
       <section>
         <h2>Jubula features</h2>
-        <p>
+        <p class="fragment roll-in">
           <b>code-free end-to-end testing</b> <br> keyword based
           &amp; huge library
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>cross UI-toolkit</b> <br>SWT/RCP/GEF (e3 &amp; e4) +
           Swing + HTML
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>cross-platform</b> <br> Windows, Linux &amp; Mac OS X
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>continuous integration tools</b> <br> testexec,
           autagent, dbtool, autrun
         </p>
@@ -92,19 +91,19 @@
 
       <section>
         <h2>Why automate UI tests?</h2>
-        <p>
+        <p class="fragment roll-in">
           <b>Why not?</b> <br> manual user interface tests are...
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>slow</b> <br> ± 2-3 steps/min vs. ± 180 steps/min
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>expensive</b> <br> time consuming &amp; recurring
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>error-prone</b> <br> boring task
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>deferred</b> <br> no regression
         </p>
       </section>
@@ -116,22 +115,22 @@
         </p>
         <p>daily test specification &amp; result analysis</p>
         <br>
-        <h3>Demo!</h3>
+        <h3 class="fragment roll-in">Demo!</h3>
       </section>
 
       <section>
         <h2>Why continuous testing?</h2>
-        <p>
+        <p class="fragment roll-in">
           <b>multiply</b> the potential of automated task<br> run
           tests as often as possible
         </p>
-        <p>
+        <p class="fragment roll-in">
           prompt <b>feedback</b> <br> fail fast!
         </p>
-        <p>
+        <p class="fragment roll-in">
           constant <b>quality knowledge</b>
         </p>
-        <p>
+        <p class="fragment roll-in">
           build <b>safety net</b> <br> regression runs, e.g.
           nightly
         </p>
@@ -148,11 +147,11 @@
 
       <section>
         <h2>Hudson features</h2>
-        <p>(super)-easy setup</p>
-        <p>central "dashboard" web-app</p>
-        <p>job scheduling</p>
-        <p>job distribution</p>
-        <p>result processing</p>
+        <p><b>(super)-easy</b> setup</p>
+        <p><b>central "dashboard"</b> web-app</p>
+        <p>job <b>scheduling</b></p>
+        <p>job <b>distribution</b></p>
+        <p><b>result processing</b></p>
       </section>
 
       <section>
@@ -194,22 +193,24 @@
           <b>process &amp; analyze results</b> <br> reaction is
           necessary
         </p>
+        <h1 class="fragment roll-in"> &infin;</h1>
       </section>
+
 
       <section>
         <h2>start &amp; test AUT - prerequisites</h2>
-        <p>
+        <p class="fragment roll-in">
           <b>(re)-start test machine</b><br> best practice: use
           "cleanly" started OS
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>enable auto-login</b><br> we perform "real" clicks
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>disable auto-updates &amp; screensaver</b> for OS and Apps<br>
           otherwise non-deterministic behavior
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>start <a
             href="http://wiki.hudson-ci.org/display/HUDSON/Distributed+builds">Hudson
               slave</a> on test machine
@@ -219,44 +220,41 @@
 
       <section>
         <h2>start &amp; test AUT - Jubula CT tools</h2>
-        <p>
+        <p class="fragment roll-in">
           <b>autagent</b><br> starts &amp; remote-controls AUT
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>testexec</b><br> provides &amp; processes test
           execution information <br> drives the AUT-Agent &raquo;
-          AUT
-        </p>
-        <p>
-          <b>database</b><br> stores tests &amp; results<br>embedded
+          AUT <br>stores tests &amp; results in database<br>embedded
           H2, Oracle, MySQL, PostgreSQL
         </p>
         <br>
-        <p>
+        <p class="fragment roll-in">
           <b>[autrun]</b> launch multiple AUTs externally
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>[dbtool]</b> im- &amp; export test projects within CI
         </p>
       </section>
 
       <section>
         <h2>start &amp; test AUT - standard workflow</h2>
-        <p>
+        <p class="fragment roll-in">
           <b>1. start autagent</b><br> on test machine
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>2. start testexec</b><br> loads tests from database
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>3. testexec &raquo; autagent: "start &amp; wait for
             AUT"</b><br> via AUT configuration
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>4. test suite execution</b><br>documents all events /
           steps
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>5. testexec provides test result</b><br>in database
           &amp; file-system
         </p>
@@ -264,11 +262,11 @@
 
       <section>
         <h2>start &amp; test AUT - workflow</h2>
-        <p>
+        <p class="fragment roll-in">
           <b>highly customizable</b><br> 35+ parameters
         </p>
         <br>
-        <p>
+        <p class="fragment roll-in">
           <b>default layout / test execution</b><br> Jubula-CI <a
             href="http://github.com/MarkusTiede/jubula-ci"> ANT
             scripts</a><br> dbURL, project name, AUT-name, test result
@@ -276,33 +274,37 @@
         </p>
 
         <br>
-        <p>
+        <p class="fragment roll-in">
           <b>naming conventions</b><br> <small>AUT-configuration:
             ci.${os.arch}.${os.name}</small><br> <small>Test Suite
             names: ${AUT-name}-FULLTEST</small>
         </p>
         <br>
-        <h3>Demo!</h3>
+        <h3 class="fragment roll-in">Demo!</h3>
       </section>
 
       <section>
         <h2>start &amp; test AUT in Hudson</h2>
-        <p>
+        <p class="fragment roll-in">
           <b>execute ANT script</b><br> cross-platform
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>use build trigger</b><br> timer (nightly execution),
           SCM change, ...
         </p>
-        <p>
+        <p class="fragment roll-in">
           <b>execute on hudson slaves</b><br>test distribution
         </p>
         <br>
-        <h3>Demo!</h3>
+        <h3 class="fragment roll-in">Demo!</h3>
       </section>
 
       <section>
         <h1>Thank you! - Q&amp;A?</h1>
+      </section>
+
+      <section>
+        <img src="2013-ec-ci-jubula-hudson/feedback.png" alt="Give Feedback!">
       </section>
     </div>
 
@@ -312,62 +314,62 @@
   <script src="lib/reveal.js/js/reveal.min.js"></script>
 
   <script>
-    // Full list of configuration options available here:
-    // https://github.com/hakimel/reveal.js#configuration
-    Reveal.initialize({
-        controls : false,
-        progress : true,
-        history : true,
-        center : true,
-        keyboard : true,
-        overview : true,
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls : false,
+				progress : true,
+				history : true,
+				center : true,
+				keyboard : true,
+				overview : true,
 
-        width : 1024,
-        height : 768,
-        maxScale : 2.50,
+				width : 1024,
+				height : 768,
+				maxScale : 2.50,
 
-        theme : Reveal.getQueryHash().theme || 'eclipse', // available themes are in /css/theme
-        transition : Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+				theme : Reveal.getQueryHash().theme || 'bredex', // available themes are in /css/theme
+				transition : Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
 
-        // Optional libraries used to extend on reveal.js
-        dependencies : [ {
-            src : 'lib/reveal.js/lib/js/classList.js',
-            condition : function() {
-                return !document.body.classList;
-            }
-        }, {
-            src : 'lib/reveal.js/plugin/markdown/showdown.js',
-            condition : function() {
-                return !!document.querySelector('[data-markdown]');
-            }
-        }, {
-            src : 'lib/reveal.js/plugin/markdown/markdown.js',
-            condition : function() {
-                return !!document.querySelector('[data-markdown]');
-            }
-        }, {
-            src : 'lib/reveal.js/plugin/highlight/highlight.js',
-            async : true,
-            callback : function() {
-                hljs.initHighlightingOnLoad();
-            }
-        }, {
-            src : 'lib/reveal.js/plugin/zoom-js/zoom.js',
-            async : true,
-            condition : function() {
-                return !!document.body.classList;
-            }
-        }, {
-            src : 'lib/reveal.js/plugin/notes/notes.js',
-            async : true,
-            condition : function() {
-                return !!document.body.classList;
-            }
-        }
-        // { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
-        ]
-    });
-</script>
+				// Optional libraries used to extend on reveal.js
+				dependencies : [ {
+					src : 'lib/reveal.js/lib/js/classList.js',
+					condition : function() {
+						return !document.body.classList;
+					}
+				}, {
+					src : 'lib/reveal.js/plugin/markdown/showdown.js',
+					condition : function() {
+						return !!document.querySelector('[data-markdown]');
+					}
+				}, {
+					src : 'lib/reveal.js/plugin/markdown/markdown.js',
+					condition : function() {
+						return !!document.querySelector('[data-markdown]');
+					}
+				}, {
+					src : 'lib/reveal.js/plugin/highlight/highlight.js',
+					async : true,
+					callback : function() {
+						hljs.initHighlightingOnLoad();
+					}
+				}, {
+					src : 'lib/reveal.js/plugin/zoom-js/zoom.js',
+					async : true,
+					condition : function() {
+						return !!document.body.classList;
+					}
+				}, {
+					src : 'lib/reveal.js/plugin/notes/notes.js',
+					async : true,
+					condition : function() {
+						return !!document.body.classList;
+					}
+				}
+				// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+		</script>
 
 </body>
 </html>
