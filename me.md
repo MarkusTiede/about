@@ -110,8 +110,10 @@ Begin by looking at the agile development process to determine the requirements 
 
 ### p.2013
 
-#### `de` Automatisiertes Testen im mobilen Umfeld - Der Umstieg aus der Desktop-Welt
+#### `de` Tip, Tap, Test: Automatisierte Tests im mobilen Umfeld – der Umstieg aus der Desktopwelt
  - [Eclipse Magazin][p.2013.em]
+
+Im privaten Bereich ist der mobile Zugang zu Daten und Diensten schon alltäglich – im Arbeitsumfeld noch nicht überall. Aber gerade dort kann der direkte Zugang zu aktuellen Daten und Diensten enorm vorteilhaft sein. Für den Kunden sowie für den Dienstleister ist also ein Umdenken erforderlich – insbesondere beim Thema Testen. Welche Besonderheiten gibt es beim automatisierten Testen? Und mit welchen Techniken und Technologien lässt sich erfolgreich Qualitätssicherung betreiben?
 
 ### p.2012
 
@@ -175,7 +177,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [t.2009.el.slides]: http://www.eclipse.org/community/training/webinars/091201_CrossPlatform_Webinar.pdf
 [t.stpcon]: http://www.stpcon.com
 
-[p.2013.em]: http://it-republik.de/jaxenter/eclipse-magazin-ausgaben/
+[p.2013.em]: http://it-republik.de/jaxenter/eclipse-magazin-ausgaben/Eclipse-%26-ALM-000543.html
 [p.2012.jx]: http://it-republik.de/jaxenter/artikel/Open-Sourcing-%26-Release-Engineering-@-Eclipse.org-4748.html
 [p.2012.em]: http://www.pressekatalog.de/inhalt/eclipse+magazin-00001_2012_2012199.pdf
 [p.2010.te]: http://www.bredex.de/web/tl_files/BredexDateien/whitepapers/testingexperience01_10_Imrie_Tiede.pdf
