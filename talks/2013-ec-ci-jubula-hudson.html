@@ -90,21 +90,12 @@
       </section>
 
       <section>
-        <h2>Why automate UI tests?</h2>
+        <h2>Why automate UI tests &amp; <br> continuous integrate?</h2>
         <p class="fragment roll-in">
-          <b>Why not?</b> <br> manual user interface tests are...
-        </p>
-        <p class="fragment roll-in">
-          <b>slow</b> <br> ± 2-3 steps/min vs. ± 180 steps/min
-        </p>
-        <p class="fragment roll-in">
-          <b>expensive</b> <br> time consuming &amp; recurring
-        </p>
-        <p class="fragment roll-in">
-          <b>error-prone</b> <br> boring task
-        </p>
-        <p class="fragment roll-in">
-          <b>deferred</b> <br> no regression
+          <!-- Image taken from: http://www.gulfstreamshadecovers.com/assets/images/feature-safety-net1.jpg -->
+          <img src="2013-ec-ci-jubula-hudson/safetyNet.jpg"
+            alt="safety net"><br>
+          <b>build safety net for AUT</b>
         </p>
       </section>
 
@@ -119,24 +110,6 @@
       </section>
 
       <section>
-        <h2>Why continuous testing?</h2>
-        <p class="fragment roll-in">
-          <b>multiply</b> the potential of automated task<br> run
-          tests as often as possible
-        </p>
-        <p class="fragment roll-in">
-          prompt <b>feedback</b> <br> fail fast!
-        </p>
-        <p class="fragment roll-in">
-          constant <b>quality knowledge</b>
-        </p>
-        <p class="fragment roll-in">
-          build <b>safety net</b> <br> regression runs, e.g.
-          nightly
-        </p>
-      </section>
-
-      <section>
         <h2>That's Hudson!</h2>
         <img src="2013-ec-ci-jubula-hudson/hudson.png" alt="Hudson Logo">
         <p>
@@ -147,11 +120,21 @@
 
       <section>
         <h2>Hudson features</h2>
-        <p><b>(super)-easy</b> setup</p>
-        <p><b>central "dashboard"</b> web-app</p>
-        <p>job <b>scheduling</b></p>
-        <p>job <b>distribution</b></p>
-        <p><b>result processing</b></p>
+        <p>
+          <b>(super)-easy</b> setup
+        </p>
+        <p>
+          <b>central "dashboard"</b> web-app
+        </p>
+        <p>
+          job <b>scheduling</b>
+        </p>
+        <p>
+          job <b>distribution</b>
+        </p>
+        <p>
+          <b>result processing</b>
+        </p>
       </section>
 
       <section>
@@ -170,9 +153,6 @@
         </p>
         <p>
           ANT <a href="http://ant.apache.org"> 1.8.2</a>
-        </p>
-        <p>
-          Java <a href="http://www.java.com"> 1.5+</a>
         </p>
       </section>
 
@@ -193,29 +173,7 @@
           <b>process &amp; analyze results</b> <br> reaction is
           necessary
         </p>
-        <h1 class="fragment roll-in"> &infin;</h1>
-      </section>
-
-
-      <section>
-        <h2>start &amp; test AUT - prerequisites</h2>
-        <p class="fragment roll-in">
-          <b>(re)-start test machine</b><br> best practice: use
-          "cleanly" started OS
-        </p>
-        <p class="fragment roll-in">
-          <b>enable auto-login</b><br> we perform "real" clicks
-        </p>
-        <p class="fragment roll-in">
-          <b>disable auto-updates &amp; screensaver</b> for OS and Apps<br>
-          otherwise non-deterministic behavior
-        </p>
-        <p class="fragment roll-in">
-          <b>start <a
-            href="http://wiki.hudson-ci.org/display/HUDSON/Distributed+builds">Hudson
-              slave</a> on test machine
-          </b> <br>
-        </p>
+        <h1 class="fragment roll-in">&infin;</h1>
       </section>
 
       <section>
@@ -304,7 +262,8 @@
       </section>
 
       <section>
-        <img src="2013-ec-ci-jubula-hudson/feedback.png" alt="Give Feedback!">
+        <img src="2013-ec-ci-jubula-hudson/feedback.png"
+          alt="Give Feedback!">
       </section>
     </div>
 
