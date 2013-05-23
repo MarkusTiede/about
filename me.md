@@ -17,7 +17,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 ### t.2013
 
-#### `de` UI-Testautomatisierung für mobile Plattformen – Herausforderung und Chance zugleich! 
+#### `de` UI-Testautomatisierung für mobile Plattformen
  - [DWX - Mobile Developer Conference][t.2013.dwx]
 
 Die BREDEX GmbH hat als Open-Source Testtoolhersteller für Desktop-Applikationen jahrelang ausgiebig Erfahrungen im Bereich der User-Interface Testautomatisierung sammeln können. Dabei haben sich eine Vielzahl von Konzepten als tragfähige Grundlage für die Qualitätssicherung von Anwendungen bewiesen, um eine nachhaltige und kosteneffiziente Automatisierung betreiben zu können. Zu diesen Konzepten zählen
@@ -29,7 +29,8 @@ Die BREDEX GmbH hat als Open-Source Testtoolhersteller für Desktop-Applikatione
 Dieser Vortrag zeigt am konkreten Beispiel „iOS“ die Probleme und Schwierigkeiten des Transfers eben diese Konzepte in die Welt der mobilen Plattformen zu übertragen und demonstriert zugleich das große Potential der technologieübergreifenden Testautomatisierung auf mobiler Hard- und Software.
 
 #### `de` UI-Testautomatisierung für mobile Plattformen – Herausforderung und Chance zugleich!
- - [iqnite Deutschland][t.2013.iq]
+ - [iqnite Deutschland][t.2013.iq.de]
+ - [iqnite Schweiz][t.2013.iq.ch]
 
 Dieser Vortrag zeigt am konkreten Beispiel iOS und Windows 8 die Probleme und Schwierigkeiten, die Konzepte der Desktopwelt in die der mobilen Plattformen zu übertragen und demonstriert zugleich das große Potential der technologieübergreifenden Testautomatisierung auf mobiler Hard- und Software. Es werden dabei sowohl die grundlegenden Technologien und Konzepte, als auch konkrete Erfahrungen der mobilen cross-plattform „App“-entwicklung und -testautomatisierung erläutert. Belegt und unterstrichen wird dies durch eine Reihe von Demonstrationen.
 
@@ -166,8 +167,9 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [Jubula]: http://www.eclipse.org/jubula
 
 [t.2013.dwx]: http://www.developer-week.de/Programm/Veranstaltung/(event)/11089
+[t.2013.iq.de]: http://www.iqnite-conferences.com/de/programm/25april.aspx
+[t.2013.iq.ch]: http://www.iqnite-conferences.com/ch/
 [t.2013.ec]: http://www.eclipsecon.org/2013/sessions/continuous-testing-jubula-–-where-rubber-meets-road 
-[t.2013.iq]: http://www.iqnite-conferences.com/de/programm/25april.aspx
 [t.2012.ece]: http://www.eclipsecon.org/europe2012/sessions/ui-testing-jubula-wacky-widgets
 [t.2012.ece.slides]: http://www.eclipsecon.org/europe2012/sites/eclipsecon.org.europe2012/files/UI%20testing%20with%20Jubula%20-%20wacky%20widgets.pdf
 [t.2011.ece]: http://www.eclipsecon.org/europe2011/sessions/starting-eclipse-project-first-90-days…-and-year-follows
