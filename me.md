@@ -77,7 +77,7 @@ This talk looks at the steps for hosting your project at Eclipse from various as
 #### `de` Automatisiertes Testen mit Jubula
  - [SEACON][t.2010.seacon]
 
-Ab März werden Kernteile von GUIdancer als Open Source Projekt in der Eclipse Foundation veröffentlicht. Das Jubula Functional Testing Tool Projekt ermöglicht die Erstellung und Ausführung automatisierter Akzeptanztests anhand von den bekannten Best-Practices aus der Softwareentwicklung (Lesbarkeit, Modularität, Wartbarkeit) ohne jeglichen Programmieraufwand. Das Verfahren des Keyword-Driven Testings erlaubt außerdem eine frühzeitige Testfallerstellung, welches die Einbindung in agilen Prozessen unterstützt. In diesem Talk stellen wir das Jubula Projekt vor und geben eine Vorführung von dem Tools.
+Ab März werden Kernteile von GUIdancer als Open Source Projekt in der Eclipse Foundation veröffentlicht. Das Jubula Functional Testing Tool Projekt ermöglicht die Erstellung und Ausführung automatisierter Akzeptanztests anhand von den bekannten Best-Practices aus der Softwareentwicklung (Lesbarkeit, Modularität, Wartbarkeit) ohne jeglichen Programmieraufwand. Das Verfahren des Keyword-Driven Testings erlaubt außerdem eine frühzeitige Testfallerstellung, welches die Einbindung in agilen Prozessen unterstützt. In diesem Talk stellen wir das Jubula Projekt vor und geben eine Vorführung des Tools.
 
 ### t.2009
 
