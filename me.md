@@ -5,6 +5,8 @@
 > Softwaredeveloper
 ```
 
+![An official picture of me - Markus Tiede](me.jpg "Markus Tiede")
+
 ## bio
 
 ### en
