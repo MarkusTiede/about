@@ -223,6 +223,17 @@
       </section>
 
       <section>
+        <h2>2. Das Tool - die Technik: Unschärfe</h2>
+        <img width="50%"
+          src="2013-dwx-mobile-testing/konzept-mapping-04.png"
+          alt="UI Widget Mapping">
+        <p>
+          <b>Heuristische Analyse zur Laufzeit - Levenshtein-Distanz</b><br>
+          Name (60%) Hierarchie (30%) Kontext (10%)
+        </p>
+      </section>
+
+      <section>
         <h2>2. Das Tool - die Technik: iOS</h2>
         <ul>
           <li><b>Driver Robot API: KIF</b> <br>Keep it
@@ -235,6 +246,22 @@
             gestures<br>Cross-Plattform mobile Frameworks / IDEs:
             Xamarin Mono</li>
         </ul>
+      </section>
+
+      <section>
+        <h2>2. Das Tool - die Technik: iOS</h2>
+        <pre><code contenteditable>(void)applicationDidFinishLaunching[withOptions]
+...
+#if RUN_FUNCTIONAL_TESTS
+    // use static library "librc.mobile.ios.nativ.a"
+    [UIRemoteControl attach];
+    // multiple AUTs on the same iOS device
+    // [UIRemoteControl attach:4711];
+#endif
+...</code></pre>
+        <p>
+          Other Linker Flags
+          <pre><code>-ObjC, -all_load</code></pre></p>
       </section>
 
       <section>
