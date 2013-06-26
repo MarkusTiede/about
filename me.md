@@ -26,6 +26,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 #### `de` UI-Testautomatisierung für mobile Plattformen
  - [DWX - Mobile Developer Conference][t.2013.dwx]
+ - [PDF Slides][t.2013.dwx.slides]
 
 Die BREDEX GmbH hat als Open-Source Testtoolhersteller für Desktop-Applikationen jahrelang ausgiebig Erfahrungen im Bereich der User-Interface Testautomatisierung sammeln können. Dabei haben sich eine Vielzahl von Konzepten als tragfähige Grundlage für die Qualitätssicherung von Anwendungen bewiesen, um eine nachhaltige und kosteneffiziente Automatisierung betreiben zu können. Zu diesen Konzepten zählen
 
@@ -174,6 +175,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [Jubula]: http://www.eclipse.org/jubula
 
 [t.2013.dwx]: http://www.developer-week.de/Programm/Veranstaltung/(event)/11089
+[t.2013.dwx.slides]: talks/2013-dwx-mobile-testing.pdf?raw=true
 [t.2013.iq.de]: http://www.iqnite-conferences.com/de/programm/25april.aspx
 [t.2013.iq.ch]: http://www.iqnite-conferences.com/ch/
 [t.2013.ec]: http://www.eclipsecon.org/2013/sessions/continuous-testing-jubula-–-where-rubber-meets-road 
