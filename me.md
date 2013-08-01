@@ -115,6 +115,12 @@ Participants will learn to consider and deal with any variations between platfor
 This class uses insights and project experience from agile development processes to suggest requirements and solutions for automated agile test design.
 Begin by looking at the agile development process to determine the requirements for agile testing. Then hear practical solutions to achieving these goals within a project based on real industrial project experience with automated agile testing. Aimed at testers and project managers, the class offers a set of practices that enable tests to grow alongside product development, ensuring that both new and old functions are tested at each release.
 
+#### `en` Automated GUI Testing - common misbeliefs
+ - [STPCon][t.stpcon]
+ - [PDF Slides][t.2008.stpcon.slides]
+
+This 5-minute lightning talk emphasised to learn to spot the spam when thinking about UI test automation tools.
+
 ## publications
 
 ### p.2013
@@ -187,6 +193,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [t.2009.el]: http://live.eclipse.org/node/834
 [t.2009.el.slides]: http://www.eclipse.org/community/training/webinars/091201_CrossPlatform_Webinar.pdf
 [t.stpcon]: http://www.stpcon.com
+[t.2008.stpcon.slides]: talks/2008-stpcon-lt.pdf?raw=true
 
 [p.2013.em]: http://it-republik.de/jaxenter/eclipse-magazin-ausgaben/Eclipse-%26-ALM-000543.html
 [p.2012.jx]: http://it-republik.de/jaxenter/artikel/Open-Sourcing-%26-Release-Engineering-@-Eclipse.org-4748.html
