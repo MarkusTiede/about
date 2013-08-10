@@ -119,7 +119,7 @@ Begin by looking at the agile development process to determine the requirements 
  - [STPCon][t.stpcon]
  - [PDF Slides][t.2008.stpcon.slides]
 
-This 5-minute lightning talk emphasised to learn to spot the spam when thinking about UI test automation tools.
+This 5-minute lightning talk emphasised spotting the spam when thinking about UI test automation tools.
 
 ## publications
 
@@ -131,7 +131,7 @@ This 5-minute lightning talk emphasised to learn to spot the spam when thinking 
 #### `de` Tip, Tap, Test: Automatisierte Tests im mobilen Umfeld – der Umstieg aus der Desktopwelt
  - [Eclipse Magazin][p.2013.em] - 3.2013
 
-Im privaten Bereich ist der mobile Zugang zu Daten und Diensten schon alltäglich – im Arbeitsumfeld noch nicht überall. Aber gerade dort kann der direkte Zugang zu aktuellen Daten und Diensten enorm vorteilhaft sein. Für den Kunden sowie für den Dienstleister ist also ein Umdenken erforderlich – insbesondere beim Thema Testen. Welche Besonderheiten gibt es beim automatisierten Testen? Und mit welchen Techniken und Technologien lässt sich erfolgreich Qualitätssicherung betreiben?
+Im privaten Bereich ist der mobile Zugang zu Daten und Diensten schon alltäglich – im Arbeitsumfeld noch nicht überall. Aber gerade dort kann der direkte Zugang zu aktuellen Daten und Diensten enorm vorteilhaft sein. Für den Kunden sowie für den Dienstleister ist also ein Umdenken erforderlich – insbesondere beim Thema Testen. Welche Besonderheiten gibt es beim automatisierten Testen? Und mit welchen Techniken und Technologien lässt sich erfolgreich Qualitätssicherung betreiben? [...]
 
 ### p.2012
 
