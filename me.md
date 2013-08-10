@@ -125,6 +125,9 @@ This 5-minute lightning talk emphasised to learn to spot the spam when thinking 
 
 ### p.2013
 
+#### `de` Automatische Akzeptanztests für mobile Anwendungen - Überlegungen zur Teststrategie
+ - [testing experience DE][p.2013.te] - Ausgabe #3
+
 #### `de` Tip, Tap, Test: Automatisierte Tests im mobilen Umfeld – der Umstieg aus der Desktopwelt
  - [Eclipse Magazin][p.2013.em]
 
@@ -195,6 +198,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [t.stpcon]: http://www.stpcon.com
 [t.2008.stpcon.slides]: talks/2008-stpcon-lt.pdf?raw=true
 
+[p.2013.te]: http://www.testing-experience.de
 [p.2013.em]: http://it-republik.de/jaxenter/eclipse-magazin-ausgaben/Eclipse-%26-ALM-000543.html
 [p.2012.jx]: http://it-republik.de/jaxenter/artikel/Open-Sourcing-%26-Release-Engineering-@-Eclipse.org-4748.html
 [p.2012.em]: http://www.pressekatalog.de/inhalt/eclipse+magazin-00001_2012_2012199.pdf
