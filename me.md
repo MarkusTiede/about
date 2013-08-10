@@ -129,7 +129,7 @@ This 5-minute lightning talk emphasised to learn to spot the spam when thinking 
  - [testing experience DE][p.2013.te] - Ausgabe #3
 
 #### `de` Tip, Tap, Test: Automatisierte Tests im mobilen Umfeld – der Umstieg aus der Desktopwelt
- - [Eclipse Magazin][p.2013.em]
+ - [Eclipse Magazin][p.2013.em] - 3.2013
 
 Im privaten Bereich ist der mobile Zugang zu Daten und Diensten schon alltäglich – im Arbeitsumfeld noch nicht überall. Aber gerade dort kann der direkte Zugang zu aktuellen Daten und Diensten enorm vorteilhaft sein. Für den Kunden sowie für den Dienstleister ist also ein Umdenken erforderlich – insbesondere beim Thema Testen. Welche Besonderheiten gibt es beim automatisierten Testen? Und mit welchen Techniken und Technologien lässt sich erfolgreich Qualitätssicherung betreiben?
 
@@ -137,7 +137,7 @@ Im privaten Bereich ist der mobile Zugang zu Daten und Diensten schon alltäglic
 
 #### `de` Open Sourcing and Release Engineering @ Eclipse.org - The Making of an Eclipse Project 
  - [JAXenter][p.2012.jx]
- - [Eclipse Magazin][p.2012.em]
+ - [Eclipse Magazin][p.2012.em] - 1.2012
 
 Was steckt eigentlich hinter einem Eclipse-Projekt? Welche Entscheidungen sind zu treffen, welche Bedingungen zu erfüllen, wie läuft das alles? Das Eclipse-Jubula-Team berichtet in loser Folge über seine Erfahrung beim Open Sourcing von Jubula. Dabei geht es nicht nur um Technik, sondern auch um Strategien, Abläufe und schwierige Entscheidungen. [...]
 
