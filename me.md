@@ -24,6 +24,35 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 ### t.2013
 
+#### `en` Jubula Tutorial – Specify, execute, analyze
+ - [EclipseCon Europe][t.2013.ece.tutorial]
+
+The world needs more acceptance tests. They tell us whether or not the software being developed does what the customer ordered and give us a great opportunity to amend misunderstandings and problems before a product is released. Doing this kind of testing manually is repetitive, error-prone, boring, and also hopeless – there is no way that manual acceptance testing can keep up with development, especially if you aim to have continuous feedback about quality.
+The Eclipse Jubula Project for functional testing lets you automate these kinds of tests, and it does so without requiring you to write program code, and also without having to resort to recording user actions.
+
+“How does that work?” we hear you ask. How are tests specified to be intelligent and robust? What happens if changes occur? And how do tests fit into the development process? All excellent questions. [...]
+
+#### `en` Testing mobile applications with Jubula
+ - [EclipseCon Europe][t.2013.ece.mobile]
+
+After multiple years of experience with testing desktop toolkits, the GUIdancer / Jubula team made their first foray into the world of mobile testing with version 7.0 of GUIdancer. Since the feature-merge in the standalone versions of Jubula and GUIdancer, iOS testing is now available to everyone, and we’ve already started work on other mobile toolkits.
+
+This talk looks at mobile testing both from a technical perspective as well as from the view of a tester of mobile applications. We cover points such as:
+
+- Transferable knowledge from desktop testing – test design and component interaction
+- New aspects involved with mobile testing
+ - increased variety and diversity (platforms, devices, versions)
+ - new functions to consider (external applications, GPS, battery)
+ - new interactions (gestures)
+- The interesting challenge of cross-platform applications
+- Setup and environment considerations for mobile testing
+ - Starting and connecting to applications
+ - Communication with an application under test
+ - Continuous integration
+- Specialties of mobile robots
+
+The aim of the talk is to present the support in Jubula and GUIdancer for mobile testing, as well as to provide background information on mobile testing in general. Alongside the theory, we’ll also show some demonstrations.
+
 #### `de` UI-Testautomatisierung für mobile Plattformen
  - [DWX - Mobile Developer Conference][t.2013.dwx]
  - [PDF Slides][t.2013.dwx.slides]
@@ -183,6 +212,8 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
 
+[t.2013.ece.tutorial]: http://www.eclipsecon.org/europe2013/jubula-tutorial-–-specify-execute-analyze
+[t.2013.ece.mobile]: http://www.eclipsecon.org/europe2013/testing-mobile-applications-jubula
 [t.2013.dwx]: http://www.developer-week.de/Programm/Veranstaltung/(event)/11089
 [t.2013.dwx.slides]: talks/2013-dwx-mobile-testing.pdf?raw=true
 [t.2013.iq.de]: http://www.iqnite-conferences.com/de/programm/25april.aspx
