@@ -207,7 +207,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 
 
 ==========================
-[bredex]: http://www.bredexsw.com
+[bredex]: http://www.bredex.de
 [ostfalia-en]: http://www.ostfalia.de/cms/en/index.html
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
