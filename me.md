@@ -20,7 +20,7 @@ Markus is a software developer and tester at [BREDEX GmbH][bredex]. His main are
 ### de
 Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX GmbH][bredex] mit den Schwerpunkten Eclipse RCP-Entwicklung und Entwurf und Entwicklung automatischer Tests und gehört zum **GUI**dancer Entwicklungsteam. Markus ist darüber hinaus Eclipse Committer im UI-Testautomatisierungsprojekt [Jubula][], Package Maintainer für „Eclipse for Testers“ und hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de].
 
-## talks
+## talks / Vorträge
 
 ### t.2013
 
@@ -150,7 +150,7 @@ Begin by looking at the agile development process to determine the requirements 
 
 This 5-minute lightning talk emphasised spotting the spam when thinking about UI test automation tools.
 
-## publications
+## publications / Veröffentlichungen
 
 ### p.2013
 
@@ -197,7 +197,7 @@ ISBN-13: 978-3639239331
 ```
 Dieses Buch beschäftigt sich mit dem Thema, aus Modellgraphen, die Informationen zur Funktionsweise eines Systems beinhalten, Testabläufe zu generieren. Das Buch erläutert dabei das zugrundeliegende Datenmodell der Modelle und zeigt, wie auf dieser Basis Testabläufe erstellt und gepflegt werden können. Auch die zur Umsetzung verwendeten Frameworks, wie das "Eclipse Modeling Framework" (EMF), das "Graphical Modeling Framework" (GMF) und die "Eclipse RCP" werden detailliert vorgestellt. Softwareergonomische Aspekte und Anwendungsbeispiele der Software schließen das Buch ab.
 
-## other references
+## other references / weitere Referenzen
 
 ```
 XING:     http://www.xing.com/profile/Markus_Tiede
