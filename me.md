@@ -31,6 +31,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 | 2009 | [...](#t2009) |               |
 | 2008 | [...](#t2008) |               |
 
+ - [other qualifications / weitere Qualifikationen](#other-qualifications--weitere-qualifikationen)
  - [other references / weitere Referenzen](#other-references--weitere-referenzen)
 
 ## talks / Vorträge
@@ -209,6 +210,16 @@ ISBN-10: 3639239334
 ISBN-13: 978-3639239331
 ```
 Dieses Buch beschäftigt sich mit dem Thema, aus Modellgraphen, die Informationen zur Funktionsweise eines Systems beinhalten, Testabläufe zu generieren. Das Buch erläutert dabei das zugrundeliegende Datenmodell der Modelle und zeigt, wie auf dieser Basis Testabläufe erstellt und gepflegt werden können. Auch die zur Umsetzung verwendeten Frameworks, wie das "Eclipse Modeling Framework" (EMF), das "Graphical Modeling Framework" (GMF) und die "Eclipse RCP" werden detailliert vorgestellt. Softwareergonomische Aspekte und Anwendungsbeispiele der Software schließen das Buch ab.
+
+## other qualifications / weitere Qualifikationen
+
+### 2013: Certified ScrumMaster
+
+Erfolgreiche Zertifizierung zum [CSM (Certified ScrumMaster)](http://www.scrumalliance.org/community/profile/mtiede) der [ScrumAlliance](http://www.scrumalliance.org).
+
+### 2008: IHK Ausbilderschein
+
+Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](http://de.wikipedia.org/wiki/Ausbilder#Ausbildung_in_Deutschland) der [IHK Braunschweig](http://www.braunschweig.ihk.de).
 
 ## other references / weitere Referenzen
 
