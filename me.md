@@ -20,6 +20,19 @@ Markus is a software developer and tester at [BREDEX GmbH][bredex]. His main are
 ### de
 Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX GmbH][bredex] mit den Schwerpunkten Eclipse RCP-Entwicklung und Entwurf und Entwicklung automatischer Tests und gehört zum **GUI**dancer Entwicklungsteam. Markus ist darüber hinaus Eclipse Committer im UI-Testautomatisierungsprojekt [Jubula][], Package Maintainer für „Eclipse for Testers“ und hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de].
 
+## ToC / Inhaltsverzeichnis
+
+|      | [talks / Vorträge](#talks--vorträge) | [publications / Veröffentlichungen](#publications--veröffentlichungen)  |
+| ---- | -------------:| -------------:|
+| 2013 | [...](#t2013) | [...](#p2013) |
+| 2012 | [...](#t2012) | [...](#p2012) |
+| 2011 | [...](#t2011) |               |
+| 2010 | [...](#t2010) | [...](#p2010) |
+| 2009 | [...](#t2009) |               |
+| 2008 | [...](#t2008) |               |
+
+ - [other references / weitere Referenzen](#other-references--weitere-referenzen)
+
 ## talks / Vorträge
 
 ### t.2013
