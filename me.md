@@ -213,9 +213,12 @@ Dieses Buch beschäftigt sich mit dem Thema, aus Modellgraphen, die Informatione
 
 ## other qualifications / weitere Qualifikationen
 
-### 2013: Certified ScrumMaster
+### 2013: Certified ScrumMaster®
 
-Erfolgreiche Zertifizierung zum [CSM (Certified ScrumMaster)](http://www.scrumalliance.org/community/profile/mtiede) der [ScrumAlliance](http://www.scrumalliance.org).
+Erfolgreiche Zertifizierung zum [CSM¹](http://www.scrumalliance.org/community/profile/mtiede).
+
+---
+¹ Certified ScrumMaster is a certification mark of [Scrum Alliance, Inc](http://www.scrumalliance.org).  Any unauthorized use is strictly prohibited.
 
 ### 2008: IHK Ausbilderschein
 
