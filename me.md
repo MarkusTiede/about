@@ -23,20 +23,20 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 ## ToC / Inhaltsverzeichnis
 
 |      | [talks / Vorträge](#talks--vorträge) | [publications / Veröffentlichungen](#publications--veröffentlichungen)  |
-| ---- | -------------:| -------------:|
-| 2013 | [...](#t2013) | [...](#p2013) |
-| 2012 | [...](#t2012) | [...](#p2012) |
-| 2011 | [...](#t2011) |               |
-| 2010 | [...](#t2010) | [...](#p2010) |
-| 2009 | [...](#t2009) |               |
-| 2008 | [...](#t2008) |               |
+| ---- | ------------------:| -------------------------:|
+| 2013 | [...](#talks-2013) | [...](#publications-2013) |
+| 2012 | [...](#talks-2012) | [...](#publications-2012) |
+| 2011 | [...](#talks-2011) |                           |
+| 2010 | [...](#talks-2010) | [...](#publications-2010) |
+| 2009 | [...](#talks-2009) |                           |
+| 2008 | [...](#talks-2008) |                           |
 
  - [other qualifications / weitere Qualifikationen](#other-qualifications--weitere-qualifikationen)
  - [other references / weitere Referenzen](#other-references--weitere-referenzen)
 
 ## talks / Vorträge
 
-### t.2013
+### talks 2013
 
 #### `en` Jubula Tutorial – Specify, execute, analyze
  - [EclipseCon Europe][t.2013.ece.tutorial]
@@ -101,7 +101,7 @@ After starting with a super-quick overview of Jubula's concepts and architecture
 
 This talk is designed to give a detailed technical road-map for successful continuous testing with Jubula.
 
-### t.2012
+### talks 2012
 
 #### `en` UI testing with Jubula - wacky widgets
  - [EclipseCon Europe][t.2012.ece]
@@ -114,7 +114,7 @@ You may well ask yourself what that means for UI testing ...
 
 In this session Markus will give a brief introduction to Jubula and its toolkit concepts, as well as demonstrate how easy it is to extend Jubula to support custom UI widgets.
 
-### t.2011
+### talks 2011
 
 #### `en` Starting an Eclipse Project: The first 90 days… and the year that follows
  - [EclipseCon Europe][t.2011.ece]
@@ -123,14 +123,14 @@ What are you getting yourself into by deciding to host your project at Eclipse? 
 
 This talk looks at the steps for hosting your project at Eclipse from various aspects, and through two sets of eyes. Wayne Beaton combines his knowledge of the Eclipse and IP processes with the recent experiences of Markus Tiede, a committer on the new Jubula project. Together, they navigate through the “why” of open sourcing software, the “how” it is done at Eclipse, the “what” else to expect, and the “who” of the project – the community.
 
-### t.2010
+### talks 2010
 
 #### `de` Automatisiertes Testen mit Jubula
  - [SEACON][t.2010.seacon]
 
 Ab März werden Kernteile von GUIdancer als Open Source Projekt in der Eclipse Foundation veröffentlicht. Das Jubula Functional Testing Tool Projekt ermöglicht die Erstellung und Ausführung automatisierter Akzeptanztests anhand von den bekannten Best-Practices aus der Softwareentwicklung (Lesbarkeit, Modularität, Wartbarkeit) ohne jeglichen Programmieraufwand. Das Verfahren des Keyword-Driven Testings erlaubt außerdem eine frühzeitige Testfallerstellung, welches die Einbindung in agilen Prozessen unterstützt. In diesem Talk stellen wir das Jubula Projekt vor und geben eine Vorführung des Tools.
 
-### t.2009
+### talks 2009
 
 #### `en` Write Once, Test Everywhere? Cross Platform Development and Testing with Eclipse
  - [Eclipse Summit Europe][t.2009.ese]
@@ -150,7 +150,7 @@ Some of the points raised include:
 
 Participants will learn to consider and deal with any variations between platforms to make cross-platform projects a success.
 
-### t.2008
+### talks 2008
 
 #### `en` Best Practices for the Creation of Automated Agile GUI Tests 
  - [STPCon][t.stpcon]
@@ -166,7 +166,7 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 ## publications / Veröffentlichungen
 
-### p.2013
+### publications 2013
 
 #### `de` Automatische Akzeptanztests für mobile Anwendungen - Überlegungen zur Teststrategie
  - [testing experience DE][p.2013.te] - Ausgabe #3
@@ -176,7 +176,7 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 Im privaten Bereich ist der mobile Zugang zu Daten und Diensten schon alltäglich – im Arbeitsumfeld noch nicht überall. Aber gerade dort kann der direkte Zugang zu aktuellen Daten und Diensten enorm vorteilhaft sein. Für den Kunden sowie für den Dienstleister ist also ein Umdenken erforderlich – insbesondere beim Thema Testen. Welche Besonderheiten gibt es beim automatisierten Testen? Und mit welchen Techniken und Technologien lässt sich erfolgreich Qualitätssicherung betreiben? [...]
 
-### p.2012
+### publications 2012
 
 #### `de` Open Sourcing and Release Engineering @ Eclipse.org - The Making of an Eclipse Project 
  - [JAXenter][p.2012.jx]
@@ -184,7 +184,7 @@ Im privaten Bereich ist der mobile Zugang zu Daten und Diensten schon alltäglic
 
 Was steckt eigentlich hinter einem Eclipse-Projekt? Welche Entscheidungen sind zu treffen, welche Bedingungen zu erfüllen, wie läuft das alles? Das Eclipse-Jubula-Team berichtet in loser Folge über seine Erfahrung beim Open Sourcing von Jubula. Dabei geht es nicht nur um Technik, sondern auch um Strategien, Abläufe und schwierige Entscheidungen. [...]
 
-### p.2010
+### publications 2010
 
 #### `de` Refaktorisieren von Tests - Erfahrungen aus der schlüsselwortgetriebenen Testentwicklung
  - [OBJEKTspektrum][p.2010.os] - Ausgabe 04/2010
