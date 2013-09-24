@@ -218,6 +218,8 @@ Dieses Buch beschäftigt sich mit dem Thema, aus Modellgraphen, die Informatione
 Erfolgreiche Zertifizierung zum [CSM¹](http://www.scrumalliance.org/community/profile/mtiede).
 
 ---
+![My CSM certificate.](documents/cert-csm.png "ScrumMaster® certificate")
+---
 ¹ Certified ScrumMaster is a certification mark of [Scrum Alliance, Inc](http://www.scrumalliance.org).  Any unauthorized use is strictly prohibited.
 
 ### 2008: IHK Ausbilderschein
