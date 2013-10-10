@@ -222,9 +222,13 @@ Erfolgreiche Zertifizierung zum [CSM¹](http://www.scrumalliance.org/community/p
 ---
 ¹ Certified ScrumMaster is a certification mark of [Scrum Alliance, Inc](http://www.scrumalliance.org).  Any unauthorized use is strictly prohibited.
 
-### 2008: IHK Ausbilderschein
+### 2009: IHK Ausbilderschein
 
 Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](http://de.wikipedia.org/wiki/Ausbilder#Ausbildung_in_Deutschland) der [IHK Braunschweig](http://www.braunschweig.ihk.de).
+
+---
+![My AEVO certificate.](documents/cert-aevo.jpg "AEVO certificate")
+---
 
 ## other references / weitere Referenzen
 
