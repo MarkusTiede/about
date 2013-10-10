@@ -38,6 +38,41 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 ### talks 2013
 
+#### `en` To infinity and beyond – making Jubula surpass its limits
+ - [EclipseCon Europe][t.2013.ece.extend]
+
+As the Jubula team, we’re generally quite proud of the out-of-the-box support we have. However, we’ve been involved in enough projects to know that there are sometimes boundaries that are hard to solve when thinking about realizing them with Jubula, for example:
+
+- working with custom test data and data structures
+- robust UI widget recognition
+- remote controlling custom UI controls
+- addressing GEF figures
+- getting individual test results
+- ...
+
+Even if what you’re looking for isn’t in the tool, there are many ways in which you can extend Jubula to go beyond its limits:
+
+- Integrated Testing Environment – extending the ITE
+ - Adding test data functions
+ - Writing your own BIRT reports
+ - Providing your own unbound_modules_*
+ - Defining your own test style rules
+ - Installing your own plugins e.g. Mylyn connectors
+ - Writing your own views
+- Remote Controlling – extending the RC
+ - Improving UI-widget recognition in Swing, SWT, HTML, iOS
+ - Improving GEF testing by enhancing the identifier
+ - Supporting custom renderer solutions for Swing, SWT, iOS
+ - Adding support for custom monitoring agents
+ - Adding support for foreign keyboard layouts
+- Toolkit extensions for “wacky widgets”
+ - Adapting your widgets to our toolkit abstraction
+ - Supporting your own components, actions and toolkits
+
+In this talk Markus will give an overview of Jubula's concepts and architecture as well as many hands-on examples how to extend all these different aspects of Jubula to make it fit your specific needs.
+
+This talk is aimed at people who have a general interest in UI test automation and Jubula, as well as users who may have already faced some of the limits of test automation. We won’t be losing you in the minute details of each aspect, but we will make sure you know what’s possible and how to go about doing it.
+
 #### `en` Jubula Tutorial – Specify, execute, analyze
  - [EclipseCon Europe][t.2013.ece.tutorial]
 
@@ -245,6 +280,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
 
+[t.2013.ece.extend]: http://www.eclipsecon.org/europe2013/infinity-and-beyond-–-making-jubula-surpass-its-limits-presented-bredex
 [t.2013.ece.tutorial]: http://www.eclipsecon.org/europe2013/jubula-tutorial-–-specify-execute-analyze
 [t.2013.ece.mobile]: http://www.eclipsecon.org/europe2013/testing-mobile-applications-jubula
 [t.2013.dwx]: http://www.developer-week.de/Programm/Veranstaltung/(event)/11089
