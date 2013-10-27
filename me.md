@@ -206,6 +206,10 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 #### `de` Automatische Akzeptanztests für mobile Anwendungen - Überlegungen zur Teststrategie
  - [testing experience DE][p.2013.te] - Ausgabe #3
 
+Ob individuell entwickelte Enterprise-Apps oder Apps aus dem Store – die Meinung zu einer App wird schnell gefällt. Noch nie war es so einfach, eine Anwendung auszuprobieren und bei Nichtgefallen zu deinstallieren. Die entsprechenden öffentlichen Bewertungen oder das Feedback vom Kunden können den Ruf und das Image der App und auch der dahinter stehenden Firma schnell verbessern oder verschlechtern.
+
+Die Benutzerperspektive anhand von Akzeptanztests zu vertreten ist deshalb für mobile Anwendungen besonders wichtig. So kann man frühzeitig feststellen, ob eine App einerseits das gewünschte Verhalten besitzt und andererseits keinerlei unerwünschten Nebeneffekte bei der Bedienung auftreten. Wie für jedes Projekt muss dafür eine geeignete und angemessene Teststrategie einschließlich Testarten und -methoden, Automatisierungsgrad und Zielplattformen definiert werden. Besondere Herausforderungen lauern allerdings beim automatischen Testen mobiler Apps, die – so viel sei schon vorweg gesagt – Auswirkungen auf Ihre Teststrategie haben werden. [...]
+
 #### `de` Tip, Tap, Test: Automatisierte Tests im mobilen Umfeld – der Umstieg aus der Desktopwelt
  - [Eclipse Magazin][p.2013.em] - 3.2013
 
