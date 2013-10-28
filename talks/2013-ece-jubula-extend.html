@@ -1,0 +1,485 @@
+﻿﻿﻿﻿﻿<!doctype html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+
+<title>EclipseCon Europe 2013 - To infinity and beyond</title>
+
+<meta name="description"
+  content="To infinity and beyond – making Jubula surpass its limits">
+<meta name="author" content="Markus Tiede, BREDEX GmbH">
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style"
+  content="black-translucent" />
+
+<meta name="viewport"
+  content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<link rel="stylesheet" href="lib/reveal.js/css/reveal.css">
+<link rel="stylesheet" href="lib/reveal.js/css/theme/default.css"
+  id="theme">
+
+<!-- For syntax highlighting -->
+<link rel="stylesheet" href="lib/reveal.js/lib/css/zenburn.css">
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+	document.write('<link rel="stylesheet" href="lib/reveal.js/css/print/'
+			+ (window.location.search.match(/print-pdf/gi) ? 'pdf' : 'paper')
+			+ '.css" type="text/css" media="print">');
+</script>
+
+<!--[if lt IE 9]>
+        <script src="lib/js/html5shiv.js"></script>
+        <![endif]-->
+</head>
+
+<body>
+
+  <div class="reveal">
+
+    <div class="slides">
+
+      <section>
+        <h1>To &infin; and beyond</h1>
+        <h3>... making Jubula surpass its limits</h3>
+        <p>
+          <small>by <a href="http://www.mtiede.de">@MarkusTiede</a>
+            - <a href="http://www.bredexsw.com">BREDEX GmbH</a>
+          </small>
+        </p>
+      </section>
+
+      <section>
+        <h2>Agenda</h2>
+        <p>What's Jubula?</p>
+        <p>How &amp; where to extend it?</p>
+      </section>
+
+      <section>
+        <h2>That's Jubula!</h2>
+        <img src="2013-ec-ci-jubula-hudson/jubula.png" alt="Jubula Logo">
+        <p>
+          UI automation @ <a href="http://www.eclipse.org/jubula">eclipse.org/jubula</a>
+          since 2011</p>
+      </section>
+
+      <section>
+        <h2>Jubula - the big picture</h2>
+        <img src="2013-ece-jubula-extend/big-pic-1.png"
+          alt="Jubula overview">
+      </section>
+
+      <section>
+        <h2>Jubula - the big picture</h2>
+        <img src="2013-ece-jubula-extend/big-pic-2.png"
+          alt="Jubula overview">
+      </section>
+
+      <section>
+        <h2>Jubula - the big picture</h2>
+        <img src="2013-ece-jubula-extend/big-pic-3.png"
+          alt="Jubula overview">
+      </section>
+
+      <section>
+        <h2>Jubula - the big picture</h2>
+        <img src="2013-ece-jubula-extend/big-pic-4.png"
+          alt="Jubula overview">
+      </section>
+
+      <section>
+        <h2>Jubula - the big picture</h2>
+        <img src="2013-ece-jubula-extend/big-pic-5.png"
+          alt="Jubula overview">
+      </section>
+
+      <section>
+        <h2>Disclaimer</h2>
+        <p>Testing with Jubula <b>does not</b> require programming skills</p>
+        <p>... but extending Jubula <b>does</b> require programming skills!</p>
+      </section>
+
+      <section>
+        <h2>Extending Jubula</h2>
+        <img src="2013-ece-jubula-extend/big-pic-5.png"
+          alt="Jubula overview">
+        <p>(1) Use existing extensions</p>
+        <p>(2) Write your own extensions</p>
+        <p>(3) Build your own Jubula</p>
+      </section>
+
+      <section>
+        <h2>Extending Jubula</h2>
+        <img src="2013-ece-jubula-extend/big-pic-6.png"
+          alt="Jubula overview">
+        <p>(1) Use existing extensions</p>
+        <p>(2) Write your own extensions</p>
+        <p>(3) Build your own Jubula</p>
+      </section>
+
+      <section>
+        <h2>(1) Use existing extensions</h2>
+        <img src="2013-ece-jubula-extend/install.png"
+          alt="Install additional features">
+      </section>
+
+      <section>
+        <h2>(2) Write extensions</h2>
+        <p>Setup IDE with Jubula as target platform</p>
+        <p>Write your own bundle / fragment</p>
+        <p>Make use of extension points</p>
+        <p>Deploy into RCP application</p>
+      </section>
+
+      <section>
+        <h2>(3) Building Jubula</h2>
+        <p>Clone <a href="http://git.eclipse.org/c/jubula/org.eclipse.jubula.core.git/">git repository</a></p>
+        <p><a href="http://wiki.eclipse.org/Jubula/JubulaContribGuide">Setup IDE</a>&amp; modify sources directly</p>
+        <pre><code contenteditable>[~/git/org.eclipse.jubula.core] $ ant
+Buildfile: ~/git/org.eclipse.jubula.core/build.xml
+
+cleanBuild:
+<..>
+BUILD SUCCESSFUL
+Total time: 4 minutes 1 second</code></pre>
+        <p>build on commandline via ant / maven / tycho</p>
+        <p>update from local p2-repo org.eclipse.jubula.site/target/repository/</p>
+      </section>
+
+      <section>
+        <h2></h2>
+      </section>
+
+      <section>
+        <h2>Extending</h2>
+        <img src="2013-ece-jubula-extend/big-pic-6.png"
+          alt="Extending Jubula">
+      </section>
+
+      <section>
+        <h2>Extending the ITE</h2>
+        <img src="2013-ece-jubula-extend/extend-ite.png"
+          alt="Extending the ITE">
+      </section>
+
+      <section>
+        <h2>Extending the ITE</h2>
+        <p>Write custom <b>test data functions</b></p>
+        <p>Write your own <b>test reports</b></p>
+        <p>Write your own <b>test style rules</b></p>
+        <p>Add your own <b>unbound_modules_*</b></p>
+        <p>Support more <b>keyboard layouts</b></p>
+        <p>Support more <b>ALM repositories</b></p>
+        <p>Support other <b>databases</b></p>
+        <p>...</p>
+      </section>
+
+      <section>
+        <h2>test data functions</h2>
+        <img src="2013-ece-jubula-extend/test-data-functions.png"
+          alt="test data functions in properties view" height="350px">
+        <p>dynamic test data computation during test execution</p>
+      </section>
+
+      <section>
+        <h2>test data functions</h2>
+        <p>Use extension point: org.eclipse.jubula.client.core.functions</p>
+        <img src="2013-ece-jubula-extend/test-data-functions-ep.png"
+          alt="Extending the ITE">
+        <p>Implement interface</p> 
+        <pre><code>o.e.jubula.client.core.functions.IFunctionEvaluator
+        
+public String evaluate(String[] arguments) 
+   throws InvalidDataException;</code></pre>
+      </section>
+
+      <section>
+        <h2>test reports</h2>
+        <img src="2013-ece-jubula-extend/test-report.png"
+          alt="BIRT reports">
+      </section>
+
+      <section>
+        <h2>test reports</h2>
+        <p>use Eclipse BIRT Designer Version 2.6.2</p>
+        <p>make use of our library: <b>iteLIB.rptlibrary</b></p>
+        <p>ITE-installDir/jubula/plugins/com.bredexsw.guidancer.<br>reporting.birt.viewer_qualifier/reports</p>
+        <p>re-use data sources / -sets and reports</p>
+        <p>deploy to that directory to "install"</p>
+        <p><br>recommended: setup central <a href="http://www.eclipse.org/birt/phoenix/deploy/viewerSetup.php#using">BIRT viewer instance</a></p>
+      </section>
+
+      <section>
+        <h2>test style rules</h2>
+        <img src="2013-ece-jubula-extend/test-style.png"
+          alt="test style rules">
+      </section>
+
+      <section>
+        <h2>test style rules</h2>
+        <p>Use extension point: org.eclipse.jubula.client.teststyle.definition</p>
+        <img src="2013-ece-jubula-extend/test-style-ep.png"
+          alt="test style extension point">
+        <p>Derive from class:</p> 
+        <pre><code>o.e.jubula.client.teststyle.checks.BaseCheck
+
+// implement
+public boolean hasError(Object obj);</code></pre>
+      </section>
+
+      <section>
+        <h2>unbound_modules_*</h2>
+        <img src="2013-ece-jubula-extend/ubms.png"
+          alt="unbound modules" height="350px">
+        <p>pre-defined test case library</p>
+      </section>
+
+      <section>
+        <h2>unbound_modules_*</h2>
+        <p>write a fragment for bundle: <b>org.eclipse.jubula.client.ui.rcp</b></p>
+        <p>provide a file beginning with "unbound_modules_"<p>
+        <p>located under: resources/library</p>
+        <p>--> auto-import on new database scheme</p>
+      </section>
+
+      <section>
+        <h2>keyboard layouts</h2>
+        <img src="2013-ece-jubula-extend/keyboard-layouts.png"
+          alt="keyboard layouts in AUT config" height="350px">
+        <p>RCP AUTs require keyboard mapping files</p>
+        <p><b>de_DE &amp; en_US</b> are already pre-defined</p>
+      </section>
+
+      <section>
+        <h2>keyboard layouts</h2>        
+        <p>write a fragment for bundle: <b>org.eclipse.jubula.client.core</b></p>
+        <p>provide a properties file named e.g. "de_CH.properties"<p>
+        <p>located under: resources/keyboard_mapping</p>
+        <p>provide special character mapping</p> 
+        <pre><code>...
+"=shift+2
+§=shift+3
+$=shift+4
+%=shift+5
+&=shift+6
+...</code></pre>
+      </section>
+
+      <section>
+        <h2>ALM repositories</h2>
+        <img src="2013-ece-jubula-extend/alm.png"
+          alt="Mylyn ALM repositories">
+        <p>built-in support for <b>trac, JIRA &amp; Bugzilla</b></p>
+        <p>based on <a href="http://eclipse.org/mylyn/">Mylyn</a> connectors</p>
+      </section>
+
+      <section>
+        <h2>database types</h2>
+        <img src="2013-ece-jubula-extend/database.png"
+          alt="Database support">
+      </section>
+
+      <section>
+        <h2>database types</h2>
+        <p>JPA / EclipseLink used for database persistence</p>
+        <p>potientially much more databases compatible</p>
+        <p>write your own: o.e.jubula.client.core.preferences.database.<br>AbstractHostBasedConnectionInfo</p>
+        <p>provide JDBC driver</p>
+        <p>build Jubula on your own</p>
+      </section>
+      
+      <section>
+        <h2>Extending the ITE</h2>
+        <img src="2013-ece-jubula-extend/extend-ite.png"
+          alt="Extending the ITE">
+      </section>
+
+      <section>
+        <h2>Extending the AUT-Agent, RC &amp; AUT</h2>
+        <img src="2013-ece-jubula-extend/extend-rc.png"
+          alt="Extending the remote control side">
+      </section>
+      
+      <section>
+        <h2>Extending the AUT-Agent, RC &amp; AUT</h2>
+        <p>Improving UI-widget recognition in Swing, SWT, HTML, iOS</p>
+        <p>Improving GEF testing by enhancing the identifier</p>
+        <p>Adding support for custom monitoring agents</p>
+        <p>Supporting your own components, actions and toolkits</p>
+        <p>...</p>
+      </section>
+      
+      <section>
+        <h2>Improving UI-widget recognition</h2>
+        <img src="2013-ece-jubula-extend/om-heuristic.png"
+          alt="Object mapping heurisitical configuration">
+        <p>set unique IDs for UI widgets in your AUT</p>
+      </section>
+      
+      <section>
+        <h2>Improving UI-widget recognition</h2>
+        <p>has to be implemented within the AUT itself</p>
+        <p><b>Swing:</b> setName(ID)</p>
+        <p><b>SWT / RCP:</b> setData("TEST_COMP_NAME", ID)</p>
+        <p><b>HTML:</b> set / use id attribute id="ID"</p>
+        <p><b>iOS:</b> UIAccessibilityIdentification Protocol</p>
+        <pre><code contenteditable>@property(...) NSString *accessibilityIdentifier</code></pre>
+      </section>
+      
+      <section>
+        <h2>Improving GEF testing</h2>
+        <img src="2013-ece-jubula-extend/gef.png"
+          alt="GEF figure testing">
+        <p>within FigureCanvas regexp based tree-path is used</p>
+        <p>by default no real semantic (type + index)</p>
+      </section>
+      
+      <section>
+        <h2>Improving GEF testing</h2>
+        <p>provide adaption to: o.e.jubula.rc.rcp.e3.gef.identifier.IEditPartIdentifier</p>
+        <p>make use of extension point: <b>org.eclipse.core.runtime.adapters</b></p>
+        <p><a href="http://www.eclipsecon.org/europe2012/sessions/watching-your-gef-figure">talk</a> at ECE 2012</p>
+      </section>
+      
+      <section>
+        <h2>Custom monitoring agents</h2>
+        <img src="2013-ece-jubula-extend/monitoring-agents.png"
+          alt="Monitoring Agents">
+        <p>built-in support for <a href="http://www.eclemma.org/jacoco/index.html">JaCoCo</a></p>
+      </section>
+      
+      <section>
+        <h2>Custom monitoring agents</h2>
+        <p>(1) write extension for ITE: o.e.jubula.toolkit.common.monitoring</p>
+        <p>provide AUT-configuration relevant information</p>
+        <img src="2013-ece-jubula-extend/monitoring-agents-ext-1.png"
+          alt="Monitoring Agents extension">
+      </section>
+      
+      <section>
+        <h2>Custom monitoring agents</h2>
+        <p>(2) write extension for AUT-Agent: o.e.jubula.autagent.monitor</p>
+        <p>provide technical realization</p>
+        <img src="2013-ece-jubula-extend/monitoring-agents-ext-2.png"
+          alt="Monitoring Agents extension">
+      </section>
+      
+      <section>
+        <h2>Supporting custom components</h2>
+        <p>(sometimes) necessary to extend / modify / rewrite UI widgets; e.g. </p>
+        <img src="2013-ece-jubula-extend/nebula.png"
+          alt="Nebula">
+        <p>Many ways of extending – support for:</p>
+        <p>(1) custom actions for existing components</p>
+        <p>(2) custom components for existing toolkit</p>
+        <p>(3) custom (not-yet-built-in) toolkits </p>
+      </section>
+       
+      <section>
+        <h2>Supporting custom components</h2>
+        <p>(1) write extension for ITE: o.e.jubula.toolkit.common.toolkitsupport</p>
+        <p>information about type-system and supported CAPs</p>
+        <img src="2013-ece-jubula-extend/monitoring-agents-ext-1.png"
+          alt="Monitoring Agents extension">
+      </section>
+      
+      <section>
+        <h2>Supporting custom components</h2>
+        <p>(2) provide fragments for RC bundles in AUT-Agent</p>
+        <p>provide toolkit dependent technical realization</p>
+        <p><a href="http://www.eclipsecon.org/europe2012/sessions/ui-testing-jubula-wacky-widgets">talk</a> at ECE 2012</p>
+        <img src="2013-ece-jubula-extend/monitoring-agents-ext-2.png"
+          alt="Monitoring Agents extension">
+      </section>
+      
+      <section>
+        <h2>More information...</h2>
+        <p>Extension API Manual</p>
+        <p><a href="http://www.eclipse.org/jubula">Eclipse Jubula</a></p>
+        <p>Jubula <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=208">Forum</a></p>
+        <p>Jubula <a href="https://dev.eclipse.org/mailman/listinfo/jubula-dev">Developer Mailing List</a></p>
+      </section>
+
+      <section>
+        <h2>When you're done think about...</h2>
+        <h1>contributing!</h1>
+      </section>
+
+      <section>
+        <h1>Thank you! - Q&amp;A?</h1>
+      </section>
+
+      <section>
+        <img src="2013-ec-ci-jubula-hudson/feedback.png"
+          alt="Give Feedback!">
+      </section>
+    </div>
+
+  </div>
+
+  <script src="lib/reveal.js/lib/js/head.min.js"></script>
+  <script src="lib/reveal.js/js/reveal.min.js"></script>
+
+  <script>
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls : false,
+				progress : true,
+				history : true,
+				center : true,
+				keyboard : true,
+				overview : true,
+
+				width : 1024,
+				height : 768,
+				maxScale : 2.50,
+
+				theme : Reveal.getQueryHash().theme || 'bredex', // available themes are in /css/theme
+				transition : Reveal.getQueryHash().transition || 'none', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies : [ {
+					src : 'lib/reveal.js/lib/js/classList.js',
+					condition : function() {
+						return !document.body.classList;
+					}
+				}, {
+					src : 'lib/reveal.js/plugin/markdown/showdown.js',
+					condition : function() {
+						return !!document.querySelector('[data-markdown]');
+					}
+				}, {
+					src : 'lib/reveal.js/plugin/markdown/markdown.js',
+					condition : function() {
+						return !!document.querySelector('[data-markdown]');
+					}
+				}, {
+					src : 'lib/reveal.js/plugin/highlight/highlight.js',
+					async : true,
+					callback : function() {
+						hljs.initHighlightingOnLoad();
+					}
+				}, {
+					src : 'lib/reveal.js/plugin/zoom-js/zoom.js',
+					async : true,
+					condition : function() {
+						return !!document.body.classList;
+					}
+				}, {
+					src : 'lib/reveal.js/plugin/notes/notes.js',
+					async : true,
+					condition : function() {
+						return !!document.body.classList;
+					}
+				}
+				// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+		</script>
+
+</body>
+</html>
