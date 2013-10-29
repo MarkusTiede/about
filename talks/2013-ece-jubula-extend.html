@@ -247,8 +247,16 @@ public boolean hasError(Object obj);</code></pre>
 
       <section>
         <h2>keyboard layouts</h2>
-        <img src="2013-ece-jubula-extend/keyboard-layouts.png"
-          alt="keyboard layouts in AUT config" height="350px">
+        <img src="2013-ece-jubula-extend/keyboard-layout-1.png"
+          alt="keyboard layouts in AUT config">
+        <p>RCP AUTs require keyboard mapping files</p>
+        <p><b>de_DE &amp; en_US</b> are already pre-defined</p>
+      </section>
+
+      <section>
+        <h2>keyboard layouts</h2>
+        <img src="2013-ece-jubula-extend/keyboard-layout-2.png"
+          alt="keyboard layouts in AUT config">
         <p>RCP AUTs require keyboard mapping files</p>
         <p><b>de_DE &amp; en_US</b> are already pre-defined</p>
       </section>
@@ -256,7 +264,7 @@ public boolean hasError(Object obj);</code></pre>
       <section>
         <h2>keyboard layouts</h2>        
         <p>write a fragment for bundle: <b>org.eclipse.jubula.client.core</b></p>
-        <p>provide a properties file named e.g. "de_CH.properties"<p>
+        <p>provide a properties file named &lt;lang&gt;_&lt;COUNTRY&gt;.properties<p>
         <p>located under: resources/keyboard_mapping</p>
         <p>provide special character mapping</p> 
         <pre><code>...
@@ -339,7 +347,8 @@ $=shift+4
       
       <section>
         <h2>Improving GEF testing</h2>
-        <p>provide adaption to: o.e.jubula.rc.rcp.e3.gef.identifier.IEditPartIdentifier</p>
+        <p>provide adaption from: org.eclipse.gef.EditPart</p>
+        <p>to: o.e.jubula.rc.rcp.e3.gef.identifier.IEditPartIdentifier</p>
         <p>make use of extension point: <b>org.eclipse.core.runtime.adapters</b></p>
         <p><a href="http://www.eclipsecon.org/europe2012/sessions/watching-your-gef-figure">talk</a> at ECE 2012</p>
       </section>
@@ -347,7 +356,14 @@ $=shift+4
       <section>
         <h2>Custom monitoring agents</h2>
         <img src="2013-ece-jubula-extend/monitoring-agents.png"
-          alt="Monitoring Agents">
+          alt="Monitoring Agents" height="350px">
+        <p>built-in support for <a href="http://www.eclemma.org/jacoco/index.html">JaCoCo</a></p>
+      </section>
+      
+      <section>
+        <h2>Custom monitoring agents</h2>
+        <img src="2013-ece-jubula-extend/cc.png"
+          alt="Monitoring Agents" height="350px">
         <p>built-in support for <a href="http://www.eclemma.org/jacoco/index.html">JaCoCo</a></p>
       </section>
       
