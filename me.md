@@ -40,6 +40,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 #### `en` To infinity and beyond – making Jubula surpass its limits
  - [EclipseCon Europe][t.2013.ece.extend]
+ - [PDF Slides][t.2013.ece.extend.slides]
 
 As the Jubula team, we’re generally quite proud of the out-of-the-box support we have. However, we’ve been involved in enough projects to know that there are sometimes boundaries that are hard to solve when thinking about realizing them with Jubula, for example:
 
@@ -122,6 +123,7 @@ Dieser Vortrag zeigt am konkreten Beispiel iOS und Windows 8 die Probleme und Sc
 
 #### `en` Continuous testing with Jubula – where the rubber meets the road!
  - [EclipseCon North America][t.2013.ec]
+ - [PDF Slides][t.2013.ec.slides]
 
 You've got software. You've got a list of features to implement. You've got some automated tests. You've got upcoming releases. The only glue that is going to make this scenario work is Continuous Integration. When you're adding and changing functionality, knowing what your changes are doing to your quality on a daily basis can be the difference between a successful release and a horrifically painful one. A project team needs to be able to make qualified decisions based on quality information at any given time, which is why you’ve got to hit the road (the application under test) with the rubber (the automated tests) as often as possible!
 
@@ -285,6 +287,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [Jubula]: http://www.eclipse.org/jubula
 
 [t.2013.ece.extend]: http://www.eclipsecon.org/europe2013/infinity-and-beyond-–-making-jubula-surpass-its-limits-presented-bredex
+[t.2013.ece.extend.slides]:  talks/2013-ece-jubula-extend.pdf?raw=true
 [t.2013.ece.tutorial]: http://www.eclipsecon.org/europe2013/jubula-tutorial-–-specify-execute-analyze
 [t.2013.ece.mobile]: http://www.eclipsecon.org/europe2013/testing-mobile-applications-jubula
 [t.2013.dwx]: http://www.developer-week.de/Programm/Veranstaltung/(event)/11089
@@ -292,6 +295,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [t.2013.iq.de]: http://www.iqnite-conferences.com/de/programm/25april.aspx
 [t.2013.iq.ch]: http://www.iqnite-conferences.com/ch/
 [t.2013.ec]: http://www.eclipsecon.org/2013/sessions/continuous-testing-jubula-–-where-rubber-meets-road 
+[t.2013.ec.slides]:  talks/2013-ec-ci-jubula-hudson.pdf?raw=true
 [t.2012.ece]: http://www.eclipsecon.org/europe2012/sessions/ui-testing-jubula-wacky-widgets
 [t.2012.ece.slides]: http://www.eclipsecon.org/europe2012/sites/eclipsecon.org.europe2012/files/UI%20testing%20with%20Jubula%20-%20wacky%20widgets.pdf
 [t.2011.ece]: http://www.eclipsecon.org/europe2011/sessions/starting-eclipse-project-first-90-days…-and-year-follows
