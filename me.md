@@ -76,6 +76,7 @@ This talk is aimed at people who have a general interest in UI test automation a
 
 #### `en` Jubula Tutorial – Specify, execute, analyze
  - [EclipseCon Europe][t.2013.ece.tutorial]
+ - [PDF Slides][t.2013.ece.tutorial.slides]
 
 The world needs more acceptance tests. They tell us whether or not the software being developed does what the customer ordered and give us a great opportunity to amend misunderstandings and problems before a product is released. Doing this kind of testing manually is repetitive, error-prone, boring, and also hopeless – there is no way that manual acceptance testing can keep up with development, especially if you aim to have continuous feedback about quality.
 The Eclipse Jubula Project for functional testing lets you automate these kinds of tests, and it does so without requiring you to write program code, and also without having to resort to recording user actions.
@@ -289,6 +290,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [t.2013.ece.extend]: http://www.eclipsecon.org/europe2013/infinity-and-beyond-–-making-jubula-surpass-its-limits-presented-bredex
 [t.2013.ece.extend.slides]:  talks/2013-ece-jubula-extend.pdf?raw=true
 [t.2013.ece.tutorial]: http://www.eclipsecon.org/europe2013/jubula-tutorial-–-specify-execute-analyze
+[t.2013.ece.tutorial.slides]: http://www.eclipsecon.org/europe2013/sites/eclipsecon.org.europe2013/files/JubulaTutorial.pdf
 [t.2013.ece.mobile]: http://www.eclipsecon.org/europe2013/testing-mobile-applications-jubula
 [t.2013.dwx]: http://www.developer-week.de/Programm/Veranstaltung/(event)/11089
 [t.2013.dwx.slides]: talks/2013-dwx-mobile-testing.pdf?raw=true
