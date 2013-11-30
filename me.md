@@ -41,6 +41,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 #### `en` To infinity and beyond – making Jubula surpass its limits
  - [EclipseCon Europe][t.2013.ece.extend]
  - [PDF Slides][t.2013.ece.extend.slides]
+ - [Video][t.2013.ece.extend.video]
 
 As the Jubula team, we’re generally quite proud of the out-of-the-box support we have. However, we’ve been involved in enough projects to know that there are sometimes boundaries that are hard to solve when thinking about realizing them with Jubula, for example:
 
@@ -289,6 +290,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 
 [t.2013.ece.extend]: http://www.eclipsecon.org/europe2013/infinity-and-beyond-–-making-jubula-surpass-its-limits-presented-bredex
 [t.2013.ece.extend.slides]:  talks/2013-ece-jubula-extend.pdf?raw=true
+[t.2013.ece.extend.video]:  http://www.youtube.com/watch?v=prNt5_LhXdo
 [t.2013.ece.tutorial]: http://www.eclipsecon.org/europe2013/jubula-tutorial-–-specify-execute-analyze
 [t.2013.ece.tutorial.slides]: http://www.eclipsecon.org/europe2013/sites/eclipsecon.org.europe2013/files/JubulaTutorial.pdf
 [t.2013.ece.mobile]: http://www.eclipsecon.org/europe2013/testing-mobile-applications-jubula
