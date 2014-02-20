@@ -34,6 +34,8 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
  - [other qualifications / weitere Qualifikationen](#other-qualifications--weitere-qualifikationen)
  - [other references / weitere Referenzen](#other-references--weitere-referenzen)
 
+ - [VNC remote support / Fernwartung][support]
+
 ## talks / Vorträge
 
 ### talks 2013
@@ -287,6 +289,7 @@ this:     http://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-en]: http://www.ostfalia.de/cms/en/index.html
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
+[support]: http://mtiede.de/misc/vncSupport-win32-win32-x86.exe
 
 [t.2013.ece.extend]: http://www.eclipsecon.org/europe2013/infinity-and-beyond-–-making-jubula-surpass-its-limits-presented-bredex
 [t.2013.ece.extend.slides]:  talks/2013-ece-jubula-extend.pdf?raw=true
