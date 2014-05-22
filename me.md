@@ -314,7 +314,7 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [t.stpcon]: http://www.stpcon.com
 [t.2008.stpcon.slides]: talks/2008-stpcon-lt.pdf?raw=true
 
-[p.2013.te]: http://www.testing-experience.de
+[p.2013.te]: http://www.testingexperience.de
 [p.2013.em]: http://jaxenter.de/Tiip,Tap,Test-110376
 [p.2012.jx]: http://jaxenter.de/OpenSourcing%26ReleaseEngineeringEclipse.org-162507
 [p.2012.em]: http://www.pressekatalog.de/inhalt/eclipse+magazin-00001_2012_2012199.pdf
