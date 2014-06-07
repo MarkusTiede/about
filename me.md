@@ -24,6 +24,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 |      | [talks / Vorträge](#talks--vorträge) | [publications / Veröffentlichungen](#publications--veröffentlichungen)  |
 | ---- | ------------------:| -------------------------:|
+| 2013 |                    | [...](#publications-2014) |
 | 2013 | [...](#talks-2013) | [...](#publications-2013) |
 | 2012 | [...](#talks-2012) | [...](#publications-2012) |
 | 2011 | [...](#talks-2011) |                           |
@@ -207,6 +208,15 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 ## publications / Veröffentlichungen
 
+### publications 2014
+
+#### `en` Automated Acceptance Tests for Mobile Applications: Thoughts on Test Strategy
+ - [testing experience en][p.2014.te] - Testing Experience – 26 - June 2014
+
+First impressions count when it comes to apps, be they tailor-made enterprise apps or apps from a store. It has never been so easy to try out new applications – and then uninstall them if they are not suitable or acceptable. The consequences can be much worse than just losing one customer or user; public feedback systems and disappointed customers can damage the reputation and image of an app, as well as of the company behind it.
+
+For this reason, the user perspective is of utmost importance when developing mobile applications. Acceptance tests help teams to recognize early whether an app behaves as expected and does not produce any unwanted side effects during use. As for any project, we need to decide what to test, how to test, when to test, and how much to automate. However, automation in particular can be a tricky subject for mobile applications, and the specific challenges should be taken into account when defining a test strategy. [...]
+
 ### publications 2013
 
 #### `de` Automatische Akzeptanztests für mobile Anwendungen - Überlegungen zur Teststrategie
@@ -314,6 +324,7 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [t.stpcon]: http://www.stpcon.com
 [t.2008.stpcon.slides]: talks/2008-stpcon-lt.pdf?raw=true
 
+[p.2014.te]: http://www.testingexperience.com
 [p.2013.te]: http://www.testingexperience.de
 [p.2013.em]: http://jaxenter.de/Tiip,Tap,Test-110376
 [p.2012.jx]: http://jaxenter.de/OpenSourcing%26ReleaseEngineeringEclipse.org-162507
