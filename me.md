@@ -24,7 +24,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 |      | [talks / Vorträge](#talks--vorträge) | [publications / Veröffentlichungen](#publications--veröffentlichungen)  |
 | ---- | ------------------:| -------------------------:|
-| 2013 |                    | [...](#publications-2014) |
+| 2014 |                    | [...](#publications-2014) |
 | 2013 | [...](#talks-2013) | [...](#publications-2013) |
 | 2012 | [...](#talks-2012) | [...](#publications-2012) |
 | 2011 | [...](#talks-2011) |                           |
@@ -211,7 +211,7 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 ### publications 2014
 
 #### `en` Automated Acceptance Tests for Mobile Applications: Thoughts on Test Strategy
- - [testing experience en][p.2014.te] - Testing Experience – 26 - June 2014
+ - [testing experience EN][p.2014.te] - Testing Experience – 26 - June 2014
 
 First impressions count when it comes to apps, be they tailor-made enterprise apps or apps from a store. It has never been so easy to try out new applications – and then uninstall them if they are not suitable or acceptable. The consequences can be much worse than just losing one customer or user; public feedback systems and disappointed customers can damage the reputation and image of an app, as well as of the company behind it.
 
