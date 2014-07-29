@@ -210,6 +210,11 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 ### publications 2014
 
+#### `de` Jubula goes JavaFX: Technologietransfer leicht gemacht
+ - [Eclipse Magazin][p.2014.em] - 5.2014
+
+Pünktlich mit Java 8 hat Oracle im Frühjahr dieses Jahres eine grundlegend überarbeitete Version der Benutzeroberflächentechnologie JavaFX veröffentlicht. Dieses auf multimediale Inhalte und Effekte optimierte UI-Toolkit gilt bereits seit einiger Zeit als Nachfolger von Swing und erlaubt es, mit Leichtigkeit moderne, reaktive und ansprechende Benutzeroberflächen zu gestalten. Für uns, das Jubula-Team, bedeutete das: neues Jahr – neues Toolkit! Standen für uns im letzten Jahr mobile Plattformen wie iOS im Fokus, so war es im „Luna“-Jahr die einfache und zuverlässige Anbindung zur Fernsteuerung und Testautomatisierung von JavaFX-Oberflächen. Wir geben einen detaillierten technischen Einblick in die notwendigen Grundlagen zur Anbindung von JavaFX-Applikationen in Jubula und zeigen die notwendigen Schritte des Testtechnologie-und Know-how-Transfers von bekannten Jubula-Toolkits wie Swing und SWT zu JavaFX. [...]
+
 #### `en` Automated Acceptance Tests for Mobile Applications: Thoughts on Test Strategy
  - [testing experience EN][p.2014.te] - Testing Experience – 26 - June 2014
 
@@ -324,6 +329,7 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [t.stpcon]: http://www.stpcon.com
 [t.2008.stpcon.slides]: talks/2008-stpcon-lt.pdf?raw=true
 
+[p.2014.em]: http://jaxenter.de/artikel/jubula-goes-javafx-174881
 [p.2014.te]: http://www.testingexperience.com
 [p.2013.te]: http://www.testingexperience.de
 [p.2013.em]: http://jaxenter.de/Tiip,Tap,Test-110376
