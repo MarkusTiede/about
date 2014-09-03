@@ -24,7 +24,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 |      | [talks / Vorträge](#talks--vorträge) | [publications / Veröffentlichungen](#publications--veröffentlichungen)  |
 | ---- | ------------------:| -------------------------:|
-| 2014 |                    | [...](#publications-2014) |
+| 2014 | [...](#talks-2014) | [...](#publications-2014) |
 | 2013 | [...](#talks-2013) | [...](#publications-2013) |
 | 2012 | [...](#talks-2012) | [...](#publications-2012) |
 | 2011 | [...](#talks-2011) |                           |
@@ -39,7 +39,22 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 ## talks / Vorträge
 
+### talks 2014
+
+
 ### talks 2013
+
+#### `en` J2J - JavaFX testing with Jubula
+ - [EclipseCon Europe][t.2014.ece.j2j]
+
+JavaFX is the new black in modern Java based Ul technologies - again. And as of Java 8 a stable and refined JavaFX API is available out-of-the-box for the general public. That said, it's no wonder that we - the Jubula team - have been working very hard to support this new Ul technology for test automation right from the very beginning.
+
+In this session Markus
+- will give a brief introduction to Jubula and its concepts,
+- demonstrate how easy it is to automate Ul tests for JavaFX / e(fx)clipse based AUTs (Application Under Test).
+- point out the current development status of the JavaFX support and its architecture
+
+This talk is primarily aimed at people with a general interest in JavaFX and code-free test automation.
 
 #### `en` To infinity and beyond – making Jubula surpass its limits
  - [EclipseCon Europe][t.2013.ece.extend]
@@ -307,6 +322,7 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [Jubula]: http://www.eclipse.org/jubula
 [support]: http://mtiede.de/misc/vncSupport-win32-win32-x86.exe
 
+[t.2014.ece.j2j]: https://www.eclipsecon.org/europe2014/session/j2j-javafx-testing-jubula
 [t.2013.ece.extend]: http://www.eclipsecon.org/europe2013/infinity-and-beyond-–-making-jubula-surpass-its-limits-presented-bredex
 [t.2013.ece.extend.slides]:  talks/2013-ece-jubula-extend.pdf?raw=true
 [t.2013.ece.extend.video]:  http://www.youtube.com/watch?v=prNt5_LhXdo
