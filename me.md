@@ -41,9 +41,6 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 ### talks 2014
 
-
-### talks 2013
-
 #### `en` J2J - JavaFX testing with Jubula
  - [EclipseCon Europe][t.2014.ece.j2j]
 
@@ -55,6 +52,8 @@ In this session Markus
 - point out the current development status of the JavaFX support and its architecture
 
 This talk is primarily aimed at people with a general interest in JavaFX and code-free test automation.
+
+### talks 2013
 
 #### `en` To infinity and beyond – making Jubula surpass its limits
  - [EclipseCon Europe][t.2013.ece.extend]
