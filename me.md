@@ -346,10 +346,10 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 
 [p.2014.em]: http://jaxenter.de/artikel/jubula-goes-javafx-174881
 [p.2014.te]: http://www.testingexperience.com
-[p.2013.te]: http://www.testingexperience.de
-[p.2013.em]: http://jaxenter.de/Tiip,Tap,Test-110376
+[p.2013.te]: http://www.mtiede.de/paper/p.2013.te.pdf
+[p.2013.em]: http://www.mtiede.de/paper/p.2013.em.pdf
 [p.2012.jx]: http://jaxenter.de/OpenSourcing%26ReleaseEngineeringEclipse.org-162507
-[p.2012.em]: http://www.pressekatalog.de/inhalt/eclipse+magazin-00001_2012_2012199.pdf
-[p.2010.te]: http://www.bredex.de/web/tl_files/BredexDateien/whitepapers/testingexperience01_10_Imrie_Tiede.pdf
+[p.2012.em]: http://www.mtiede.de/paper/p.2012.em.pdf
+[p.2010.te]: http://www.mtiede.de/paper/p.2010.te.pdf
 [p.2010.os]: http://www.sigs-datacom.de/fachzeitschriften/objektspektrum/aktuelle-ausgabe.html?tx_mwjournals_pi1%5Bpointer%5D=0&tx_mwjournals_pi1%5Bmode%5D=1&tx_mwjournals_pi1%5BshowUid%5D=6634
 [p.2010.bk]: http://www.amazon.de/Modellbasiertes-Testen-grafischer-Benutzeroberflächen-Erfahrungsbericht/dp/3639239334/
