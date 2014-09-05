@@ -22,13 +22,13 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 ## ToC / Inhaltsverzeichnis
 
-|      | [talks / Vorträge](#talks--vorträge) | [publications / Veröffentlichungen](#publications--veröffentlichungen)  |
+|      | [talks / Vorträge](#talks--vorträge) | [paper / Artikel](#paper--Artikel)  |
 | ---- | ------------------:| -------------------------:|
-| 2014 | [...](#talks-2014) | [...](#publications-2014) |
-| 2013 | [...](#talks-2013) | [...](#publications-2013) |
-| 2012 | [...](#talks-2012) | [...](#publications-2012) |
+| 2014 | [...](#talks-2014) | [...](#paper-2014) |
+| 2013 | [...](#talks-2013) | [...](#paper-2013) |
+| 2012 | [...](#talks-2012) | [...](#paper-2012) |
 | 2011 | [...](#talks-2011) |                           |
-| 2010 | [...](#talks-2010) | [...](#publications-2010) |
+| 2010 | [...](#talks-2010) | [...](#paper-2010) |
 | 2009 | [...](#talks-2009) |                           |
 | 2008 | [...](#talks-2008) |                           |
 
@@ -220,9 +220,9 @@ Begin by looking at the agile development process to determine the requirements 
 
 This 5-minute lightning talk emphasised spotting the spam when thinking about UI test automation tools.
 
-## publications / Veröffentlichungen
+## paper / Artikel
 
-### publications 2014
+### paper 2014
 
 #### `de` Jubula goes JavaFX: Technologietransfer leicht gemacht
  - [Eclipse Magazin][p.2014.em] - 5.2014
@@ -236,7 +236,7 @@ First impressions count when it comes to apps, be they tailor-made enterprise ap
 
 For this reason, the user perspective is of utmost importance when developing mobile applications. Acceptance tests help teams to recognize early whether an app behaves as expected and does not produce any unwanted side effects during use. As for any project, we need to decide what to test, how to test, when to test, and how much to automate. However, automation in particular can be a tricky subject for mobile applications, and the specific challenges should be taken into account when defining a test strategy. [...]
 
-### publications 2013
+### paper 2013
 
 #### `de` Automatische Akzeptanztests für mobile Anwendungen - Überlegungen zur Teststrategie
  - [testing experience DE][p.2013.te] - Ausgabe #3
@@ -250,7 +250,7 @@ Die Benutzerperspektive anhand von Akzeptanztests zu vertreten ist deshalb für 
 
 Im privaten Bereich ist der mobile Zugang zu Daten und Diensten schon alltäglich – im Arbeitsumfeld noch nicht überall. Aber gerade dort kann der direkte Zugang zu aktuellen Daten und Diensten enorm vorteilhaft sein. Für den Kunden sowie für den Dienstleister ist also ein Umdenken erforderlich – insbesondere beim Thema Testen. Welche Besonderheiten gibt es beim automatisierten Testen? Und mit welchen Techniken und Technologien lässt sich erfolgreich Qualitätssicherung betreiben? [...]
 
-### publications 2012
+### paper 2012
 
 #### `de` Open Sourcing and Release Engineering @ Eclipse.org - The Making of an Eclipse Project 
  - [JAXenter][p.2012.jx]
@@ -258,7 +258,7 @@ Im privaten Bereich ist der mobile Zugang zu Daten und Diensten schon alltäglic
 
 Was steckt eigentlich hinter einem Eclipse-Projekt? Welche Entscheidungen sind zu treffen, welche Bedingungen zu erfüllen, wie läuft das alles? Das Eclipse-Jubula-Team berichtet in loser Folge über seine Erfahrung beim Open Sourcing von Jubula. Dabei geht es nicht nur um Technik, sondern auch um Strategien, Abläufe und schwierige Entscheidungen. [...]
 
-### publications 2010
+### paper 2010
 
 #### `de` Refaktorisieren von Tests - Erfahrungen aus der schlüsselwortgetriebenen Testentwicklung
  - [OBJEKTspektrum][p.2010.os] - Ausgabe 04/2010
