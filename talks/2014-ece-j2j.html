@@ -1,4 +1,5 @@
-﻿﻿﻿﻿﻿<!doctype html>
+﻿﻿﻿﻿﻿
+<!doctype html>
 <html lang="en">
 
 <head>
@@ -6,20 +7,19 @@
 
 <title>EclipseCon Europe 2014 - JavaFX testing with Jubula</title>
 
-<meta name="description"
-  content="J2J - JavaFX testing with Jubula">
+<meta name="description" content="J2J - JavaFX testing with Jubula">
 <meta name="author" content="Markus Tiede, BREDEX GmbH">
 
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style"
-  content="black-translucent" />
+	content="black-translucent" />
 
 <meta name="viewport"
-  content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 <link rel="stylesheet" href="lib/reveal.js/css/reveal.css">
 <link rel="stylesheet" href="lib/reveal.js/css/theme/default.css"
-  id="theme">
+	id="theme">
 
 <!-- For syntax highlighting -->
 <link rel="stylesheet" href="lib/reveal.js/lib/css/zenburn.css">
@@ -38,134 +38,176 @@
 
 <body>
 
-  <div class="reveal">
+	<div class="reveal">
 
-    <div class="slides">
+		<div class="slides">
 
-      <section>
-        <h1>J2J</h1>
-        <h3>JavaFX testing with Jubula</h3>
-        <p>
-          <small>by <a href="http://www.mtiede.de">@MarkusTiede</a>
-            - <a href="http://www.bredexsw.com">BREDEX GmbH</a>
-          </small>
-        </p>
-      </section>
+			<section>
+				<h1>J2J</h1>
+				<h3>JavaFX testing with Jubula</h3>
+				<p>
+					<small>by <a href="http://www.mtiede.de">@MarkusTiede</a> -
+						<a href="http://www.bredexsw.com">BREDEX GmbH</a>
+					</small>
+				</p>
+			</section>
 
-      <section>
-        <h2>Agenda</h2>
-        <p>What's Jubula?</p>
-        <p>The concepts...</p>
-        <p>Having some fun...</p>
-        <p>Some insights...</p>
-        <p>What's working?</p>
-        <p>What's next?</p>
-      </section>
-      
-      <section>
-        <h2>The concept: toolkit abstraction</h2>
-        <img width="85%"
-          src="2014-ece-j2j/tk-1.png"
-          alt="toolkit abstraction">
-      </section>
-      
-      <section>
-        <h2>The concept: toolkit abstraction</h2>
-        <img width="85%"
-          src="2014-ece-j2j/tk-2.png"
-          alt="toolkit abstraction">
-      </section>
-      
-      <section>
-        <h2>The concept: toolkit abstraction</h2>
-        <img width="85%"
-          src="2014-ece-j2j/tk-3.png"
-          alt="toolkit abstraction">
-      </section>
-      
-      <section>
-        <h2>The concept: object mapping</h2>
-        <img width="85%"
-          src="2014-ece-j2j/om-1.png"
-          alt="object mapping">
-      </section>
-      
-      <section>
-        <h2>The concept: object mapping</h2>
-        <img width="85%"
-          src="2014-ece-j2j/om-2.png"
-          alt="object mapping">
-      </section>
-      
-      <section>
-        <h2>The concept: object mapping</h2>
-        <img width="85%"
-          src="2014-ece-j2j/om-3.png"
-          alt="object mapping">
-      </section>
-  	</div>
-  </div>
+			<section>
+				<h2>Agenda</h2>
+				<p>What's Jubula?</p>
+				<p>The concepts...</p>
+				<p>Having some fun...</p>
+				<p>Some insights...</p>
+				<p>What's working?</p>
+				<p>What's next?</p>
+			</section>
 
-  <script src="lib/reveal.js/lib/js/head.min.js"></script>
-  <script src="lib/reveal.js/js/reveal.min.js"></script>
+			<section>
+				<h2>What's Jubula?</h2>
+				<img src="2013-ec-ci-jubula-hudson/jubula.png" alt="Jubula Logo">
+				<p>
+					@<a href="http://www.eclipse.org/jubula">eclipse.org/jubula</a>
+					since 2011
+				</p>
+				<p>automated functional GUI testing</p>
+				<p>
+					<b>Code-free keyword-based black-box approach</b>
+				</p>
+				<p>high-level CAPs + robust UI widget recognition</p>
+			</section>
 
-  <script>
-			// Full list of configuration options available here:
-			// https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				controls : false,
-				progress : true,
-				history : true,
-				center : true,
-				keyboard : true,
-				overview : true,
+			<section>
+				<h2>The concept: toolkit abstraction</h2>
+				<img src="2014-ece-j2j/tk-1.png" alt="toolkit abstraction">
+			</section>
 
-				width : 1024,
-				height : 768,
-				maxScale : 2.50,
+			<section>
+				<h2>The concept: toolkit abstraction</h2>
+				<img src="2014-ece-j2j/tk-2.png" alt="toolkit abstraction">
+			</section>
 
-				theme : Reveal.getQueryHash().theme || 'bredex', // available themes are in /css/theme
-				transition : Reveal.getQueryHash().transition || 'none', // default/cube/page/concave/zoom/linear/fade/none
+			<section>
+				<h2>The concept: toolkit abstraction</h2>
+				<img src="2014-ece-j2j/tk-3.png" alt="toolkit abstraction">
+			</section>
 
-				// Optional libraries used to extend on reveal.js
-				dependencies : [ {
-					src : 'lib/reveal.js/lib/js/classList.js',
-					condition : function() {
-						return !document.body.classList;
-					}
-				}, {
-					src : 'lib/reveal.js/plugin/markdown/showdown.js',
-					condition : function() {
-						return !!document.querySelector('[data-markdown]');
-					}
-				}, {
-					src : 'lib/reveal.js/plugin/markdown/markdown.js',
-					condition : function() {
-						return !!document.querySelector('[data-markdown]');
-					}
-				}, {
-					src : 'lib/reveal.js/plugin/highlight/highlight.js',
-					async : true,
-					callback : function() {
-						hljs.initHighlightingOnLoad();
-					}
-				}, {
-					src : 'lib/reveal.js/plugin/zoom-js/zoom.js',
-					async : true,
-					condition : function() {
-						return !!document.body.classList;
-					}
-				}, {
-					src : 'lib/reveal.js/plugin/notes/notes.js',
-					async : true,
-					condition : function() {
-						return !!document.body.classList;
-					}
+			<section>
+				<h2>The concept: object mapping</h2>
+				<img src="2014-ece-j2j/om-1.png" alt="object mapping">
+			</section>
+
+			<section>
+				<h2>The concept: object mapping</h2>
+				<img src="2014-ece-j2j/om-2.png" alt="object mapping">
+			</section>
+
+			<section>
+				<h2>The concept: object mapping</h2>
+				<img src="2014-ece-j2j/om-3.png" alt="object mapping">
+			</section>
+
+			<section>
+				<h2>The concept: AUT start</h2>
+
+				<p>
+					AUT: <b>A</b>pplication <b>u</b>nder <b>T</b>est
+				</p>
+			</section>
+
+			<section>
+				<h2>What's working?</h2>
+			</section>
+
+			<section>
+				<h2>What's next?</h2>
+			</section>
+
+			<section>
+				<h2>Additional information</h2>
+				<p />
+				<a
+					href="https://bugs.eclipse.org/bugs/showdependencytree.cgi?id=421595&hide_resolved=0">http://www.eclip.se/421595</a>
+				<p />
+				<a href="http://jaxenter.de/artikel/jubula-goes-javafx-174881">Eclipse
+					Magazin - 5.2014 - Jubula goes JavaFX</a>
+				<p />
+				Getting started: Help &rarr; Cheat Sheets...
+				<p />
+			</section>
+
+			<section>
+				<h1>Q&amp;A...!?</h1>
+				Twitter: <a href="http://www.mtiede.de">@MarkusTiede</a><br /> <a
+					href="http://www.bredex.de/contact_en.html">Markus.Tiede@bredex.de</a>
+				<br /> <br /> <br />
+				<p>
+					<small>Copyright BREDEX GmbH 2014. Made available under the
+						Eclipse Public License v1.0.</small>
+				</p>
+			</section>
+		</div>
+	</div>
+
+	<script src="lib/reveal.js/lib/js/head.min.js"></script>
+	<script src="lib/reveal.js/js/reveal.min.js"></script>
+
+	<script>
+		// Full list of configuration options available here:
+		// https://github.com/hakimel/reveal.js#configuration
+		Reveal.initialize({
+			controls : false,
+			progress : true,
+			history : true,
+			center : true,
+			keyboard : true,
+			overview : true,
+
+			width : 1024,
+			height : 768,
+			maxScale : 2.50,
+
+			theme : Reveal.getQueryHash().theme || 'bredex', // available themes are in /css/theme
+			transition : Reveal.getQueryHash().transition || 'none', // default/cube/page/concave/zoom/linear/fade/none
+
+			// Optional libraries used to extend on reveal.js
+			dependencies : [ {
+				src : 'lib/reveal.js/lib/js/classList.js',
+				condition : function() {
+					return !document.body.classList;
 				}
-				// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
-				]
-			});
-		</script>
+			}, {
+				src : 'lib/reveal.js/plugin/markdown/showdown.js',
+				condition : function() {
+					return !!document.querySelector('[data-markdown]');
+				}
+			}, {
+				src : 'lib/reveal.js/plugin/markdown/markdown.js',
+				condition : function() {
+					return !!document.querySelector('[data-markdown]');
+				}
+			}, {
+				src : 'lib/reveal.js/plugin/highlight/highlight.js',
+				async : true,
+				callback : function() {
+					hljs.initHighlightingOnLoad();
+				}
+			}, {
+				src : 'lib/reveal.js/plugin/zoom-js/zoom.js',
+				async : true,
+				condition : function() {
+					return !!document.body.classList;
+				}
+			}, {
+				src : 'lib/reveal.js/plugin/notes/notes.js',
+				async : true,
+				condition : function() {
+					return !!document.body.classList;
+				}
+			}
+			// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+			]
+		});
+	</script>
 
 </body>
 </html>
