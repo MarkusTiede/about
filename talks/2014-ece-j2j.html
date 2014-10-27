@@ -56,10 +56,10 @@
 				<h2>Agenda</h2>
 				<p>What's Jubula?</p>
 				<p>The concepts...</p>
+				<p>What's working?</p>
 				<p>Having some fun...</p>
 				<p>Some insights...</p>
-				<p>What's working?</p>
-				<p>What's next?</p>
+				<p>Getting started...</p>
 			</section>
 
 			<section>
@@ -73,12 +73,20 @@
 				<p>
 					<b>Code-free keyword-based black-box approach</b>
 				</p>
-				<p>high-level CAPs + robust UI widget recognition</p>
+				<p>high-level test steps + robust UI widget recognition</p>
 			</section>
 
 			<section>
-				<h2>The concept: toolkit abstraction</h2>
-				<img src="2014-ece-j2j/tk-0.png" alt="toolkit abstraction">
+				<h2>Jubula - the big picture</h2>
+				<img src="2014-ece-j2j/big-pic.png" alt="Jubula - the big picture">
+				<p>
+					AUT: <b>A</b>pplication <b>u</b>nder <b>T</b>est
+				</p>
+			</section>
+
+			<section>
+				<h2>The concept: toolkits</h2>
+				<img src="2014-ece-j2j/tk-0.png" alt="toolkits">
 			</section>
 
 			<section>
@@ -124,9 +132,6 @@
 			<section>
 				<h2>The concept: AUT start</h2>
 				<img src="2014-ece-j2j/aut.png" alt="AUT">
-				<p>
-					AUT: <b>A</b>pplication <b>u</b>nder <b>T</b>est
-				</p>
 			</section>
 
 			<section>
@@ -135,6 +140,52 @@
 
 			<section>
 				<h2>What's working?</h2>
+				<p>JavaFX on <b>Java 8</b></p>
+				<p><b>Standalone</b> and <b>e(fx)clipse</b> based AUTs</p>
+				<p>Supported wigdets: 
+				Accordion, 
+				Button, 
+				ButtonBase, 
+				CheckBox, 
+				ChoiceBox, 
+				ComboBox, 
+				Hyperlink, 
+				ImageView,
+				Label, 
+				ListView, 
+				MenuButton, 
+				PasswordField, 
+				RadioButton, 
+				Stage, 
+				TableView, 
+				TabPane, 
+				Text, 
+				TextInputControl, 
+				TitledPane, 
+				TextArea, 
+				TextField, 
+				TreeView, 
+				TreeTableView, 
+				ToggleButton 
+				</p>
+				<p> current status: <a
+					href="https://bugs.eclipse.org/bugs/showdependencytree.cgi?id=421595&hide_resolved=0">http://www.eclip.se/421595</a>
+				</p>
+			</section>
+
+			<section>
+				<h2>Supporting custom components</h2>
+				<p>(1) write extension for ITE:
+					o.e.jubula.toolkit.common.toolkitsupport</p>
+				<p>information about type-system and supported CAPs</p>
+				<img src="2014-ece-j2j/tk-ext-1.png" alt="Toolkit extension">
+			</section>
+
+			<section>
+				<h2>Supporting custom components</h2>
+				<p>(2) provide fragments for RC bundles in AUT-Agent</p>
+				<p>provide toolkit dependent technical realization</p>
+				<img src="2014-ece-j2j/tk-ext-2.png" alt="Toolkit extension">
 			</section>
 
 			<section>
@@ -143,44 +194,28 @@
 
 			<section>
 				<h2>Some insights...</h2>
+				<p>
+					<b>no</b> modifications in AUT necessary
+				</p>
+				<p>
+					but to improve object heursitic in JavaFX use:<br>
+				</p>
+<pre><code contenteditable>/**
+  * The id of this {@code Node}. This simple string 
+  * identifier is useful for finding a specific Node 
+  * within the scene graph ...
+  */
+void javafx.scene.Node.setId(String value)</code></pre>
 			</section>
 
-			<section>
-				<h2>Supporting custom components</h2>
-				<p>(sometimes) necessary to extend / modify / rewrite UI widgets</p>
-				<p>Many ways of extending – support for:</p>
-				<p>(1) custom actions for existing components</p>
-				<p>(2) custom components for existing toolkit</p>
-				<p>(3) custom (not-yet-built-in) toolkits</p>
-			</section>
 
 			<section>
-				<h2>Supporting custom components</h2>
-				<p>(1) write extension for ITE:
-					o.e.jubula.toolkit.common.toolkitsupport</p>
-				<p>information about type-system and supported CAPs</p>
-				<img src="2014-ece-j2j/tk-ext-1.png"
-					alt="Toolkit extension">
-			</section>
-
-			<section>
-				<h2>Supporting custom components</h2>
-				<p>(2) provide fragments for RC bundles in AUT-Agent</p>
-				<p>provide toolkit dependent technical realization</p>
-				<img src="2014-ece-j2j/tk-ext-2.png"
-					alt="Toolkit extension">
-			</section>
-
-			<section>
-				<h2>What's next?</h2>
-				<a
-					href="https://bugs.eclipse.org/bugs/showdependencytree.cgi?id=421595&hide_resolved=0">http://www.eclip.se/421595</a>
-				<p />
-				<a href="http://jaxenter.de/artikel/jubula-goes-javafx-174881">Eclipse
-					Magazin - 5.2014 - Jubula goes JavaFX</a>
-				<p />
-				Getting started: Help &rarr; Cheat Sheets...
-				<p />
+				<h2>Additional info / getting started?</h2>
+				<p>Get the latest version of Jubula!</p>
+				<p>Recommended: <b>Eclipse for Testers Mars M3</b> - Friday, November 14</p>
+				<p><a href="http://jaxenter.de/artikel/jubula-goes-javafx-174881">Eclipse
+					Magazin - 5.2014 - Jubula goes JavaFX</a></p>
+				<p>First steps: Help &rarr; Cheat Sheets...</p>
 			</section>
 
 			<section>
