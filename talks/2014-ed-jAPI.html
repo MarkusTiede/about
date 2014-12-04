@@ -1,0 +1,214 @@
+﻿﻿﻿﻿﻿
+<!doctype html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+
+<title>Eclipse DemoCamp 2014 - Jubula goes JUnit</title>
+
+<meta name="description" content="Jubula goes JUnit">
+<meta name="author" content="Markus Tiede, BREDEX GmbH">
+<meta name="author" content="Sebastian Struckmann, BREDEX GmbH">
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style"
+	content="black-translucent" />
+
+<meta name="viewport"
+	content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<link rel="stylesheet" href="lib/reveal.js/css/reveal.css">
+<link rel="stylesheet" href="lib/reveal.js/css/theme/default.css"
+	id="theme">
+
+<!-- For syntax highlighting -->
+<link rel="stylesheet" href="lib/reveal.js/lib/css/zenburn.css">
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+	document.write('<link rel="stylesheet" href="lib/reveal.js/css/print/'
+			+ (window.location.search.match(/print-pdf/gi) ? 'pdf' : 'paper')
+			+ '.css" type="text/css" media="print">');
+</script>
+
+<!--[if lt IE 9]>
+        <script src="lib/js/html5shiv.js"></script>
+        <![endif]-->
+</head>
+
+<body>
+
+	<div class="reveal">
+
+		<div class="slides">
+
+			<section>
+				<h1>API</h1>
+				<h3>Jubula goes JUnit</h3>
+				<p>
+					<small>by <a href="http://www.mtiede.de">@MarkusTiede</a> -
+						<a href="http://www.bredexsw.com">BREDEX GmbH</a><br> and
+						Sebastian Struckmann - <a href="http://www.bredexsw.com">BREDEX
+							GmbH</a>
+					</small>
+				</p>
+			</section>
+
+			<section>
+				<h2>What's Jubula?</h2>
+				<img src="2013-ec-ci-jubula-hudson/jubula.png" alt="Jubula Logo">
+				<p>
+					@<a href="http://www.eclipse.org/jubula">eclipse.org/jubula</a>
+					(2004) - 2011 - 2014
+				</p>
+				<p>automated functional GUI testing</p>
+				<p>
+					<b>Code-free keyword-based black-box approach</b>
+				</p>
+				<p>human-readable test steps + robust UI widget recognition</p>
+			</section>
+
+			<section>
+				<h1>ITE DEMO</h1>
+			</section>
+
+			<section>
+				<h2>Jubula - the big picture</h2>
+				<img src="2014-ece-j2j/api-1.png" alt="API">
+			</section>
+
+			<section>
+				<h2>Jubula - 3.0</h2>
+				<img src="2014-ece-j2j/api-2.png" alt="API">
+			</section>
+
+			<section>
+				<h2>Jubula - 3.0</h2>
+				<img src="2014-ece-j2j/api-3.png" alt="API">
+			</section>
+
+			<section>
+				<h2>Jubula - 3.0</h2>
+				<img src="2014-ece-j2j/api-4.png" alt="API">
+			</section>
+
+			<section>
+				<h2>Jubula - 3.0</h2>
+				<img src="2014-ece-j2j/api-5.png" alt="API">
+			</section>
+
+			<section>
+				<h2>Jubula - 3.0</h2>
+				<img src="2014-ece-j2j/api-6.png" alt="API">
+			</section>
+
+			<section>
+				<h1>DEMO</h1>
+			</section>
+
+			<section>
+				<h2>Additional information</h2>
+				<p>cross-toolkit support: SWT/RCP, Swing, JavaFX, HTML, iOS,
+					.NET, ...</p>
+				<p>1:1 low level API for ITE functionality</p>
+				<p>(in)-official converter for existing ITE projects</p>
+			</section>
+
+			<section>
+				<h2>Getting started?</h2>
+				<p>First glance:</p>
+				<p>
+					<b>Jubula Mars M4</b> - Friday, December 18<br>
+					<a href="http://download.eclipse.org/jubula/milestones/mars-m4">download.eclipse.org/jubula/milestones/mars-m4</a>
+				</p>
+				<br>
+				<p>Official Release:</p>
+				<p>Jubula Standalone Release Q1 2015</p>
+				<p>ships with Eclipse Mars in June 2015</p>
+			</section>
+
+			<section>
+				<h1>Thanks!</h1>
+				<a
+					href="http://www.bredex.de/contact_en.html">Sebastian.Struckmann@bredex.de</a>
+				<br /><br />
+				Twitter: <a href="http://www.mtiede.de">@MarkusTiede</a><br /> <a
+					href="http://www.bredex.de/contact_en.html">Markus.Tiede@bredex.de</a>
+				<br /> <br /> <br />
+				<p>
+					<small>Copyright BREDEX GmbH 2014. Made available under the
+						Eclipse Public License v1.0.</small>
+				</p>
+			</section>
+
+			<section>
+				<h1>DEMO - Converter</h1>
+			</section>
+
+		</div>
+	</div>
+
+	<script src="lib/reveal.js/lib/js/head.min.js"></script>
+	<script src="lib/reveal.js/js/reveal.min.js"></script>
+
+	<script>
+		// Full list of configuration options available here:
+		// https://github.com/hakimel/reveal.js#configuration
+		Reveal.initialize({
+			controls : false,
+			progress : true,
+			history : true,
+			center : true,
+			keyboard : true,
+			overview : true,
+
+			width : 1024,
+			height : 768,
+			maxScale : 2.50,
+
+			theme : Reveal.getQueryHash().theme || 'bredex', // available themes are in /css/theme
+			transition : Reveal.getQueryHash().transition || 'none', // default/cube/page/concave/zoom/linear/fade/none
+
+			// Optional libraries used to extend on reveal.js
+			dependencies : [ {
+				src : 'lib/reveal.js/lib/js/classList.js',
+				condition : function() {
+					return !document.body.classList;
+				}
+			}, {
+				src : 'lib/reveal.js/plugin/markdown/showdown.js',
+				condition : function() {
+					return !!document.querySelector('[data-markdown]');
+				}
+			}, {
+				src : 'lib/reveal.js/plugin/markdown/markdown.js',
+				condition : function() {
+					return !!document.querySelector('[data-markdown]');
+				}
+			}, {
+				src : 'lib/reveal.js/plugin/highlight/highlight.js',
+				async : true,
+				callback : function() {
+					hljs.initHighlightingOnLoad();
+				}
+			}, {
+				src : 'lib/reveal.js/plugin/zoom-js/zoom.js',
+				async : true,
+				condition : function() {
+					return !!document.body.classList;
+				}
+			}, {
+				src : 'lib/reveal.js/plugin/notes/notes.js',
+				async : true,
+				condition : function() {
+					return !!document.body.classList;
+				}
+			}
+			// { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+			]
+		});
+	</script>
+
+</body>
+</html>
