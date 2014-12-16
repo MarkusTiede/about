@@ -52,8 +52,8 @@ One of the most salient features of working with Jubula is that tests are create
 Jubula’s main target group is teams with members who don’t program – to ensure that test automation is something that the whole team can work on. The question has frequently been asked though: isn’t there a way to let a developer write tests in Java using the mature Jubula remote control code? We’re pleased to announce that the answer is now yes.
 
 And so we introduce Mr Hyde – the Jubula API. He’s not actually evil, but he is definitely a new and exciting personality for Jubula. This talk will present participants with both aspects of Jubula’s personality:
--Dr Jekyll: writing tests with the Jubula actions in the ITE
--Mr Hyde: writing Jubula tests in Java
+- Dr Jekyll: writing tests with the Jubula actions in the ITE
+- Mr Hyde: writing Jubula tests in Java
 
 We’ll show how the steps to start AUTs, write tests and perform test execution can be done using both aspects of Jubula. The talk will be on an introductory level to show participants their way around the tool and its features from both perspectives.
 
