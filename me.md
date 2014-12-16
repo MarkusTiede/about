@@ -42,6 +42,21 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 ### talks 2015
 
+#### `en` Jekyll and Hyde with Jubula
+ - [EclipseCon North America][t.2015.ec.jekyll]
+
+Can a test tool have more than one personality? Can a new alter ego develop over time? It turns out, yes!
+
+One of the most salient features of working with Jubula is that tests are created via drag and drop from a library of pre-defined actions. While knowledge about testing and a certain technical affinity / capability to structure and model is required, programming knowledge is not.
+
+Jubula’s main target group is teams with members who don’t program – to ensure that test automation is something that the whole team can work on. The question has frequently been asked though: isn’t there a way to let a developer write tests in Java using the mature Jubula remote control code? We’re pleased to announce that the answer is now yes.
+
+And so we introduce Mr Hyde – the Jubula API. He’s not actually evil, but he is definitely a new and exciting personality for Jubula. This talk will present participants with both aspects of Jubula’s personality:
+-Dr Jekyll: writing tests with the Jubula actions in the ITE
+-Mr Hyde: writing Jubula tests in Java
+
+We’ll show how the steps to start AUTs, write tests and perform test execution can be done using both aspects of Jubula. The talk will be on an introductory level to show participants their way around the tool and its features from both perspectives.
+
 ### talks 2014
 
 #### `en` J2J - JavaFX testing with Jubula
@@ -324,6 +339,7 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [Jubula]: http://www.eclipse.org/jubula
 [support]: http://mtiede.de/misc/vncSupport-win32-win32-x86.exe
 
+[t.2015.ec.jekyll]: https://www.eclipsecon.org/na2015/session/jekyll-and-hyde-jubula
 [t.2014.ece.j2j]: https://www.eclipsecon.org/europe2014/session/j2j-javafx-testing-jubula
 [t.2013.ece.extend]: http://www.eclipsecon.org/europe2013/infinity-and-beyond-–-making-jubula-surpass-its-limits-presented-bredex
 [t.2013.ece.extend.slides]:  talks/2013-ece-jubula-extend.pdf?raw=true
