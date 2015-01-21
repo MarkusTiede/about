@@ -15,10 +15,10 @@
 ## bio
 
 ### en
-Markus is a software developer and tester at [BREDEX GmbH][bredex]. His main areas of expertise are the design and maintenance of automated tests and Eclipse RCP development. He is one of the core team developers for the automated test tool **GUI**dancer as well as the open-source tool [Jubula][] and holds a Diplom (German degree) in Computer Science from the [University of Applied Sciences in Braunschweig][ostfalia-en].
+Markus is a software developer and tester at [BREDEX GmbH][bredex]. His main areas of expertise are the design of automated tests and Eclipse-RCP development. He is one of the core developers for the open-source, UI test automation tool [Jubula][], Package Maintainer for „Eclipse for Testers“ and holds a Diplom (German degree) in Computer Science from the [University of Applied Sciences in Braunschweig][ostfalia-en].
 
 ### de
-Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX GmbH][bredex] mit den Schwerpunkten Eclipse RCP-Entwicklung und Entwurf und Entwicklung automatischer Tests und gehört zum **GUI**dancer Entwicklungsteam. Markus ist darüber hinaus Eclipse Committer im UI-Testautomatisierungsprojekt [Jubula][], Package Maintainer für „Eclipse for Testers“ und hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de].
+Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX GmbH][bredex] mit den Schwerpunkten auf Eclipse RCP-Entwicklung und dem Design von automatisierten Regressionstests. Markus ist darüber hinaus Eclipse Committer im UI-Testautomatisierungsprojekt [Jubula][], Package Maintainer für „Eclipse for Testers“ und hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de].
 
 ![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
 
