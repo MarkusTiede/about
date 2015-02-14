@@ -46,6 +46,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 #### `en` Jekyll and Hyde with Jubula
  - [EclipseCon North America][t.2015.ec.jekyll]
+ - [Teaser Video][t.2015.ec.jekyll.teaser]
 
 Can a test tool have more than one personality? Can a new alter ego develop over time? It turns out, yes!
 
@@ -341,6 +342,7 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [Jubula]: http://www.eclipse.org/jubula
 [support]: http://mtiede.de/misc/vncSupport-win32-win32-x86.exe
 
+[t.2015.ec.jekyll.teaser]: https://www.youtube.com/watch?v=jeNBKf-hAmc
 [t.2015.ec.jekyll]: https://www.eclipsecon.org/na2015/session/jekyll-and-hyde-jubula
 [t.2014.ece.j2j]: https://www.eclipsecon.org/europe2014/session/j2j-javafx-testing-jubula
 [t.2013.ece.extend]: http://www.eclipsecon.org/europe2013/infinity-and-beyond-–-making-jubula-surpass-its-limits-presented-bredex
