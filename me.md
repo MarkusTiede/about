@@ -26,7 +26,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 |      | [talks / Vorträge](#talks--vorträge) | [paper / Artikel](#paper--Artikel)  |
 | ---- | ------------------:| ------------------:|
-| 2015 | [...](#talks-2015) |                    |
+| 2015 | [...](#talks-2015) | [...](#paper-2015) |
 | 2014 | [...](#talks-2014) | [...](#paper-2014) |
 | 2013 | [...](#talks-2013) | [...](#paper-2013) |
 | 2012 | [...](#talks-2012) | [...](#paper-2012) |
@@ -243,6 +243,11 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 ## paper / Artikel
 
+### paper 2015
+
+#### `en` Jubula goes JUnit – Eine Einführung in das Jubula-Client-API
+ - [Eclipse Magazin][p.2015.em] - 5.2015
+
 ### paper 2014
 
 #### `de` Jubula goes JavaFX: Technologietransfer leicht gemacht
@@ -367,6 +372,7 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [t.stpcon]: http://www.stpcon.com
 [t.2008.stpcon.slides]: talks/2008-stpcon-lt.pdf?raw=true
 
+[p.2015.em]: https://jaxenter.de/ausgaben/eclipse-magazin-5-15
 [p.2014.em]: http://jaxenter.de/artikel/jubula-goes-javafx-174881
 [p.2014.te]: http://www.testingexperience.com
 [p.2013.te]: http://www.mtiede.de/paper/p.2013.te.pdf
