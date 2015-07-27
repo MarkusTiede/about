@@ -245,7 +245,7 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 ### paper 2015
 
-#### `en` Jubula goes JUnit – Eine Einführung in das Jubula-Client-API
+#### `de` Jubula goes JUnit – Eine Einführung in das Jubula-Client-API
  - [Eclipse Magazin][p.2015.em] - 5.2015
 
 ### paper 2014
