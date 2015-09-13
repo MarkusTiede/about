@@ -248,6 +248,8 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 #### `de` Jubula goes JUnit – Eine Einführung in das Jubula-Client-API
  - [Eclipse Magazin][p.2015.em] - 5.2015
 
+Seit nunmehr zehn Jahren verfolgen wir im Jubula-Team das Ziel, Testautomatisierung für grafische Benutzeroberflächen zu ermöglichen, ohne dabei zwingend notwendig über tiefgehende Programmierkenntnisse im zugrunde liegenden UI-Toolkit oder im internen Aufbau der AUT (Application under Test) zu verfügen. Und auch auf unserem Weg zu Mars haben wir trotz der Einführung eines Java-API für Entwickler stets darauf geachtet, dieses Ziel nicht aus den Augen zu verlieren.  [...]
+
 ### paper 2014
 
 #### `de` Jubula goes JavaFX: Technologietransfer leicht gemacht
@@ -372,12 +374,12 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [t.stpcon]: http://www.stpcon.com
 [t.2008.stpcon.slides]: talks/2008-stpcon-lt.pdf?raw=true
 
-[p.2015.em]: https://jaxenter.de/ausgaben/eclipse-magazin-5-15
-[p.2014.em]: http://jaxenter.de/artikel/jubula-goes-javafx-174881
+[p.2015.em]: https://jaxenter.de/jubula-goes-junit-25358
+[p.2014.em]: https://jaxenter.de/jubula-goes-javafx-897
 [p.2014.te]: http://www.testingexperience.com
 [p.2013.te]: http://www.mtiede.de/paper/p.2013.te.pdf
 [p.2013.em]: http://www.mtiede.de/paper/p.2013.em.pdf
-[p.2012.jx]: http://jaxenter.de/OpenSourcing%26ReleaseEngineeringEclipse.org-162507
+[p.2012.jx]: https://jaxenter.de/open-sourcing-release-engineering-eclipse-org-5085
 [p.2012.em]: http://www.mtiede.de/paper/p.2012.em.pdf
 [p.2010.te]: http://www.mtiede.de/paper/p.2010.te.pdf
 [p.2010.os]: http://www.sigs-datacom.de/fachzeitschriften/objektspektrum/aktuelle-ausgabe.html?tx_mwjournals_pi1%5Bpointer%5D=0&tx_mwjournals_pi1%5Bmode%5D=1&tx_mwjournals_pi1%5BshowUid%5D=6634
