@@ -44,8 +44,24 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 ### talks 2015
 
+
+#### `en` Jubula 101
+ - [EclipseCon Europe][t.2015.ece.j101]
+
+Come to this talk to get your 101, your 411 and possibly some other important numbers about the Eclipse Jubula project for functional testing.
+
+Jubula is an automated GUI testing tool for a variety of applications (including JavaFX, SWT/RCP, GEF, Swing, ...). The focus of the tool is on improving communication about and through testing, and on providing up to date quality information throughout the development process. It does this in three main ways:
+
+Tests aren’t written in program code, so they are accessible and writable by anyone on the team (even, and especially, members who are not software engineers).
+Tests aren’t written by recording actions and replaying them, since this leads to redundancies, a great deal of effort, and also means that testing can only begin when the feature is completely implemented.
+There’s plenty of support for writing good, stable and robust tests by using reusable modules, separation of data and objects from the test workflow, intelligent checks and error handling.
+Basically, if you want to test that your use cases are actually doable – in the same way that the users will work with your software – but you don’t want to test all your use cases manually, then you should come along to find out more.
+
+This talk will take you on a journey through the "what is Jubula“ via the "how does it work” to a demonstration of the tool including how it plays well with continuous integration and application lifecycle management tools. There'll be time for questions at the end to cover anything else that’s important.
+
 #### `en` Jekyll and Hyde with Jubula
  - [EclipseCon North America][t.2015.ec.jekyll]
+ - [EclipseCon Europe][t.2015.ece.jekyll]
  - [Teaser Video][t.2015.ec.jekyll.teaser]
 
 Can a test tool have more than one personality? Can a new alter ego develop over time? It turns out, yes!
@@ -349,6 +365,8 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [Jubula]: http://www.eclipse.org/jubula
 [support]: http://mtiede.de/misc/vncSupport-win32-win32-x86.exe
 
+[t.2015.ece.j101]: https://www.eclipsecon.org/europe2015/session/jubula-101
+[t.2015.ece.jekyll]: https://www.eclipsecon.org/europe2015/session/jekyll-and-hyde-jubula-automated-testing-both-sides
 [t.2015.ec.jekyll.teaser]: https://www.youtube.com/watch?v=jeNBKf-hAmc
 [t.2015.ec.jekyll]: https://www.eclipsecon.org/na2015/session/jekyll-and-hyde-jubula
 [t.2014.ece.j2j]: https://www.eclipsecon.org/europe2014/session/j2j-javafx-testing-jubula
