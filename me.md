@@ -47,6 +47,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater bei der [BREDEX Gmb
 
 #### `en` Jubula 101
  - [EclipseCon Europe][t.2015.ece.j101]
+ - [Video @ YouTube][t.2015.ece.j101.video]
 
 Come to this talk to get your 101, your 411 and possibly some other important numbers about the Eclipse Jubula project for functional testing.
 
@@ -95,7 +96,7 @@ This talk is primarily aimed at people with a general interest in JavaFX and cod
 #### `en` To infinity and beyond – making Jubula surpass its limits
  - [EclipseCon Europe][t.2013.ece.extend]
  - [PDF Slides][t.2013.ece.extend.slides]
- - [Video][t.2013.ece.extend.video]
+ - [Video @ YouTube][t.2013.ece.extend.video]
 
 As the Jubula team, we’re generally quite proud of the out-of-the-box support we have. However, we’ve been involved in enough projects to know that there are sometimes boundaries that are hard to solve when thinking about realizing them with Jubula, for example:
 
@@ -366,6 +367,7 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [support]: http://mtiede.de/misc/vncSupport-win32-win32-x86.exe
 
 [t.2015.ece.j101]: https://www.eclipsecon.org/europe2015/session/jubula-101
+[t.2015.ece.j101.video]: https://www.youtube.com/watch?v=Xrfasxp77r4
 [t.2015.ece.jekyll]: https://www.eclipsecon.org/europe2015/session/jekyll-and-hyde-jubula-automated-testing-both-sides
 [t.2015.ec.jekyll.teaser]: https://www.youtube.com/watch?v=jeNBKf-hAmc
 [t.2015.ec.jekyll]: https://www.eclipsecon.org/na2015/session/jekyll-and-hyde-jubula
