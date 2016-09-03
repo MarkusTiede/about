@@ -61,7 +61,7 @@ Basically, if you want to test that your use cases are actually doable – in th
 This talk will take you on a journey through the "what is Jubula“ via the "how does it work” to a demonstration of the tool including how it plays well with continuous integration and application lifecycle management tools. There'll be time for questions at the end to cover anything else that’s important.
 
 #### `en` Jekyll and Hyde with Jubula
- - [EclipseCon North America][t.2015.ec.jekyll]
+ - [EclipseCon North America][t.2015.ec.jekyll] - [InfoQ Presentation Video][t.2015.ec.jekyll.video]
  - [EclipseCon Europe][t.2015.ece.jekyll]
  - [Teaser Video][t.2015.ec.jekyll.teaser]
 
@@ -371,6 +371,7 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [t.2015.ece.jekyll]: https://www.eclipsecon.org/europe2015/session/jekyll-and-hyde-jubula-automated-testing-both-sides
 [t.2015.ec.jekyll.teaser]: https://www.youtube.com/watch?v=jeNBKf-hAmc
 [t.2015.ec.jekyll]: https://www.eclipsecon.org/na2015/session/jekyll-and-hyde-jubula
+[t.2015.ec.jekyll.video]: https://www.infoq.com/presentations/jubula-eclipsecon
 [t.2014.ece.j2j]: https://www.eclipsecon.org/europe2014/session/j2j-javafx-testing-jubula
 [t.2013.ece.extend]: http://www.eclipsecon.org/europe2013/infinity-and-beyond-–-making-jubula-surpass-its-limits-presented-bredex
 [t.2013.ece.extend.slides]:  talks/2013-ece-jubula-extend.pdf?raw=true
