@@ -384,11 +384,11 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [t.2013.iq.ch]: http://www.iqnite-conferences.com/ch/
 [t.2013.ec]: https://www.eclipsecon.org/2013/node/1344.html
 [t.2013.ec.slides]:  talks/2013-ec-ci-jubula-hudson.pdf?raw=true
-[t.2012.ece]: http://www.eclipsecon.org/europe2012/sessions/ui-testing-jubula-wacky-widgets
+[t.2012.ece]: http://www.eclipsecon.org/europe2012/sessions/ui-testing-jubula-wacky-widgets.html
 [t.2012.ece.slides]: http://www.eclipsecon.org/europe2012/sites/eclipsecon.org.europe2012/files/UI%20testing%20with%20Jubula%20-%20wacky%20widgets.pdf
-[t.2011.ece]: http://www.eclipsecon.org/europe2011/sessions/starting-eclipse-project-first-90-days…-and-year-follows
+[t.2011.ece]: http://www.eclipsecon.org/europe2011/sessions/starting-eclipse-project-first-90-days…-and-year-follows.html
 [t.2010.seacon]: http://www.sigs-datacom.de/seacon2011/konferenz/sessiondetails.html?tx_mwconferences_pi1%5BshowUid%5D=559&tx_mwconferences_pi1%5Banchor%5D=%23Di41&tx_mwconferences_pi1%5Bs%5D=0
-[t.2009.ese]: http://www.eclipsecon.org/summiteurope2009/sessions?id=920
+[t.2009.ese]: https://www.eclipsecon.org/summiteurope2009/sessions8f23.html?id=920
 [t.2009.el]: http://live.eclipse.org/node/834
 [t.2009.el.slides]: http://www.eclipse.org/community/training/webinars/091201_CrossPlatform_Webinar.pdf
 [t.stpcon]: http://www.stpcon.com
