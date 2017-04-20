@@ -45,6 +45,20 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater mit den Schwerpunkt
 
 ### talks 2017
 
+#### `en` Getting started with Jubula - an UI test automation framework
+ - [EclipseCon France][t.2017.ecf.j]
+
+Over the last couple of years Jubula has grown to a versatile UI test automation framework which supports
+
+ - a wide variety of application technologies (including JavaFX, SWT/RCP, GEF, Swing, HTML, ...) as well as
+ - two very different testing approaches: keyword-based code-free automation in the ITE vs. IDE coding and executing tests directly e.g. as JUnit suites
+
+As with all larger frameworks it is good to know where to start and where to head especially if different paradigms come into play. This talk will give you
+
+ - an overview of Jubula 5.0 (coming with Oxygen) and
+ - a 1:1 hands-on comparison (including many demos) of the pros and cons for the two testing approaches.
+
+This talk is suitable for anyone interested in automated testing, regardless of their experience.
 
 ### talks 2015
 
@@ -368,6 +382,7 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [Jubula]: http://www.eclipse.org/jubula
 [support]: http://mtiede.de/misc/vncSupport-win32-win32-x86.exe
 
+[t.2017.ecf.j]: https://www.eclipsecon.org/france2017/session/getting-started-jubula-ui-test-automation-framework
 [t.2015.ece.j101]: https://www.eclipsecon.org/europe2015/session/jubula-101
 [t.2015.ece.j101.video]: https://www.youtube.com/watch?v=Xrfasxp77r4
 [t.2015.ece.jekyll]: https://www.eclipsecon.org/europe2015/session/jekyll-and-hyde-jubula-automated-testing-both-sides
