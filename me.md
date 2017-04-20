@@ -372,7 +372,6 @@ Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](http://de.wikipedia.org/wik
 ```
 XING:       http://www.xing.com/profile/Markus_Tiede
 Twitter:    http://twitter.com/MarkusTiede
-Atlassian:  http://bitbucket.org/markus_tiede
 this:       http://raw.github.com/MarkusTiede/about/master/me.md
 ```
 
