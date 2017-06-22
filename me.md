@@ -48,6 +48,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater mit den Schwerpunkt
 
 #### `en` Getting started with Jubula - an UI test automation framework
  - [EclipseCon France][t.2017.ecf.j]
+ - [PDF Slides][t.2017.ecf.j.slides]
 
 Over the last couple of years Jubula has grown to a versatile UI test automation framework which supports
 
@@ -386,6 +387,7 @@ this:       http://raw.github.com/MarkusTiede/about/master/me.md
 [support]: http://mtiede.de/misc/vncSupport-win32-win32-x86.exe
 
 [t.2017.ecf.j]: https://www.eclipsecon.org/france2017/session/getting-started-jubula-ui-test-automation-framework
+[t.2017.ecf.j.slides]: https://www.eclipsecon.org/france2017/sites/default/files/slides/2017-ecf-jubula.pdf
 [t.2015.ece.j101]: https://www.eclipsecon.org/europe2015/session/jubula-101
 [t.2015.ece.j101.video]: https://www.youtube.com/watch?v=Xrfasxp77r4
 [t.2015.ece.jekyll]: https://www.eclipsecon.org/europe2015/session/jekyll-and-hyde-jubula-automated-testing-both-sides
