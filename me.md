@@ -326,7 +326,7 @@ Was steckt eigentlich hinter einem Eclipse-Projekt? Welche Entscheidungen sind z
 ### paper 2010
 
 #### `de` Refaktorisieren von Tests - Erfahrungen aus der schlüsselwortgetriebenen Testentwicklung
- - [OBJEKTspektrum][p.2010.os] - Ausgabe 04/2010
+ - [OBJEKTspektrum][p.2010.os.lnk] - [Ausgabe 04/2010][p.2010.os.pdf]
 
 Tests und Testautomatisierung sollen helfen, Kosten zu sparen und die Softwarequalität zu erhöhen. Damit das mittel- bis langfristig gelingt, müssen auch Tests „gehegt und gepflegt” werden. In diesem Artikel erfahren Sie anhand ausführlicher Beispiele, welche Möglichkeiten des Refaktorisierens dabei helfen, dieses Ziel zu erreichen und es nachhaltig zu sichern. Der Artikel basiert auf mehrjährigen Erfahrungen im Bereich des schlüsselwortbasierten Testens, gibt konkrete Hinweise zum erfolgreichen Refaktorisieren in diesem Umfeld und verdeutlicht diese an einer Beispielapplikation mit dazugehörigem Test. [...]
 
@@ -422,11 +422,12 @@ this:       https://raw.github.com/MarkusTiede/about/master/me.md
 
 [p.2015.em]: https://jaxenter.de/jubula-goes-junit-25358
 [p.2014.em]: https://jaxenter.de/jubula-goes-javafx-897
-[p.2014.te]: http://www.testingexperience.com
+[p.2014.te]: http://www.mtiede.de/paper/p.2014.te.pdf
 [p.2013.te]: http://www.mtiede.de/paper/p.2013.te.pdf
 [p.2013.em]: http://www.mtiede.de/paper/p.2013.em.pdf
 [p.2012.jx]: https://jaxenter.de/open-sourcing-release-engineering-eclipse-org-5085
 [p.2012.em]: http://www.mtiede.de/paper/p.2012.em.pdf
 [p.2010.te]: http://www.mtiede.de/paper/p.2010.te.pdf
-[p.2010.os]: https://www.sigs-datacom.de/fachzeitschriften/objektspektrum/archiv/artikelansicht/artikel-titel/refaktorisieren-von-tests-erfahrungen-aus-der-schluesselwortgetriebenen-testentwicklung.html
+[p.2010.os.lnk]: https://www.sigs-datacom.de/fachzeitschriften/objektspektrum/archiv/artikelansicht/artikel-titel/refaktorisieren-von-tests-erfahrungen-aus-der-schluesselwortgetriebenen-testentwicklung.html
+[p.2010.os.pdf]: http://www.mtiede.de/paper/p.2010.os.pdf
 [p.2010.bk]: https://www.amazon.de/Modellbasiertes-Testen-grafischer-Benutzeroberflächen-Erfahrungsbericht/dp/3639239334/
