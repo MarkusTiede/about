@@ -428,5 +428,5 @@ this:       https://raw.github.com/MarkusTiede/about/master/me.md
 [p.2012.jx]: https://jaxenter.de/open-sourcing-release-engineering-eclipse-org-5085
 [p.2012.em]: http://www.mtiede.de/paper/p.2012.em.pdf
 [p.2010.te]: http://www.mtiede.de/paper/p.2010.te.pdf
-[p.2010.os]: http://www.sigs-datacom.de/fachzeitschriften/objektspektrum/aktuelle-ausgabe.html?tx_mwjournals_pi1%5Bpointer%5D=0&tx_mwjournals_pi1%5Bmode%5D=1&tx_mwjournals_pi1%5BshowUid%5D=6634
-[p.2010.bk]: http://www.amazon.de/Modellbasiertes-Testen-grafischer-Benutzeroberflächen-Erfahrungsbericht/dp/3639239334/
+[p.2010.os]: https://www.sigs-datacom.de/fachzeitschriften/objektspektrum/archiv/artikelansicht/artikel-titel/refaktorisieren-von-tests-erfahrungen-aus-der-schluesselwortgetriebenen-testentwicklung.html
+[p.2010.bk]: https://www.amazon.de/Modellbasiertes-Testen-grafischer-Benutzeroberflächen-Erfahrungsbericht/dp/3639239334/
