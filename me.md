@@ -372,9 +372,10 @@ Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](http://de.wikipedia.org/wik
 ## other references / weitere Referenzen
 
 ```
-XING:       http://www.xing.com/profile/Markus_Tiede
-Twitter:    http://twitter.com/MarkusTiede
-this:       http://raw.github.com/MarkusTiede/about/master/me.md
+LinkedIn:   https://www.linkedin.com/in/markus-tiede
+XING:       https://www.xing.com/profile/Markus_Tiede
+Twitter:    https://twitter.com/MarkusTiede
+this:       https://raw.github.com/MarkusTiede/about/master/me.md
 ```
 
 
