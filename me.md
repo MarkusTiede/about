@@ -40,8 +40,6 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater mit den Schwerpunkt
  - [other qualifications / weitere Qualifikationen](#other-qualifications--weitere-qualifikationen)
  - [other references / weitere Referenzen](#other-references--weitere-referenzen)
 
- - [VNC remote support / Fernwartung][support]
-
 ## talks / Vorträge
 
 ### talks 2017
@@ -386,7 +384,6 @@ this:       https://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-en]: http://www.ostfalia.de/cms/en/index.html
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
-[support]: http://mtiede.de/misc/vncSupport-win32-win32-x86.exe
 
 [t.2017.ecf.j.video]: https://www.youtube.com/watch?v=H3DD_5xGHnI
 [t.2017.ecf.j]: https://www.eclipsecon.org/france2017/session/getting-started-jubula-ui-test-automation-framework
