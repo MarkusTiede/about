@@ -44,6 +44,47 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater mit den Schwerpunkt
 
 ### talks 2017
 
+#### `en` UI test automation using the Jubula API: the why, the how and the what
+ - [EclipseCon Europe][t.2017.ece.j]
+ - [reveal.js Slides][t.2017.ece.j.slides]
+ 
+Join Markus and Alex in this tutorial to learn how to use the Jubula Client API to write good UI test cases for your application. UI tests aren’t often a favourite pastime for developers, but they do provide useful feedback from the user perspective: they let us know whether the desired workflows are possible via the UI. They are a great addition to other test levels for a well-designed test strategy.
+
+Jubula’s main target group is testers without programming skills, but since early 2015, the Client API allows users who can program to write Jubula tests. The Client API offers a wide variety of actions for automating via the UI for Swing, SWT/RCP/GEF and JavaFX. 
+
+This tutorial has two main learning objectives:
+
+Working with the Jubula Client API to write automated tests
+Getting started with the concept of equivalence class analysis to write just the right amount of UI test cases. This part is independent of the tool or testing level used and thereby an universal takeaway.
+
+In this tutorial we’ll cover:
+ - An introduction to Jubula and to UI testing
+ - Working with the Client API
+ - Defining and starting applications
+ - Writing tests
+ - Analysing test results
+ - Equivalence class analysis and how to easily apply and use them for UI tests
+ - Integrating Jubula, test design and test automation into your process
+
+#### `en` Pipelining quality - best practices, lessons learned and tools for continuous delivery processes
+ - [EclipseCon Europe][t.2017.ece.p]
+
+In this talk Markus will share hands-on project experience for building and maintaining CI processes applicable in small and large enterprises projects.
+
+After a short introduction to the project context Markus will focus on best practices, lessons learned and tools used within automated deployment chains based on state-of-the-art Jenkins pipelines.
+
+In this talk you will join the journey of an epic, a user story and a bugfix from
+
+ - its beginning as requirement or defect,
+ - over its implementation in source code,
+ - to both static and dynamic code quality assurance mechanisms,
+ - its rollout in integration and acceptance stages,
+ - up to its deployment, monitoring and maintenance in production
+
+This talk aims at anyone interested in general ideas and means for continuous integration techniques in both agile and classic project layouts.
+
+Besides his many years of experience in test automation, Markus recently gained a lot of insights during his daily business working as a release manager and engineer in an ongoing large-scale insurance enterprise project called Galileo at the Basler Versicherungen in Switzerland.
+
 #### `en` Getting started with Jubula - an UI test automation framework
  - [EclipseCon France][t.2017.ecf.j]
  - [PDF Slides][t.2017.ecf.j.slides]
@@ -385,6 +426,9 @@ this:       https://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
 
+[t.2017.ece.j]: https://www.eclipsecon.org/europe2017/session/ui-test-automation-using-jubula-api-why-how-and-what
+[t.2017.ece.j.slides]: https://github.com/open-co-de/tutorial-jubula-api#slides
+[t.2017.ece.p]: https://www.eclipsecon.org/europe2017/session/pipelining-quality-best-practices-lessons-learned-and-tools-continuous-delivery-processes
 [t.2017.ecf.j.video]: https://www.youtube.com/watch?v=H3DD_5xGHnI
 [t.2017.ecf.j]: https://www.eclipsecon.org/france2017/session/getting-started-jubula-ui-test-automation-framework
 [t.2017.ecf.j.slides]: https://www.eclipsecon.org/france2017/sites/default/files/slides/2017-ecf-jubula.pdf
