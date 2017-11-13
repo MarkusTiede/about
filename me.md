@@ -47,7 +47,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater mit den Schwerpunkt
 #### `en` UI test automation using the Jubula API: the why, the how and the what
  - [EclipseCon Europe][t.2017.ece.j]
  - [reveal.js Slides][t.2017.ece.j.slides]
- - Video @ YouTube: [Part 1/5][t.2017.ece.j.video.1], [Part 2/5][t.2017.ece.j.video.2], [Part 3/5][t.2017.ece.j.video.3], [Part 4/5][t.2017.ece.j.video.4], [Part 5/5][t.2017.ece.j.video.5]
+ - Tutorial Recordings (5/5) @ YouTube: [1][t.2017.ece.j.video.1], [2][t.2017.ece.j.video.2], [3][t.2017.ece.j.video.3], [4][t.2017.ece.j.video.4] and [5][t.2017.ece.j.video.5]
  
 Join Markus and Alex in this tutorial to learn how to use the Jubula Client API to write good UI test cases for your application. UI tests aren’t often a favourite pastime for developers, but they do provide useful feedback from the user perspective: they let us know whether the desired workflows are possible via the UI. They are a great addition to other test levels for a well-designed test strategy.
 
