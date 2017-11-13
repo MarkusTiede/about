@@ -47,6 +47,7 @@ Markus Tiede arbeitet als Softwareentwickler und Testberater mit den Schwerpunkt
 #### `en` UI test automation using the Jubula API: the why, the how and the what
  - [EclipseCon Europe][t.2017.ece.j]
  - [reveal.js Slides][t.2017.ece.j.slides]
+ - Video @ YouTube: [Part 1/5][t.2017.ece.j.video.1], [Part 2/5][t.2017.ece.j.video.2], [Part 3/5][t.2017.ece.j.video.3], [Part 4/5][t.2017.ece.j.video.4], [Part 5/5][t.2017.ece.j.video.5]
  
 Join Markus and Alex in this tutorial to learn how to use the Jubula Client API to write good UI test cases for your application. UI tests aren’t often a favourite pastime for developers, but they do provide useful feedback from the user perspective: they let us know whether the desired workflows are possible via the UI. They are a great addition to other test levels for a well-designed test strategy.
 
@@ -428,6 +429,11 @@ this:       https://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
 
+[t.2017.ece.j.video.1]: https://www.youtube.com/watch?v=2qjkdtxBEds
+[t.2017.ece.j.video.2]: https://www.youtube.com/watch?v=gHe5ipMGiYM
+[t.2017.ece.j.video.3]: https://www.youtube.com/watch?v=VAhFxveocB0
+[t.2017.ece.j.video.4]: https://www.youtube.com/watch?v=aG1-p19HgQY
+[t.2017.ece.j.video.5]: https://www.youtube.com/watch?v=ZvmCdLH7okE
 [t.2017.ece.j]: https://www.eclipsecon.org/europe2017/session/ui-test-automation-using-jubula-api-why-how-and-what
 [t.2017.ece.j.slides]: https://github.com/open-co-de/tutorial-jubula-api#slides
 [t.2017.ece.p]: https://www.eclipsecon.org/europe2017/session/pipelining-quality-best-practices-lessons-learned-and-tools-continuous-delivery-processes
