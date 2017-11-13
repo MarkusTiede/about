@@ -454,7 +454,7 @@ this:       https://raw.github.com/MarkusTiede/about/master/me.md
 [t.2013.ece.tutorial]: https://www.eclipsecon.org/europe2013/jubula-tutorial-–-specify-execute-analyze.html
 [t.2013.ece.tutorial.slides]: http://www.eclipsecon.org/europe2013/sites/eclipsecon.org.europe2013/files/JubulaTutorial.pdf
 [t.2013.ece.mobile]: https://www.eclipsecon.org/europe2013/testing-mobile-applications-jubula.html
-[t.2013.dwx]: http://www.developer-week.de/Programm/Veranstaltung/(event)/11089
+[t.2013.dwx]: http://www.developer-week.de
 [t.2013.dwx.slides]: talks/2013-dwx-mobile-testing.pdf?raw=true
 [t.2013.iq]: http://www.iqnite-conferences.com
 [t.2013.ec]: https://www.eclipsecon.org/2013/node/1344.html
