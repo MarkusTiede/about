@@ -143,6 +143,7 @@ We’ll show how the steps to start AUTs, write tests and perform test execution
 
 #### `en` J2J - JavaFX testing with Jubula
  - [EclipseCon Europe][t.2014.ece.j2j]
+ - [PDF Slides][t.2014.ece.j2j.slides]
 
 JavaFX is the new black in modern Java based Ul technologies - again. And as of Java 8 a stable and refined JavaFX API is available out-of-the-box for the general public. That said, it's no wonder that we - the Jubula team - have been working very hard to support this new Ul technology for test automation right from the very beginning.
 
@@ -441,13 +442,14 @@ this:       https://raw.github.com/MarkusTiede/about/master/me.md
 [t.2017.ecf.j.video]: https://www.youtube.com/watch?v=H3DD_5xGHnI
 [t.2017.ecf.j]: https://www.eclipsecon.org/france2017/session/getting-started-jubula-ui-test-automation-framework
 [t.2017.ecf.j.slides]: https://www.eclipsecon.org/france2017/sites/default/files/slides/2017-ecf-jubula.pdf
-[t.2015.ece.j101]: https://www.eclipsecon.org/europe2015/session/jubula-101
+[t.2015.ece.j101]: https://www.eclipsecon.org/europe2015/session/jubula-101.html
 [t.2015.ece.j101.video]: https://www.youtube.com/watch?v=Xrfasxp77r4
-[t.2015.ece.jekyll]: https://www.eclipsecon.org/europe2015/session/jekyll-and-hyde-jubula-automated-testing-both-sides
+[t.2015.ece.jekyll]: https://www.eclipsecon.org/europe2015/session/jekyll-and-hyde-jubula-automated-testing-both-sides.html
 [t.2015.ec.jekyll.teaser]: https://www.youtube.com/watch?v=jeNBKf-hAmc
-[t.2015.ec.jekyll]: https://www.eclipsecon.org/na2015/session/jekyll-and-hyde-jubula
+[t.2015.ec.jekyll]: https://www.eclipsecon.org/na2015/session/jekyll-and-hyde-jubula.html
 [t.2015.ec.jekyll.video]: https://www.infoq.com/presentations/jubula-eclipsecon
-[t.2014.ece.j2j]: https://www.eclipsecon.org/europe2014/session/j2j-javafx-testing-jubula
+[t.2014.ece.j2j]: https://www.eclipsecon.org/europe2014/session/j2j-javafx-testing-jubula.html
+[t.2014.ece.j2j.slides]: http://www.eclipsecon.org/europe2014/sites/default/files/slides/2014-ece-j2j.pdf
 [t.2013.ece.extend]: https://www.eclipsecon.org/europe2013/infinity-and-beyond-–-making-jubula-surpass-its-limits.html
 [t.2013.ece.extend.slides]:  talks/2013-ece-jubula-extend.pdf?raw=true
 [t.2013.ece.extend.video]:  http://www.youtube.com/watch?v=prNt5_LhXdo
