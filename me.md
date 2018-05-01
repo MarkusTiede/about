@@ -15,10 +15,10 @@
 ## bio
 
 ### en
-Markus is a software developer and tester. His main areas of expertise are the design of automated tests and Eclipse-RCP development. He is one of the developers for the open-source, UI test automation tool [Jubula][], the former Package Maintainer for „Eclipse for Testers“ and holds a Diplom (German degree) in Computer Science from the [University of Applied Sciences in Braunschweig][ostfalia-en].
+Markus is a software developer and release engineer with focus on high quality standards. Besides being an open-source Eclipse Foundation committer and Package Maintainer for „Eclipse for Testers“ he holds a Diplom (German degree) in Computer Science from the [University of Applied Sciences in Braunschweig][ostfalia-en].
 
 ### de
-Markus Tiede arbeitet als Softwareentwickler und Testberater mit den Schwerpunkten auf Eclipse RCP-Entwicklung und dem Design von automatisierten Regressionstests. Markus ist darüber hinaus Eclipse Committer im UI-Testautomatisierungsprojekt [Jubula][], Package Maintainer für „Eclipse for Testers“ und hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de].
+Markus Tiede arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus auf hohe Qualitätsstandards. Markus ist darüber hinaus Eclipse Foundation Committer, Package Maintainer für „Eclipse for Testers“ und hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de].
 
 ![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
 
