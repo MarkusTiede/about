@@ -7,7 +7,6 @@
 
 ![An official picture of me - Markus Tiede](me.jpg "Markus Tiede")
 
-
 ```
 * 28.06.1985
 ```
@@ -394,6 +393,10 @@ ISBN-13: 978-3639239331
 Dieses Buch beschäftigt sich mit dem Thema, aus Modellgraphen, die Informationen zur Funktionsweise eines Systems beinhalten, Testabläufe zu generieren. Das Buch erläutert dabei das zugrundeliegende Datenmodell der Modelle und zeigt, wie auf dieser Basis Testabläufe erstellt und gepflegt werden können. Auch die zur Umsetzung verwendeten Frameworks, wie das "Eclipse Modeling Framework" (EMF), das "Graphical Modeling Framework" (GMF) und die "Eclipse RCP" werden detailliert vorgestellt. Softwareergonomische Aspekte und Anwendungsbeispiele der Software schließen das Buch ab.
 
 ## other qualifications / weitere Qualifikationen
+
+### 2018: iSAQB Certified Professional for Software Architecture – Foundation Level
+
+Erfolgreiche Zertifizierung zum "Certified Professional for Software Architecture" des [iSAQB CPSA-F®](https://www.isaqb.org/certifications/foundation-level/)
 
 ### 2013: Certified ScrumMaster®
 
