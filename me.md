@@ -394,7 +394,7 @@ Dieses Buch beschäftigt sich mit dem Thema, aus Modellgraphen, die Informatione
 
 ## other qualifications / weitere Qualifikationen
 
-### 2018: iSAQB Certified Professional for Software Architecture – Foundation Level
+### 2018: Certified Professional for Software Architecture – Foundation Level (iSAQB)
 
 Erfolgreiche Zertifizierung zum "Certified Professional for Software Architecture" des [iSAQB CPSA-F®](https://www.isaqb.org/certifications/foundation-level/)
 
