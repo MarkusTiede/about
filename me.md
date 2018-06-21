@@ -397,12 +397,16 @@ Dieses Buch beschäftigt sich mit dem Thema, aus Modellgraphen, die Informatione
 
 Erfolgreiche Zertifizierung zum "Certified Professional for Software Architecture" des [iSAQB CPSA-F®](https://www.isaqb.org/certifications/foundation-level/)
 
+---
+![My iSAQB CPSA-F®](documents/cert-isaqb-cpsa-f.jpg "iSAQB CPSA-F® certificate")
+---
+
 ### 2013: Certified ScrumMaster®
 
 Erfolgreiche Zertifizierung zum [CSM¹](http://www.scrumalliance.org/community/profile/mtiede).
 
 ---
-![My CSM certificate.](documents/cert-csm.png "ScrumMaster® certificate")
+![My CSM certificate](documents/cert-csm.png "ScrumMaster® certificate")
 ---
 ¹ Certified ScrumMaster is a certification mark of [Scrum Alliance, Inc](http://www.scrumalliance.org).  Any unauthorized use is strictly prohibited.
 
@@ -411,7 +415,7 @@ Erfolgreiche Zertifizierung zum [CSM¹](http://www.scrumalliance.org/community/p
 Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](http://de.wikipedia.org/wiki/Ausbilder#Ausbildung_in_Deutschland) der [IHK Braunschweig](http://www.braunschweig.ihk.de).
 
 ---
-![My AEVO certificate.](documents/cert-aevo.jpg "AEVO certificate")
+![My AEVO certificate](documents/cert-aevo.jpg "AEVO certificate")
 ---
 
 ## other references / weitere Referenzen
