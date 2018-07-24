@@ -424,6 +424,7 @@ Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](http://de.wikipedia.org/wik
 LinkedIn:   https://www.linkedin.com/in/markus-tiede
 XING:       https://www.xing.com/profile/Markus_Tiede
 Twitter:    https://twitter.com/MarkusTiede
+OpenHub:    https://www.openhub.net/accounts/MarkusTiede
 this:       https://raw.github.com/MarkusTiede/about/master/me.md
 ```
 
