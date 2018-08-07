@@ -25,7 +25,7 @@ Markus Tiede arbeitet als Softwareentwickler und Release-Engineer mit starkem Fo
 
 |      | [talks / Vorträge](#talks--vorträge) | [paper / Artikel](#paper--artikel)  |
 | ---- | ------------------:| ------------------:|
-| 2018 |                    |                    |
+| 2018 | [...](#talks-2018) |                    |
 | 2017 | [...](#talks-2017) |                    |
 | 2016 |                    |                    |
 | 2015 | [...](#talks-2015) | [...](#paper-2015) |
@@ -41,6 +41,28 @@ Markus Tiede arbeitet als Softwareentwickler und Release-Engineer mit starkem Fo
  - [other references / weitere Referenzen](#other-references--weitere-referenzen)
 
 ## talks / Vorträge
+
+### talks 2018
+
+#### `en` Pipelining quality - best practices, lessons learned and tools for continuous delivery processes
+ - [BaselOne][t.2018.bo]
+ - [Slides][t.2018.bo.slides]
+
+In this talk Markus will share hands-on project experience for building and maintaining CI processes applicable in small and large enterprises projects.
+
+After a short introduction to the project context Markus will focus on best practices, lessons learned and tools used within automated deployment chains based on state-of-the-art Jenkins pipelines.
+
+In this talk you will join the journey of an epic, a user story and a bugfix from
+
+ - its beginning as requirement or defect,
+ - over its implementation in source code,
+ - to both static and dynamic code quality assurance mechanisms,
+ - its rollout in integration and acceptance stages,
+ - up to its deployment, monitoring and maintenance in production
+
+This talk aims at anyone interested in general ideas and means for continuous integration techniques in both agile and classic project layouts.
+
+Besides his many years of experience in test automation, Markus recently gained a lot of insights during his daily business working as a release manager and engineer in an ongoing large-scale insurance enterprise project called Galileo at the Basler Versicherungen in Switzerland.
 
 ### talks 2017
 
@@ -437,6 +459,8 @@ this:       https://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
 
+[t.2018.bo]: https://www.baselone.ch/speech/2EB646BE-C762-49EA-B262-CFEDACC973C6/Pipelining-quality---best-practices--lessons-learned-and-tools-for-continuous-delivery-processes
+[t.2018.bo.slides]: https://gitpitch.com/baloise/talk-galileo_pipeliningQuality/18-baselone
 [t.2017.ece.j]: https://www.eclipsecon.org/europe2017/session/ui-test-automation-using-jubula-api-why-how-and-what
 [t.2017.ece.j.slides]: https://github.com/open-co-de/tutorial-jubula-api#slides
 [t.2017.ece.p]: https://www.eclipsecon.org/europe2017/session/pipelining-quality-best-practices-lessons-learned-and-tools-continuous-delivery-processes
