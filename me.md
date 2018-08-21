@@ -423,14 +423,14 @@ Erfolgreiche Zertifizierung zum "Certified Professional for Software Architectur
 ![My iSAQB CPSA-F®](documents/cert-isaqb-cpsa-f.jpg "iSAQB CPSA-F® certificate")
 ---
 
-### 2013: Certified ScrumMaster®
+### 2013: Certified ScrumMaster® (CSM®)
 
-Erfolgreiche Zertifizierung zum [CSM¹](http://www.scrumalliance.org/community/profile/mtiede).
+Erfolgreiche Zertifizierung zum [CSM®¹](http://bcert.me/sqbimzrq).
 
 ---
-![My CSM certificate](documents/cert-csm.png "ScrumMaster® certificate")
+![My CSM certificate](documents/cert-csm.png "Certified ScrumMaster® certificate")
 ---
-¹ Certified ScrumMaster is a certification mark of [Scrum Alliance, Inc](http://www.scrumalliance.org).  Any unauthorized use is strictly prohibited.
+¹ Certified ScrumMaster® is a certification mark of [Scrum Alliance®, Inc](http://www.scrumalliance.org). Any unauthorized use is strictly prohibited.
 
 ### 2009: IHK Ausbilderschein
 
