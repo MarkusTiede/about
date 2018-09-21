@@ -5,7 +5,7 @@
 > Softwaredeveloper
 ```
 
-![An official picture of me - Markus Tiede](img/me.jpg "Markus Tiede")
+![An official picture of me - Markus Tiede](img/me-circle.png "Markus Tiede")
 
 ```
 * 28.06.1985
