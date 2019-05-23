@@ -312,7 +312,6 @@ Ab März werden Kernteile von GUIdancer als Open Source Projekt in der Eclipse F
 
 #### `en` Write Once, Test Everywhere? Cross Platform Development and Testing with Eclipse
  - [Eclipse Summit Europe][t.2009.ese]
- - [Eclipse Live - Webinar][t.2009.el]
  - [PDF Slides][t.2009.el.slides]
 
 How platform independent are Eclipse applications in practice? This talk looks at some of the differences between operating systems supported by Eclipse with respect to RCP applications and examines their effects on usability, development and testing.
@@ -464,7 +463,7 @@ this:       https://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
 
-[t.2018.bo]: https://www.baselone.ch/speech/2EB646BE-C762-49EA-B262-CFEDACC973C6/Pipelining-quality---best-practices--lessons-learned-and-tools-for-continuous-delivery-processes
+[t.2018.bo]: https://baselone.ch/dam/baselone/assets/pdf/pipeliningQuality.pdf
 [t.2018.bo.slides]: https://gitpitch.com/baloise/talk-galileo_pipeliningQuality/18-baselone
 [t.2017.ece.j]: https://www.eclipsecon.org/europe2017/session/ui-test-automation-using-jubula-api-why-how-and-what
 [t.2017.ece.j.slides]: https://github.com/open-co-de/tutorial-jubula-api#slides
@@ -496,9 +495,8 @@ this:       https://raw.github.com/MarkusTiede/about/master/me.md
 [t.2012.ece]: http://www.eclipsecon.org/europe2012/sessions/ui-testing-jubula-wacky-widgets.html
 [t.2012.ece.slides]: http://www.eclipsecon.org/europe2012/sites/eclipsecon.org.europe2012/files/UI%20testing%20with%20Jubula%20-%20wacky%20widgets.pdf
 [t.2011.ece]: http://www.eclipsecon.org/europe2011/sessions/starting-eclipse-project-first-90-days…-and-year-follows.html
-[t.2010.seacon]: http://www.sigs-datacom.de/seacon2011/konferenz/sessiondetails.html?tx_mwconferences_pi1%5BshowUid%5D=559&tx_mwconferences_pi1%5Banchor%5D=%23Di41&tx_mwconferences_pi1%5Bs%5D=0
+[t.2010.seacon]: https://www.sigs-datacom.de
 [t.2009.ese]: https://www.eclipsecon.org/summiteurope2009/sessions8f23.html?id=920
-[t.2009.el]: http://live.eclipse.org/node/834
 [t.2009.el.slides]: http://www.eclipse.org/community/training/webinars/091201_CrossPlatform_Webinar.pdf
 [t.stpcon]: http://www.stpcon.com
 [t.2008.stpcon.slides]: talks/2008-stpcon-lt.pdf?raw=true
