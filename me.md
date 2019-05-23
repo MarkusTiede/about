@@ -438,7 +438,7 @@ Erfolgreiche Zertifizierung zum [CSM®¹](http://bcert.me/sqbimzrq).
 
 ### 2009: IHK Ausbilderschein
 
-Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](http://de.wikipedia.org/wiki/Ausbilder#Ausbildung_in_Deutschland) der [IHK Braunschweig](http://www.braunschweig.ihk.de).
+Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](https://de.wikipedia.org/wiki/Ausbilder#Ausbildung_in_Deutschland) der [IHK Braunschweig](http://www.braunschweig.ihk.de).
 
 ---
 ![My AEVO certificate](documents/cert-aevo.jpg "AEVO certificate")
