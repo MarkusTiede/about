@@ -416,9 +416,13 @@ Dieses Buch beschäftigt sich mit dem Thema, aus Modellgraphen, die Informatione
 
 ## other qualifications / weitere Qualifikationen
 
-### 2018: Certified Professional for Software Architecture – Foundation Level (iSAQB)
+### 2019: ISTQB® - Certified Tester - Foundation Level
 
-Erfolgreiche Zertifizierung zum "Certified Professional for Software Architecture" des [iSAQB CPSA-F®](https://www.isaqb.org/certifications/foundation-level/)
+Erfolgreiche Zertifizierung zum ["Certified Tester - Foundation Level (CTFL)" des ISTQB®](https://www.istqb.org/certification-path-root/foundation-level-2018.html)
+
+### 2018: iSAQB® - Certified Professional for Software Architecture – Foundation Level
+
+Erfolgreiche Zertifizierung zum ["Certified Professional for Software Architecture (CPSA-F®)" des iSAQB®](https://www.isaqb.org/certifications/foundation-level/)
 
 ---
 ![My iSAQB CPSA-F®](documents/cert-isaqb-cpsa-f.jpg "iSAQB CPSA-F® certificate")
