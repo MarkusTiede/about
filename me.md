@@ -419,6 +419,10 @@ Dieses Buch beschäftigt sich mit dem Thema, aus Modellgraphen, die Informatione
 
 Erfolgreiche Zertifizierung zum ["Certified Tester - Foundation Level (CTFL)" des ISTQB®](https://www.istqb.org/certification-path-root/foundation-level-2018.html)
 
+---
+![My ISTQB® - Certified Tester - Foundation Level Certificate](documents/cert-istqb-ct-fl.jpg "ISTQB® - Certified Tester - Foundation Level certificate")
+---
+
 ### 2018: iSAQB® - Certified Professional for Software Architecture – Foundation Level
 
 Erfolgreiche Zertifizierung zum ["Certified Professional for Software Architecture (CPSA-F®)" des iSAQB®](https://www.isaqb.org/certifications/foundation-level/)
