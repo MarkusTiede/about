@@ -48,7 +48,7 @@ Markus Tiede arbeitet als Softwareentwickler und Release-Engineer mit starkem Fo
 #### `de` Open-Source (Software) in der Versicherung(swelt)
  - [DINAcon][t.2019.dina]
 
-Versicherung und Open-Source - (wie) passt das zusammen? Diese Session gibt am Beispiel der langjährigen Erfahrungen in der Basler Versicherung einen detaillierten Einblick zum Thema "Einsatz von", "Zusammenarbeit mit" und "Freigabe von" Open-Source (Software). Wir stellen konkret vor: welche open-source Projekte bei uns im (produktiven) Einsatz sind, an welchen Projekten wir (wie) aktiv mitarbeiten, und welche Artefakte wir selber schon publizieren. Diese Vorstellung wird eingerahmt von Erkenntnissen und Lessons-Learned die wir entlang dieses Entwicklungspfades gesammelt haben.
+Versicherung und Open-Source - (wie) passt das zusammen? Diese Session gibt am Beispiel der langjährigen Erfahrungen in der Basler Versicherung einen detaillierten Einblick zum Thema "Einsatz von", "Zusammenarbeit mit" und "Freigabe von" Open-Source (Software).
 
 Schon seit einigen Jahren gibt es eine aktive Open-Source Community (https://github.com/baloise) innerhalb des Schweizer Versicherungskonzerns. Wir wollen im Rahmen dieser Session vorstellen,
  - welche open-source Projekte bei uns im (produktiven) Einsatz sind,
