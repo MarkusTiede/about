@@ -25,7 +25,7 @@ Markus Tiede arbeitet als Softwareentwickler und Release-Engineer mit starkem Fo
 
 |      | [talks / Vorträge](#talks--vorträge) | [paper / Artikel](#paper--artikel)  |
 | ---- | ------------------:| ------------------:|
-| 2019 |                    |                    |
+| 2019 | [...](#talks-2019) |                    |
 | 2018 | [...](#talks-2018) |                    |
 | 2017 | [...](#talks-2017) |                    |
 | 2016 |                    |                    |
@@ -42,6 +42,20 @@ Markus Tiede arbeitet als Softwareentwickler und Release-Engineer mit starkem Fo
  - [other references / weitere Referenzen](#other-references--weitere-referenzen)
 
 ## talks / Vorträge
+
+### talks 2019
+
+#### `de` Open-Source (Software) in der Versicherung(swelt)
+ - [DINAcon][t.2019.dina]
+
+Versicherung und Open-Source - (wie) passt das zusammen? Diese Session gibt am Beispiel der langjährigen Erfahrungen in der Basler Versicherung einen detaillierten Einblick zum Thema "Einsatz von", "Zusammenarbeit mit" und "Freigabe von" Open-Source (Software). Wir stellen konkret vor: welche open-source Projekte bei uns im (produktiven) Einsatz sind, an welchen Projekten wir (wie) aktiv mitarbeiten, und welche Artefakte wir selber schon publizieren. Diese Vorstellung wird eingerahmt von Erkenntnissen und Lessons-Learned die wir entlang dieses Entwicklungspfades gesammelt haben.
+
+Schon seit einigen Jahren gibt es eine aktive Open-Source Community (https://github.com/baloise) innerhalb des Schweizer Versicherungskonzerns. Wir wollen im Rahmen dieser Session vorstellen,
+ - welche open-source Projekte bei uns im (produktiven) Einsatz sind,
+ - an welchen Projekten wir (wie) aktiv mitarbeiten,
+ - und welche Artefakte wir selber schon publizieren.
+
+Diese Vorstellung wird eingerahmt von Erkenntnissen und Lessons-Learned die wir entlang dieses Entwicklungspfades gesammelt haben.
 
 ### talks 2018
 
@@ -467,6 +481,7 @@ this:       https://raw.github.com/MarkusTiede/about/master/me.md
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
 
+[t.2019.dina]: https://dinacon.ch/sessions/2019/open-source-software-in-der-versicherungswelt/
 [t.2018.bo]: https://baselone.ch/dam/baselone/assets/pdf/pipeliningQuality.pdf
 [t.2018.bo.slides]: https://gitpitch.com/baloise/talk-galileo_pipeliningQuality/18-baselone
 [t.2017.ece.j]: https://www.eclipsecon.org/europe2017/session/ui-test-automation-using-jubula-api-why-how-and-what
