@@ -64,6 +64,16 @@ Schon seit einigen Jahren gibt es eine aktive Open-Source Community (https://git
 
 Diese Vorstellung wird eingerahmt von Erkenntnissen und Lessons-Learned die wir entlang dieses Entwicklungspfades gesammelt haben.
 
+#### `de` (Wissens)-Allmende 2.0 by Baloise Group
+ - [Digitaltag Schweiz][t.2019.dt]
+ - [Slides][t.2019.dt.slides]
+
+Die Baloise ist Versicherung und Bank in einem und das mit über 150 Jahren Tradition. Mindestens ähnlich alt ist die Idee des Gemeinguts, oder Allmende.
+
+Im Zeitalter der Digitalisierung ergeben sich für diese altbewährten Konzepte neue Chancen. Denn bei der sogenannten Wissensallmende, also digitalisierte Ideen und Informationen, spielt die so genannte "Problematik der Allmende" keine Rolle: Im Unterschied zu Acker- oder Weideland verlieren Informationen durch intensivere Nutzung nicht an Wert. Eine intensive, gemeinsame Nutzung und Pflege solcher Güter lohnt sich also heute mehr denn je!
+
+Wie wir das bei der Basler leben, wohlgleich noch seinen Anfängen, wollen wir euch sehr gerne zeigen!
+
 ### talks 2018
 
 #### `en` Pipelining quality - best practices, lessons learned and tools for continuous delivery processes
@@ -478,6 +488,8 @@ Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](https://de.wikipedia.org/wi
 [Jubula]: http://www.eclipse.org/jubula
 
 [t.2019.dina]: https://dinacon.ch/sessions/2019/open-source-software-in-der-versicherungswelt/
+[t.2019.dt]: https://www.digitaltag.swiss/programm/baloise-wissens-allmende-2.0/
+[t.2019.dt.slides]: https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-commons
 [t.2018.bo]: https://baselone.ch/dam/baselone/assets/pdf/pipeliningQuality.pdf
 [t.2018.bo.slides]: https://gitpitch.com/baloise/talk-galileo_pipeliningQuality/18-baselone
 [t.2017.ece.j]: https://www.eclipsecon.org/europe2017/session/ui-test-automation-using-jubula-api-why-how-and-what
