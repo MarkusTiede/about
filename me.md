@@ -1,10 +1,11 @@
 # Markus Andreas Tiede
 
 ```
-> Dipl.-Inf. (FH)
+Dipl.-Inf. (FH)
 
-> Competence Center Co-Lead & Owner - Software Engineering (CCO SE)
-> Intr<open>eur @ Baloise Group
+Competence Center Co-Lead & Owner - Software Engineering (CCO SE)
+
+Intr<open>eur @ Baloise Group
 ```
 
 ![An official picture of me - Markus Tiede](img/me-circle.png "Markus Tiede")
