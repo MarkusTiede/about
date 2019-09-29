@@ -1,8 +1,8 @@
-# Markus Tiede
+# Markus Andreas Tiede
 
 ```
 > Dipl.-Inf. (FH)
-> Softwaredeveloper
+> softwareengineer & Intr<open>eur
 ```
 
 ![An official picture of me - Markus Tiede](img/me-circle.png "Markus Tiede")
