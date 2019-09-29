@@ -2,7 +2,7 @@
 
 ```
 > Dipl.-Inf. (FH)
->
+
 > Competence Center Co-Lead & Owner - Software Engineering (CCO SE)
 > Intr<open>eur @ Baloise Group
 ```
