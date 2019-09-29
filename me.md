@@ -2,7 +2,7 @@
 
 ```
 > Dipl.-Inf. (FH)
-> softwareengineer & Intr<open>eur
+> Softwareengineer & Intr<open>eur
 ```
 
 ![An official picture of me - Markus Tiede](img/me-circle.png "Markus Tiede")
