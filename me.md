@@ -2,7 +2,9 @@
 
 ```
 > Dipl.-Inf. (FH)
-> Softwareengineer & Intr<open>eur
+>
+> Competence Center Co-Lead & Owner - Software Engineering (CCO SE)
+> Intr<open>eur @ Baloise Group
 ```
 
 ![An official picture of me - Markus Tiede](img/me-circle.png "Markus Tiede")
