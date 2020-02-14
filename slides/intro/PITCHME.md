@@ -2,7 +2,7 @@
 @title[about]
  
 @snap[west span-40 text-center]
-### Markus Tiede
+#### Markus Tiede
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
 ![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
 @snapend 
@@ -12,5 +12,5 @@
 
 @fa[quote-left text-white](Intr]open[eur)
 
-### @Baloise Group
+#### @Baloise Group
 @snapend
