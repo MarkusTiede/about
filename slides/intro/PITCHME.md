@@ -9,8 +9,6 @@
 
 @snap[east span-40 text-center text-08]
 @css[text-white](Competence Center Co-Lead & Owner - Software Engineering)
-
-@fa[quote-left text-white](Intr]open[eur)
-
 #### @Baloise Group
+@fa[quote-left text-white](Intr]open[eur)
 @snapend
