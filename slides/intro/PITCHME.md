@@ -2,14 +2,13 @@
 @title[about]
  
 @snap[west span-40 text-center]
-
-### Markus Tiede
-@fa[quote-left]()
+##### Markus Tiede
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
+@fa[quote-left](Intr<open>eur)
 @snapend 
 
 @snap[north-east span-40 text-08]
-@box[bg-green](Competence Center Co-Lead & Owner - Software Engineering (CCO SE) @ [Baloise](https://www.github.com/baloise))
+#### Competence Center Co-Lead & Owner - Software Engineering (CCO SE) @ [Baloise](https://www.github.com/baloise)
 @snapend
 
 @snap[east span-40 text-08]
@@ -17,5 +16,5 @@
 @snapend
 
 @snap[south-east span-40 text-08]
-@box[bg-gold](Lorum ipsum...)
+#### Lorum ipsum...
 @snapend
