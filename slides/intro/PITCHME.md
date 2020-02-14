@@ -7,14 +7,10 @@
 @fa[quote](Intr]open[eur)
 @snapend 
 
-@snap[north-east span-40 text-center text-08]
-@css[text-white](Competence Center Co-Lead & Owner - Software Engineering (CCO SE))
-@snapend
-
 @snap[east span-40 text-center text-08]
-![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
-@snapend
+@css[text-white](Competence Center Co-Lead & Owner - Software Engineering (CCO SE))
 
-@snap[south-east span-40 text-center text-08]
+![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
+
 @css[text-white]([Baloise](https://www.github.com/baloise))
 @snapend
