@@ -1,4 +1,4 @@
-# Markus Andrea[s](https://gitpitch.com/markustiede/about/master?p=slides/intro) Tiede
+# Marku[s](https://gitpitch.com/markustiede/about/master?p=slides/intro) Andreas Tiede
 
 ```
 Dipl.-Inf. (FH)
