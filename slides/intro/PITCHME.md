@@ -1,8 +1,8 @@
----?color=linear-gradient(100deg, white 50%, #lightgreen 50%)
+---?color=linear-gradient(100deg, white 50%, lightgreen 50%)
 @title[about]
  
 @snap[west span-40 text-center]
-##### Markus @css[text-grey](Andreas) Tiede
+##### Markus Tiede
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
 @fa[quote](Intr]open[eur)
 @snapend 
