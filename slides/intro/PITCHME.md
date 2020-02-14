@@ -4,13 +4,13 @@
 @snap[west span-40 text-center]
 ##### Markus Tiede
 ![me](https://github.com/MarkusTiede/about/raw/master/img/me-circle.png)
-@fa[quote](Intr]open[eur)
+![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
 @snapend 
 
 @snap[east span-40 text-center text-08]
-@css[text-white](Competence Center Co-Lead & Owner - Software Engineering (CCO SE))
+@css[text-white](Competence Center Co-Lead & Owner - Software Engineering: CCO SE
 
-![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
+@fa[quote-left](Intr]open[eur)
 
-@css[text-white]([Baloise](https://www.github.com/baloise))
+##### [Baloise Group](https://www.github.com/baloise)
 @snapend
