@@ -1,4 +1,4 @@
----?color=linear-gradient(100deg, white 50%, lightgreen 50%)
+---?color=linear-gradient(100deg, white 50%, #3DA639 50%)
 @title[about]
  
 @snap[west span-40 text-center]
