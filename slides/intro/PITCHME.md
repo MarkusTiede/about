@@ -1,3 +1,4 @@
+<!-- OSI light-green color code: https://opensource.org/logo-usage-guidelines#Color_Palette -->
 ---?color=linear-gradient(100deg, white 50%, #3DA639 50%)
 @title[about]
  
