@@ -14,6 +14,8 @@ Dipl.-Inf. (FH)
 
 ### Competence Center Co-Lead & Owner - Software Engineering (CCO SE) & [Intr`<open>`eur](https://en.wikipedia.org/wiki/Intrapreneurship) @ [Baloise Group](https://baloise.github.io)
 
+### Member of executive board @ [CH Open](https://www.ch-open.ch)
+
 ## bio
 
 ### en
@@ -47,6 +49,7 @@ Markus Tiede arbeitet als Softwareentwickler und Release-Engineer mit starkem Fo
 | profiles @... |
 | :--: |
 | [![Twitter](https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/200px-Twitter_bird_logo_2012.svg.png "Twitter")](https://twitter.com/MarkusTiede) |
+| [![CH Open](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)](https://www.ch-open.ch/en/ueber-ch-open/vorstand/) |
 | [![Eclipse Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eclipse_Foundation_Logo.svg/200px-Eclipse_Foundation_Logo.svg.png "Eclipse Foundation")](https://accounts.eclipse.org/users/mtiede) |
 | [![App(le)Store](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/100px-Apple_logo_black.svg.png)](https://apps.apple.com/de/developer/markus-tiede/id1086476841) |
 | [**OpenHub.net**](https://www.openhub.net/accounts/MarkusTiede) |
