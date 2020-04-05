@@ -2,17 +2,17 @@
 
 ```
 Dipl.-Inf. (FH)
-
-Competence Center Co-Lead & Owner - Software Engineering (CCO SE)
 ```
-
-### [Intr`<open>`eur](https://en.wikipedia.org/wiki/Intrapreneurship) @ [Baloise Group](https://www.baloise.com)
 
 ![An official picture of me - Markus Tiede](img/me-circle.png "Markus Tiede")
 
 ```
 * 28.06.1985
 ```
+
+## role(s)
+
+### Competence Center Co-Lead & Owner - Software Engineering (CCO SE) & [Intr`<open>`eur](https://en.wikipedia.org/wiki/Intrapreneurship) @ [Baloise Group](https://baloise.github.io)
 
 ## bio
 
