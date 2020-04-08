@@ -445,6 +445,8 @@ A well thought-out system of event handling is therefore necessary to ensure tha
 #### `de` Modellbasiertes Testen grafischer Benutzeroberflächen: Ein Erfahrungsbericht
  - [Amazon.de][p.2010.bk]
 
+![Modellbasiertes Testen grafischer Benutzeroberflächen - Buchcover](documents/book-cover-mbt.jpg)
+
 ```
 Taschenbuch: 108 Seiten
 Verlag: VDM Verlag Dr. Müller
