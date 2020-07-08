@@ -22,7 +22,7 @@ Dipl.-Inf. (FH)
 Markus is a software developer and release engineer with focus on high quality standards. Besides being a former open-source Eclipse Foundation committer and Package Maintainer for „Eclipse for Testers“ he holds a Diplom (German degree) in Computer Science from the [University of Applied Sciences in Braunschweig][ostfalia-en].
 
 ### de
-Markus Tiede arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus auf hohe Qualitätsstandards. Markus ist darüber hinaus ein ehemaliger Eclipse Foundation Committer, Package Maintainer für „Eclipse for Testers“ und hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de].
+Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus auf hohe Qualitätsstandards. Markus ist darüber hinaus ein ehemaliger Eclipse Foundation Committer, Package Maintainer für „Eclipse for Testers“ und hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de].
 
 ## ToC / Inhaltsverzeichnis
 
