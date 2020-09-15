@@ -14,6 +14,7 @@ Dipl.-Inf. (FH)
 
 ### Competence Center Co-Lead & Owner - Software Engineering (CCO SE) @ [Baloise Group](https://baloise.github.io)
 ### Member of executive board @ [CH Open](https://www.ch-open.ch)
+### Member of the [DINAcon](https://dinacon.ch) organizing committee
 ### [Intr`]open[`eur](https://en.wikipedia.org/wiki/Intrapreneurship)
 
 ## bio
