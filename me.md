@@ -61,6 +61,16 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2020
 
+#### `de` Open Source @ Baloise
+ - [Baloise Open Day][https://www.openfriday.org]
+ - [Video @ YouTube][https://www.youtube.com/watch?v=DHLPCMKK38I]
+
+Wir sind Versicherung und Bank in einem und das mit über 150 Jahren Tradition. Mindestens ähnlich alt ist die Idee des Gemeinguts, oder Allmende.
+
+Im Zeitalter der Digitalisierung ergeben sich für diese altbewährten Konzepte neue Chancen. Denn die sogenannte Wissensallmende, also digitalisierte Ideen und Informationen, hat einen entscheiden Vorteil: im Unterschied zu Acker- oder Weideland verlieren Informationen durch intensive Nutzung nicht an Wert. Im Gegenteil: die gemeinsame Nutzung und Pflege solcher Güter lohnt sich heute mehr denn je - Stichwort Open-Source!
+
+Wie wir das bei der Basler leben und was wir in den letzten Jahren schon erreicht haben, wollen wir euch sehr gerne zeigen!
+
 ### talks 2019
 
 #### `de` Open-Source (Software) in der Versicherung(swelt)
