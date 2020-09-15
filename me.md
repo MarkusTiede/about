@@ -62,8 +62,8 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 ### talks 2020
 
 #### `de` Open Source @ Baloise
- - [Baloise Open Day][https://www.openfriday.org]
- - [Video @ YouTube][https://www.youtube.com/watch?v=DHLPCMKK38I]
+ - [Baloise Open Day](https://www.openfriday.org)
+ - [Video @ YouTube](https://www.youtube.com/watch?v=DHLPCMKK38I)
 
 Wir sind Versicherung und Bank in einem und das mit über 150 Jahren Tradition. Mindestens ähnlich alt ist die Idee des Gemeinguts, oder Allmende.
 
