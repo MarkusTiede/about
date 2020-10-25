@@ -62,6 +62,17 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2020
 
+#### `de` DINAcon Awards
+ - [dinacon.ch](https://awards.dinacon.ch)
+ - [Video @ YouTube](https://youtu.be/xDKVweM_Alo)
+ - [GitHub](https://github.com/dinacon/awards)
+ 
+Mit den DINAcon Awards werden jedes Jahr an der Konferenz für **DI**gitale **NA**chhaltigkeit in Bern Open-Projekte von Communities, Unternehmen, Verwaltungen, Organisationen und Einzelpersonen ausgezeichnet. Die Teilnahme ist kostenlos, teilnahmeberechtigt sind Projekte aus ganz Europa.
+
+Die Awards werden in diesem Jahr statt im Welle7 Workspace wie gewöhnlich, in einer virtuellen Mozilla Hubs Welt vergeben! Wir können es kaum erwarten, euch die Awards-Welt vorzustellen.
+
+In den 5 Kategorien "Open Data", "Business", "Open Gouvernment", "Newcomer" und "Community" werden diese Jahr die Awards verliehen und die jeweils 15 FinalistInnen stehen fest. Es war definitiv keine einfache Entscheidung! Umso mehr freuen wir uns darüber Ihnen jetzt das Juryresultat präsentieren zu dürfen.
+
 #### `de` Open Source @ Baloise
  - [Baloise Open Day](https://www.openfriday.org)
  - [Video @ YouTube](https://www.youtube.com/watch?v=DHLPCMKK38I)
