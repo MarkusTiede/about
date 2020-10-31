@@ -70,6 +70,8 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
  - [Video @ YouTube](https://youtu.be/xDKVweM_Alo?t=18702)
  - [GitHub](https://github.com/dinacon/awards)
  
+{% include youtube.html id="xDKVweM_Alo" %}
+ 
 Mit den DINAcon Awards werden jedes Jahr an der Konferenz für **DI**gitale **NA**chhaltigkeit in Bern Open-Projekte von Communities, Unternehmen, Verwaltungen, Organisationen und Einzelpersonen ausgezeichnet. Die Teilnahme ist kostenlos, teilnahmeberechtigt sind Projekte aus ganz Europa.
 
 Die Awards werden in diesem Jahr statt im Welle7 Workspace wie gewöhnlich, in einer virtuellen Mozilla Hubs Welt vergeben! Wir können es kaum erwarten, euch die Awards-Welt vorzustellen.
