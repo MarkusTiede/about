@@ -219,7 +219,8 @@ This talk will take you on a journey through the "what is Jubula“ via the "how
 #### `en` Jekyll and Hyde with Jubula
  - [EclipseCon North America][t.2015.ec.jekyll] - [InfoQ Presentation Video][t.2015.ec.jekyll.video]
  - [EclipseCon Europe][t.2015.ece.jekyll]
- - [Teaser Video][t.2015.ec.jekyll.teaser]
+ 
+ {% include youtube.html id="jeNBKf-hAmc" %}
 
 Can a test tool have more than one personality? Can a new alter ego develop over time? It turns out, yes!
 
@@ -544,7 +545,6 @@ Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](https://de.wikipedia.org/wi
 [t.2015.ece.j101]: https://www.eclipsecon.org/europe2015/session/jubula-101.html
 [t.2015.ece.j101.video]: https://www.youtube.com/watch?v=Xrfasxp77r4
 [t.2015.ece.jekyll]: https://www.eclipsecon.org/europe2015/session/jekyll-and-hyde-jubula-automated-testing-both-sides.html
-[t.2015.ec.jekyll.teaser]: https://www.youtube.com/watch?v=jeNBKf-hAmc
 [t.2015.ec.jekyll]: https://www.eclipsecon.org/na2015/session/jekyll-and-hyde-jubula.html
 [t.2015.ec.jekyll.video]: https://www.infoq.com/presentations/jubula-eclipsecon
 [t.2014.ece.j2j]: https://www.eclipsecon.org/europe2014/session/j2j-javafx-testing-jubula.html
