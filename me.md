@@ -80,7 +80,8 @@ In den 5 Kategorien "Open Data", "Business", "Open Gouvernment", "Newcomer" und 
 
 #### `de` Open Source @ Baloise
  - [Baloise Open Day](https://www.openfriday.org)
- - [Video @ YouTube](https://www.youtube.com/watch?v=DHLPCMKK38I)
+ 
+{% include youtube.html id="DHLPCMKK38I" %}
 
 Wir sind Versicherung und Bank in einem und das mit über 150 Jahren Tradition. Mindestens ähnlich alt ist die Idee des Gemeinguts, oder Allmende.
 
