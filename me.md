@@ -162,7 +162,8 @@ In this tutorial we’ll cover:
 #### `en` Pipelining quality - best practices, lessons learned and tools for continuous delivery processes
  - [EclipseCon Europe][t.2017.ece.p]
  - [PDF Slides][t.2017.ece.p.slides]
- - [Video @ YouTube][t.2017.ece.p.video]
+
+{% include youtube.html id="ALk_7H-DlLo" %}
 
 In this talk Markus will share hands-on project experience for building and maintaining CI processes applicable in small and large enterprises projects.
 
@@ -183,7 +184,8 @@ Besides his many years of experience in test automation, Markus recently gained 
 #### `en` Getting started with Jubula - an UI test automation framework
  - [EclipseCon France][t.2017.ecf.j]
  - [PDF Slides][t.2017.ecf.j.slides]
- - [Video @ YouTube][t.2017.ecf.j.video]
+
+{% include youtube.html id="H3DD_5xGHnI" %}
 
 Over the last couple of years Jubula has grown to a versatile UI test automation framework which supports
 
@@ -537,8 +539,6 @@ Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](https://de.wikipedia.org/wi
 [t.2017.ece.j.slides]: https://github.com/open-co-de/tutorial-jubula-api#slides
 [t.2017.ece.p]: https://www.eclipsecon.org/europe2017/session/pipelining-quality-best-practices-lessons-learned-and-tools-continuous-delivery-processes
 [t.2017.ece.p.slides]: https://www.eclipsecon.org/europe2017/sites/default/files/slides/2017-ece-pipelining_0.pdf
-[t.2017.ece.p.video]: https://www.youtube.com/watch?v=ALk_7H-DlLo
-[t.2017.ecf.j.video]: https://www.youtube.com/watch?v=H3DD_5xGHnI
 [t.2017.ecf.j]: https://www.eclipsecon.org/france2017/session/getting-started-jubula-ui-test-automation-framework
 [t.2017.ecf.j.slides]: https://www.eclipsecon.org/france2017/sites/default/files/slides/2017-ecf-jubula.pdf
 [t.2015.ece.j101]: https://www.eclipsecon.org/europe2015/session/jubula-101.html
