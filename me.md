@@ -203,7 +203,8 @@ This talk is suitable for anyone interested in automated testing, regardless of 
 
 #### `en` Jubula 101
  - [EclipseCon Europe][t.2015.ece.j101]
- - [Video @ YouTube][t.2015.ece.j101.video]
+ 
+{% include youtube.html id="Xrfasxp77r4" %}
 
 Come to this talk to get your 101, your 411 and possibly some other important numbers about the Eclipse Jubula project for functional testing.
 
@@ -544,7 +545,6 @@ Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](https://de.wikipedia.org/wi
 [t.2017.ecf.j]: https://www.eclipsecon.org/france2017/session/getting-started-jubula-ui-test-automation-framework
 [t.2017.ecf.j.slides]: https://www.eclipsecon.org/france2017/sites/default/files/slides/2017-ecf-jubula.pdf
 [t.2015.ece.j101]: https://www.eclipsecon.org/europe2015/session/jubula-101.html
-[t.2015.ece.j101.video]: https://www.youtube.com/watch?v=Xrfasxp77r4
 [t.2015.ece.jekyll]: https://www.eclipsecon.org/europe2015/session/jekyll-and-hyde-jubula-automated-testing-both-sides.html
 [t.2015.ec.jekyll]: https://www.eclipsecon.org/na2015/session/jekyll-and-hyde-jubula.html
 [t.2015.ec.jekyll.video]: https://www.infoq.com/presentations/jubula-eclipsecon
