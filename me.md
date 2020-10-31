@@ -254,7 +254,8 @@ This talk is primarily aimed at people with a general interest in JavaFX and cod
 #### `en` To infinity and beyond – making Jubula surpass its limits
  - [EclipseCon Europe][t.2013.ece.extend]
  - [PDF Slides][t.2013.ece.extend.slides]
- - [Video @ YouTube][t.2013.ece.extend.video]
+ 
+{% include youtube.html id="prNt5_LhXdo" %}
 
 As the Jubula team, we’re generally quite proud of the out-of-the-box support we have. However, we’ve been involved in enough projects to know that there are sometimes boundaries that are hard to solve when thinking about realizing them with Jubula, for example:
 
@@ -551,7 +552,6 @@ Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](https://de.wikipedia.org/wi
 [t.2014.ece.j2j.slides]: https://www.eclipsecon.org/europe2014/sites/default/files/slides/2014-ece-j2j.pdf
 [t.2013.ece.extend]: https://www.eclipsecon.org/europe2013/infinity-and-beyond-–-making-jubula-surpass-its-limits.html
 [t.2013.ece.extend.slides]:  talks/2013-ece-jubula-extend.pdf?raw=true
-[t.2013.ece.extend.video]:  https://www.youtube.com/watch?v=prNt5_LhXdo
 [t.2013.ece.tutorial]: https://www.eclipsecon.org/europe2013/jubula-tutorial-–-specify-execute-analyze.html
 [t.2013.ece.tutorial.slides]: https://www.eclipsecon.org/europe2013/sites/eclipsecon.org.europe2013/files/JubulaTutorial.pdf
 [t.2013.ece.mobile]: https://www.eclipsecon.org/europe2013/testing-mobile-applications-jubula.html
