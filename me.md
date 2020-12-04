@@ -31,6 +31,10 @@ Markus is a software developer and release engineer with focus on high quality s
 ### de
 Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus auf hohe Qualitätsstandards. Markus ist darüber hinaus ein ehemaliger Eclipse Foundation Committer, Package Maintainer für „Eclipse for Testers“ und hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de].
 
+## [qualifications / Qualifikationen](#other-qualifications--weitere-qualifikationen)
+
+![certified qualifications](img/overview/certs.png "certified qualifications of Markus Tiede")
+
 ## ToC / Inhaltsverzeichnis
 
 |      | [talks / Vorträge](#talks--vorträge) | [paper / Artikel](#paper--artikel)  |
@@ -50,10 +54,6 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 | 2009 | [...](#talks-2009) |                    |
 | 2008 | [...](#talks-2008) |                    |
 
-### [qualifications / Qualifikationen](#other-qualifications--weitere-qualifikationen)
-
-![certified qualifications](img/overview/certs.png "certified qualifications of Markus Tiede")
-
 ### other references / weitere Referenzen
 
 | profiles @... |
@@ -65,7 +65,6 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 | [**OpenHub.net**](https://www.openhub.net/accounts/MarkusTiede) |
 | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/200px-LinkedIn_Logo.svg.png "LinkedIn")](https://www.linkedin.com/in/markus-tiede) |
 | [![XING](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Xing_logo.svg/200px-Xing_logo.svg.png "XING")](https://www.xing.com/profile/Markus_Tiede) |
-
 
 ## talks / Vorträge
 
