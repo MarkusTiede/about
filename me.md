@@ -17,6 +17,12 @@ Dipl.-Inf. (FH)
 ### Member of the [DINAcon](https://dinacon.ch/uber-uns/) organizing committee
 ### [Intr`]open[`eur](https://en.wikipedia.org/wiki/Intrapreneurship)
 
+## experience
+
+![most recent / active experiences](img/overview/present.png "present experience of Markus Tiede")
+
+![past experiences](img/overview/past.png "past experience of Markus Tiede")
+
 ## bio
 
 ### en
@@ -45,6 +51,8 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 | 2008 | [...](#talks-2008) |                    |
 
 ### [qualifications / Qualifikationen](#other-qualifications--weitere-qualifikationen)
+
+![certified qualifications](img/overview/certs.png "certified qualifications of Markus Tiede")
 
 ### other references / weitere Referenzen
 
