@@ -499,6 +499,14 @@ Dieses Buch beschäftigt sich mit dem Thema, aus Modellgraphen, die Informatione
 
 ## other qualifications / weitere Qualifikationen
 
+### 2020: Scaled Agile, Inc. - SAFe® 5 Architect
+
+Erfolgreiche Zertifizierung zum ["Certified SAFe® Architect" der Scaled Agile, Inc.](https://www.scaledagile.com/certification/certified-safe-for-architects/)
+
+---
+![My Scaled Agile, Inc. - SAFe® Architect - Certificate](documents/cert-safe-arch.png "Scaled Agile, Inc. - SAFe® Architect - Certificate")
+---
+
 ### 2019: ISTQB® - Certified Tester - Foundation Level
 
 Erfolgreiche Zertifizierung zum ["Certified Tester - Foundation Level (CTFL)" des ISTQB®](https://www.istqb.org/certification-path-root/foundation-level-2018.html)
