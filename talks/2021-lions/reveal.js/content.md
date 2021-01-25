@@ -124,4 +124,6 @@ then you win.
 
 Danke by [me](https://github.com/markustiede)
  --
+![](http://api.qrserver.com/v1/create-qr-code/?color=000000&bgcolor=FFFFFF&data=https%3A%2F%2Fgithub.com%2FMarkusTiede%2Fabout%2Fblob%2Fmaster%2Ftalks%2F2021-lions%2Freveal.js%2Fcontent.md&qzone=1&margin=0&size=400x400&ecc=L)
+ --
 offene Diskussion
