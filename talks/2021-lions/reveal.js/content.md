@@ -43,13 +43,25 @@ Beispiel: Wikipedia
 
 https://de.wikipedia.org/wiki/Müllheim_(Baden)
 
+ ---
+
+http://listen.hatnote.com
+
 --
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Richard_Stallman_at_CommonsFest_Athens_2015_2.JPG/800px-Richard_Stallman_at_CommonsFest_Athens_2015_2.JPG)](https://de.wikipedia.org/wiki/Richard_Stallman)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Richard_Stallman_at_CommonsFest_Athens_2015_2.JPG/600px-Richard_Stallman_at_CommonsFest_Athens_2015_2.JPG)](https://de.wikipedia.org/wiki/Richard_Stallman)
+
+[(ɔ)](https://de.wikipedia.org/wiki/Copyleft) : use, inspect, modify, distribute
 
 --
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NYK_Virgo_%288154929586%29.jpg/400px-NYK_Virgo_%288154929586%29.jpg)
 
 [github.com/kubernetes](https://github.com/kubernetes/kubernetes)
+
+Organisationsform : [Meritokratie](https://de.wikipedia.org/wiki/Meritokratie)
+
+value ~ min. [$120 million USD](https://thenewstack.io/tns-research-k8s-ecosystem-cost/)
 
 ---
  ## Die Gegenwart
@@ -81,6 +93,8 @@ http**s**://
 
 [Heartbleed](https://de.wikipedia.org/wiki/Heartbleed)
 
+[EU Strategie](https://ec.europa.eu/info/departments/informatics/open-source-software-strategy)
+
 ---
  ## Die Zukunft
  ---
@@ -95,6 +109,12 @@ Daten ~90+% closed
 
 (digitale) Unmündigkeit : [Facebook & Schwangerschaft](https://www1.wdr.de/mediathek/video/sendungen/quarks-und-co/video-warum-facebook-weiss-dass-du-schwanger-bist--100.html)
 
+-- 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/500px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)
+
+[Digitale Nachhaltigkeit](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#Zehn_Voraussetzungen_der_digitalen_Nachhaltigkeit)
+
 --
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bitcoin_logo.svg/500px-Bitcoin_logo.svg.png)
@@ -104,12 +124,6 @@ Daten ~90+% closed
 Blockchain - market cap ~ 1 billionen
 
 Dezentralität
-
--- 
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Icon_Digitale_Nachhaltigkeit_Farbig.svg/500px-Icon_Digitale_Nachhaltigkeit_Farbig.svg.png)
-
-[Digitale Nachhaltigkeit](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit#Zehn_Voraussetzungen_der_digitalen_Nachhaltigkeit)
 
 ---
 ```
