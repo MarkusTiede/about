@@ -11,6 +11,10 @@ Lions Clubabend am 28.01.2021
 
 [@MarkusTiede](http://twitter.com/MarkusTiede)
 
+--
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/a4/Meyers_b9_s0153_b1.png)
+
 ---
 
  ## Vergangenheit & Grundlagen 
@@ -87,6 +91,17 @@ Linux, [LibreOffice](https://www.libreoffice.org), [Android](https://source.andr
 SCA ~ 85% open-source
 --
 
+Open Source
+
+[in Space @ ESA](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Radio_Frequency_Systems/Open_Source_Software_Resources_for_Space_Downstream_Applications%20)
+
+[in Space @ NASA Apollo-11](https://www.heise.de/newsticker/meldung/Apollo-11-Sourcecode-auf-GitHub-veroeffentlicht-3263051.html)
+
+[@CERN](https://home.cern/news/news/computing/migrating-open-source-technologies)
+
+...
+
+--
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Heartbleed.svg/200px-Heartbleed.svg.png)
 
 http**s**://
