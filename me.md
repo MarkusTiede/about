@@ -37,6 +37,10 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### memberships / Mitgliedschaften
 
+| links |
+| :--: |
+| [![](https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Lions_Clubs_International_logo.svg/256px-Lions_Clubs_International_logo.svg.png)](http://www.lc-muellheim-neuenburg.de) |
+| [![](https://upload.wikimedia.org/wikipedia/de/thumb/1/1d/Logo_Mensa_Deutschland.svg/256px-Logo_Mensa_Deutschland.svg.png)](https://www.mensa.de) |
 
 ### other references / weitere Referenzen
 
