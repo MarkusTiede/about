@@ -77,11 +77,11 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 #### `de` Open Source #1 - was die Welt im Innersten zusammenhält
  - Clubabend - [Lions Club Müllheim Neuenburg](http://www.lc-muellheim-neuenburg.de)
 
+```
 Vergangenheit & Grundlagen : Wissen – Allmende – Freiheit
-
 Die Gegenwart : die freie Wahl
-
 Die Zukunft : Souveränität & Nachhaltigkeit
+```
 
 ### talks 2020
 
