@@ -1,4 +1,4 @@
-# Marku[s](https://gitpitch.com/markustiede/about/master?p=slides/intro) Andreas Tiede
+# Marku[s](https://github.com/MarkusTiede/about/blob/master/slides/intro/PITCHME.md) Andreas Tiede
 
 ```
 Dipl.-Inf. (FH)
@@ -13,7 +13,7 @@ Dipl.-Inf. (FH)
 ## role(s)
 
 ### Competence Center Co-Lead & Owner - Software Engineering (CCO SE) @ [Baloise Group](https://baloise.github.io)
-### Member of executive board @ [CH Open](https://www.ch-open.ch)
+### Vice president and member of executive board @ [CH Open](https://www.ch-open.ch)
 ### Member of the [DINAcon](https://dinacon.ch/uber-uns/) organizing committee
 ### [Intr`]open[`eur](https://en.wikipedia.org/wiki/Intrapreneurship)
 
