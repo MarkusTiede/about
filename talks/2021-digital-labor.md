@@ -2,7 +2,7 @@
 
 ## Blickwinkel aus : Wirtschaft + CH Open + DINAcon
 
-- digitale Souveränität erlangen und nachhaltig erhalten
+- digitale Souveränität erlangen und nachhaltig erhalten undzwar neutral vom Standort Basel
 - Notwendige aber nicht hinreichende Kriterien
   - ausgereifte Lösungen unter freien Lizenzen
   - transparente Strukturen getrieben von verteilten Standorten & multiplen Stakeholdern - ich selber als bestes Beispiel: Grenzgänger aus DE
