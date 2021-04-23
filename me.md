@@ -78,6 +78,12 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2021
 
+#### `de` `Visionär*innen` : Zukunftsvisionen für ein digitales Basel beim [DigitalLabor](https://www.digital-labor.ch)
+
+Die Digitalisierung prägt bereits jetzt fast alle unsere Lebensbereiche. Das DigitalLabor setzt sich für einen digitalen Wandel ein, den wir alle verstehen und aktiv mitgestalten können. Auf unserer Tour durch die Schweiz fragen wir Dich: Wie sieht eine (digitale) Zukunft aus, in der du gerne leben möchtest?
+
+Wie soll das digitale Basel der Zukunft aussehen? Sechs Baslerinnen und Basler präsentieren ihre Vision von Arbeit, Politik und Kultur vor Ort im Jahr 2030. Im Anschluss wird das Publikum die Möglichkeit haben, diese Visionen zu ergänzen und zu hinterfragen. So entstehen über den Abend hinweg eine Sammlung von Perspektiven auf eine wünschenswerte digitale Zukunft Basels und ein buntes Panorama konkreter Vorschläge und Ideen, wie sie sich realisieren lassen.
+
 #### `de` Open Source #1 - was die Welt im Innersten zusammenhält
  - Clubabend - [Lions Club Müllheim Neuenburg](http://www.lc-muellheim-neuenburg.de)
 
