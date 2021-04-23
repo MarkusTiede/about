@@ -100,7 +100,7 @@ Mit den DINAcon Awards werden jedes Jahr an der Konferenz für **DI**gitale **NA
 
 Die Awards werden in diesem Jahr statt im Welle7 Workspace wie gewöhnlich, in einer virtuellen Mozilla Hubs Welt vergeben! Wir können es kaum erwarten, euch die Awards-Welt vorzustellen.
 
-In den 5 Kategorien "Open Data", "Business", "Open Gouvernment", "Newcomer" und "Community" werden diese Jahr die Awards verliehen und die jeweils 15 FinalistInnen stehen fest. Es war definitiv keine einfache Entscheidung! Umso mehr freuen wir uns darüber Ihnen jetzt das Juryresultat präsentieren zu dürfen.
+In den 5 Kategorien "Open Data", "Business", "Open Government", "Newcomer" und "Community" werden diese Jahr die Awards verliehen und die jeweils 15 FinalistInnen stehen fest. Es war definitiv keine einfache Entscheidung! Umso mehr freuen wir uns darüber Ihnen jetzt das Juryresultat präsentieren zu dürfen.
 
 #### `de` Open Source @ Baloise
  - [Baloise Open Day](https://www.openfriday.org)
