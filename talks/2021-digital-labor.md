@@ -11,7 +11,7 @@ Denn **aktuelle Divergenz "80% open + 20% closed" wird sich noch verstärken und
 - dieser Selektiondruck wird in Zukunft immer weiter wirken -> 20% schwinden
 - zZ sind wir an dieser Stelle **(s)eher unmündig: private by default**
 
-### Was? Notwendige aber nicht hinreichende Kriterien weiter vorraussetzen
+### Was? Notwendige aber nicht hinreichende Kriterien für nachhaltige digitale Güter weiter vorraussetzen
 - ausgereifte Lösungen unter freien Lizenzen die auf Basis von bedeutungsvollen, freien und verknüpften Daten agieren
 - transparente Strukturen getrieben von multiplen Stakeholdern an verteilten Standorten - ich selber als bestes Beispiel: Grenzgänger aus DE
 - faire Führungsstrukturen mit breit abgestützter Finanzierung
