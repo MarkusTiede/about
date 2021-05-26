@@ -78,6 +78,10 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2021
 
+#### `de` Jahresrückblick 2020 : swissICT Partnerverband CH Open
+
+{% include youtube.html id="Y6SvSHtP7tQ" %}
+
 #### `de` `Visionär*innen` : Zukunftsvisionen für ein digitales Basel beim [DigitalLabor](https://www.digital-labor.ch)
 
 Die Digitalisierung prägt bereits jetzt fast alle unsere Lebensbereiche. Das DigitalLabor setzt sich für einen digitalen Wandel ein, den wir alle verstehen und aktiv mitgestalten können. Auf unserer Tour durch die Schweiz fragen wir Dich: Wie sieht eine (digitale) Zukunft aus, in der du gerne leben möchtest?
