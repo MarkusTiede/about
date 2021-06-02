@@ -12,7 +12,7 @@ Dipl.-Inf. (FH)
 
 ## role(s)
 
-### Competence Center Co-Lead & Owner - Software Engineering (CCO SE) @ [Baloise Group](https://baloise.github.io)
+### Member of BalMATE : [**Bal**oise (Group)](https://baloise.github.io) **M**anagement of **A**rchitecture, **T**echnology and **E**ngineering - Focus on Software Engineering & Quality
 ### Vice president and member of executive board @ [CH Open](https://www.ch-open.ch)
 ### Member of the [DINAcon](https://dinacon.ch/uber-uns/) organizing committee
 ### [Intr`]open[`eur](https://en.wikipedia.org/wiki/Intrapreneurship)
