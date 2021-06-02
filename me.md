@@ -17,11 +17,9 @@ Dipl.-Inf. (FH)
 ### Member of the [DINAcon](https://dinacon.ch/uber-uns/) organizing committee
 ### [Intr`]open[`eur](https://en.wikipedia.org/wiki/Intrapreneurship)
 
-## experience
+## experience(s)
 
-![most recent / active experiences](img/overview/present.png "present experience of Markus Tiede")
-
-![past experiences](img/overview/past.png "past experience of Markus Tiede")
+![my experiences](img/overview/A7CD064B-07B3-4CB6-B05B-35D612AB1B47.jpeg "experiences of Markus Tiede")
 
 ## bio
 
