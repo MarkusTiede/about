@@ -454,7 +454,7 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 #### `de` ["Sei du selbst, aber bleib nicht wie du bist - Open Source Studie Schweiz 2021"](https://oss-studie.ch/assets/pdfs/OSS-Studie2021.pdf) Organisationsportrait Baloise Group, [Markus Tiede et al.](https://github.com/baloise/open-source/pull/289) - [oss-studie.ch](https://oss-studie.ch)
 
-Versicherung und Bank – hier sind wir doppelt gut. Im Herz und im Fokus haben wir unsere `Kund*innen`. Wir möchten zuhören, sie abholen, überraschen und verblüffen, und wir versuchen hier immer besser zu werden – auch einfacher und intuitiver, um neue Bedürfnisse zu erfüllen.
+Versicherung und Bank – hier sind wir doppelt gut. Im Herz und im Fokus haben wir unsere Kund`*`innen. Wir möchten zuhören, sie abholen, überraschen und verblüffen, und wir versuchen hier immer besser zu werden – auch einfacher und intuitiver, um neue Bedürfnisse zu erfüllen.
 
 Das alles hat mehr als 150 Jahre Tradition. Gemeinsam sind wir 7'300 Mitarbeitende - Menschen in der Schweiz, Belgien, Luxemburg und Deutschland, die unsere Unternehmung mit Persönlichkeit füllen. Wir lieben und leben ein – wie wir finden - besonderes Miteinander, geprägt von Offenheit, Wertschätzung, Augenhöhe und Neugier. Wir lernen aus Feedback, Fehlern und voneinander und wissen: Wir sind auf dem Weg, aber noch nicht da, wo wir hinwollen.
 
