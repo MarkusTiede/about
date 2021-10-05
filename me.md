@@ -78,6 +78,8 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 #### `en` Thematic Event on Digital Sustainability : B Lab & Swiss Triple Impact and CH Open
 
+- [Slide - src](https://github.com/baloise/open-source/blob/main/docs/slides/ws-digital-sustain/content.md)
+
 Digitalization and sustainability are omnipresent concepts. But how can they be thought of together? The answer seems trivial: digital sustainability. What exactly digital sustainability means, what it encompasses and what prerequisites are necessary for it will be explained to you during the workshop "Digital Sustainability" and illustrated with a use case at Basler Versicherung.
 
 Join us for our thematic workshop with Dr. Matthias Stürmer, president CH Open & professor at BFH and Markus Tiede, vice president CH Open & Software-Engineer at Basler Versicherung.
