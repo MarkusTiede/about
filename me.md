@@ -261,7 +261,7 @@ This talk will take you on a journey through the "what is Jubula“ via the "how
  - [EclipseCon North America][t.2015.ec.jekyll] - [InfoQ Presentation Video][t.2015.ec.jekyll.video]
  - [EclipseCon Europe][t.2015.ece.jekyll]
  
- {% include youtube.html id="jeNBKf-hAmc" %}
+ {% include youtube.html id="kbDk-G6mDG0" %}
 
 Can a test tool have more than one personality? Can a new alter ego develop over time? It turns out, yes!
 
