@@ -76,6 +76,19 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2021
 
+#### `de` DINAcon Awards
+ - [dinacon.ch](https://awards.dinacon.ch)
+ - [Video @ YouTube](https://youtu.be/gro2h1Rsfr0)
+ - [GitHub](https://github.com/dinacon/awards)
+
+{% include youtube.html id="NvIV9keIzc8" %}
+ 
+Mit den DINAcon Awards werden jedes Jahr an der Konferenz für **DI**gitale **NA**chhaltigkeit in Bern Open-Projekte von Communities, Unternehmen, Verwaltungen, Organisationen und Einzelpersonen ausgezeichnet. Die Teilnahme ist kostenlos, teilnahmeberechtigt sind Projekte aus ganz Europa.
+
+Die Awards werden in diesem Jahr statt im Welle7 Workspace wie gewöhnlich, in einer virtuellen Mozilla Hubs Welt vergeben! Wir können es kaum erwarten, euch die Awards-Welt vorzustellen.
+
+In den 4 Kategorien "Open Data", "Open Government", "Newcomer" und "Community" werden diese Jahr die Awards verliehen und die jeweils 15 FinalistInnen stehen fest. Es war definitiv keine einfache Entscheidung! Umso mehr freuen wir uns darüber Ihnen jetzt das Juryresultat präsentieren zu dürfen.
+
 #### `en` Thematic Event on Digital Sustainability : B Lab & Swiss Triple Impact and CH Open
 
 - [Slide - src](https://github.com/baloise/open-source/blob/main/docs/slides/ws-digital-sustain/content.md)
