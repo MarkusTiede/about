@@ -147,6 +147,8 @@ Wie wir das bei der Basler leben und was wir in den letzten Jahren schon erreich
 #### `de` Open-Source (Software) in der Versicherung(swelt)
  - [DINAcon][t.2019.dina]
 
+{% include youtube.html id="7x6bDOvfh6s" %}
+
 Versicherung und Open-Source - (wie) passt das zusammen? Diese Session gibt am Beispiel der langjährigen Erfahrungen in der Basler Versicherung einen detaillierten Einblick zum Thema "Einsatz von", "Zusammenarbeit mit" und "Freigabe von" Open-Source (Software).
 
 Schon seit einigen Jahren gibt es eine aktive Open-Source Community (https://github.com/baloise) innerhalb des Schweizer Versicherungskonzerns. Wir wollen im Rahmen dieser Session vorstellen,
