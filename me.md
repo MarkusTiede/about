@@ -108,7 +108,7 @@ Die Digitalisierung prägt bereits jetzt fast alle unsere Lebensbereiche. Das Di
 Wie soll das digitale Basel der Zukunft aussehen? Sechs Baslerinnen und Basler präsentieren ihre Vision von Arbeit, Politik und Kultur vor Ort im Jahr 2030. Im Anschluss wird das Publikum die Möglichkeit haben, diese Visionen zu ergänzen und zu hinterfragen. So entstehen über den Abend hinweg eine Sammlung von Perspektiven auf eine wünschenswerte digitale Zukunft Basels und ein buntes Panorama konkreter Vorschläge und Ideen, wie sie sich realisieren lassen.
 
 #### `de` Open Source #1 - was die Welt im Innersten zusammenhält
- - Clubabend - [Lions Club Müllheim Neuenburg](http://www.lc-muellheim-neuenburg.de)
+ - Clubabend - [Lions Club Müllheim Neuenburg](https://muellheim-neuenburg.lions.de)
 
 ```
 Vergangenheit & Grundlagen : Wissen – Allmende – Freiheit
