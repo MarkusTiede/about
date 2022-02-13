@@ -81,14 +81,15 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
  - [dinacon.ch](https://awards.dinacon.ch)
  - [Video @ YouTube](https://youtu.be/gro2h1Rsfr0)
  - [GitHub](https://github.com/dinacon/awards)
+ - [Pressemitteilung](https://www.ch-open.ch/die-fuenfte-dinacon-zum-ersten-mal-hybrid-zum-ersten-mal-in-basel/)
 
 {% include youtube.html id="NvIV9keIzc8" %}
  
-Mit den DINAcon Awards werden jedes Jahr an der Konferenz für **DI**gitale **NA**chhaltigkeit in Basel Open-Projekte von Communities, Unternehmen, Verwaltungen, Organisationen und Einzelpersonen ausgezeichnet. Die Teilnahme ist kostenlos, teilnahmeberechtigt sind Projekte aus ganz Europa.
+Mit den DINAcon Awards werden jedes Jahr an der Konferenz für **DI**gitale **NA**chhaltigkeit Open-Projekte von Communities, Unternehmen, Verwaltungen, Organisationen und Einzelpersonen ausgezeichnet. Die Teilnahme ist kostenlos, teilnahmeberechtigt sind Projekte aus ganz Europa.
 
-Die Awards werden in diesem Jahr statt im Welle7 Workspace wie gewöhnlich, in einer virtuellen Mozilla Hubs Welt vergeben! Wir können es kaum erwarten, euch die Awards-Welt vorzustellen.
+Mit den DINAcon Awards wurden 2021 Projekte in den Kategorien "Open Data" Award, "Open Government" Award, "Best Newcomer" Award und "Open Community" Award ausgezeichnet.
 
-In den 4 Kategorien "Open Data", "Open Government", "Newcomer" und "Community" werden diese Jahr die Awards verliehen und die jeweils 15 FinalistInnen stehen fest. Es war definitiv keine einfache Entscheidung! Umso mehr freuen wir uns darüber Ihnen jetzt das Juryresultat präsentieren zu dürfen.
+Die Gewinner der DINAcon Awards 2021 wurden am 29. Oktober 2021 live im Baloise Park Ost in Basel ausgezeichnet. Die Zeremonie fand im Anschluss an den spannenden Konferenztag mit Keynotes von Julia Reda und Paul-Olivier Dehaye & 11 Fachsessions statt.
 
 #### `en` Thematic Event on Digital Sustainability : B Lab & Swiss Triple Impact and CH Open
 
