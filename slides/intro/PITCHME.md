@@ -5,7 +5,7 @@
 @snap[west span-40 text-center]
 #### Markus Tiede
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
-![Friend of Eclipse](http://eclipse.org/donate/images/friendslogo200.png "Friend of Eclipse")
+![Friend of Eclipse](https://www.eclipse.org/community/newsletter/imagesmisc/frendsEclipse.png "Friend of Eclipse")
 @snapend 
 
 @snap[east span-40 text-center text-08]
