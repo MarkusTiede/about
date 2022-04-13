@@ -75,6 +75,17 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2022
 
+#### `en` [Open Education Day](https://openeducationday.ch) - [reveal.js - Hands-on with the open (source) presentation framework](https://openeducationday.ch/programm-2022/workshops/reveal-js-hands-on-with-the-open-source-presentation-framework/)
+
+[![](https://openeducationday.ch/wp-content/uploads/sites/5/2021/11/Screenshot.jpg)](https://openeducationday.ch/wp-content/uploads/sites/5/2021/11/Promo-OED-2021.mp4)
+
+Get your hands dirty with reveal.js - one of the industry leading open (source) presentation framework.
+
+In this workshop we will cover together:
+ - the initial, technical setup: online & offline
+ - basic steps of coding slides using HTML & CSS - as well as simply designing slides by using markdown
+ - real-world use-cases and very useful and nifty best-practices when presenting
+
 ### talks 2021
 
 #### `de` DINAcon Awards
