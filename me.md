@@ -1,12 +1,11 @@
 # Marku[s](https://github.com/MarkusTiede/about/blob/master/slides/intro/PITCHME.md) Andreas Tiede
 
-```
-Dipl.-Inf. (FH)
-```
+> «Digitale Transparenz & Offenheit unternehmerisch gelebt - so gehen wir gemeinsam & souverän in eine nachhaltige Zukunft.»
 
 ![An official picture of me - Markus Tiede](img/me-circle.png "Markus Tiede")
 
 ```
+Dipl.-Inf. (FH)
 * 28.06.1985
 ```
 
@@ -27,7 +26,7 @@ Dipl.-Inf. (FH)
 Markus is a software developer and release engineer with focus on high quality standards. Besides being a former open-source Eclipse Foundation committer and Package Maintainer for „Eclipse for Testers“ he holds a Diplom (German degree) in Computer Science from the [University of Applied Sciences in Braunschweig][ostfalia-en].
 
 ### de
-Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus auf hohe Qualitätsstandards. Markus ist darüber hinaus ein ehemaliger Eclipse Foundation Committer, Package Maintainer für „Eclipse for Testers“ und hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de].
+Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus auf hohe Qualitätsstandards. Markus ist darüber hinaus ein ehemaliger open-source Eclipse Foundation Committer, Package Maintainer für „Eclipse for Testers“ und hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de].
 
 ## [qualifications / Qualifikationen](#other-qualifications--weitere-qualifikationen)
 
