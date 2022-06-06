@@ -84,6 +84,13 @@ Gleichzeitig sind viele Individuen und auch Unternehmen skeptisch gegenüber sol
 
 Auf Basis von 3 kurzen Inputreferaten sollen die Anwesenden möglichst interaktiv miteinander diskutieren, wie wir auch in der Schweiz das Datenpotential besser nutzen und welche Hürden dabei zu bewältigen sind. Ebenso soll darüber gesprochen werden, wie wir die Interoperabilität mit und Teilnahme in den entstehenden Datenräumen in Europa und darüber hinaus sicherstellen und wie und wie wir unsere «digitale Souveränität» und «digitale Selbstbestimmung» stärken können.
 
+#### `de` [Digital Business und Value Networks - Fachhochschule Nordwestschweiz](https://www.fhnw.ch/de/studium/wirtschaft/digital-business-value-networks) - [Gastreferat zu Open Source Software und Open Government Data](https://github.com/baloise/open-source/issues/331)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/FHNW_Logo.svg/640px-FHNW_Logo.svg.png)
+
+ - https://oss-studie.ch
+ - https://opendata.swiss
+
 #### `en` [Open Education Day](https://openeducationday.ch) - [reveal.js - Hands-on with the open (source) presentation framework](https://openeducationday.ch/programm-2022/workshops/reveal-js-hands-on-with-the-open-source-presentation-framework/)
 
 [![](https://openeducationday.ch/wp-content/uploads/sites/5/2021/11/Screenshot.jpg)](https://openeducationday.ch/wp-content/uploads/sites/5/2021/11/Promo-OED-2021.mp4)
