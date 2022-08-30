@@ -74,6 +74,12 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2022
 
+#### `de` [SITIC DL Topic Forum](https://sitic.org/digital-sustainability/) - [Keynote Nachhaltige Digitalisierung &| Digitale Nachhaltigkeit?](https://github.com/open-co-de/2022-sitic-dina-workshop/blob/main/slides/index.html)
+
+![](https://sitic.org/wordpress/wp-content/uploads/logo.png)
+
+“Nachhaltige Digitalisierung” oder “Digitale Nachhaltigkeit”: Zwei untrennbare Perspektiven der selben Medaille oder Wortklauberei in der IT Branche? Eine Antwort auf diese zentrale Frage der aktuellen Zeit, gestützt durch Beispiele aus jahrelanger Praxis, angereichert mit konkreten Massnahmen sowie versehen mit klar messbaren KPIs wird diese erste Session den Teilnehmenden mit auf den Weg geben.
+
 #### `de` [Swiss Internet Governance Forum – Swiss IGF 2022](https://igf.swiss) - [Inputreferat im Plenum 3: Datenbasierte Gesellschaft und politische Souveränität](https://igf.swiss/swiss-igf-2022/sessionpage2022-pl3/)
 
 ![](https://igf.swiss/wp-content/uploads/2019/12/igf-logo-website-1.png)
