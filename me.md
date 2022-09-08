@@ -74,6 +74,16 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2022
 
+#### `de` [digitalswitzerland Schweizer Digitaltage](https://digitaltage.swiss/programm/digitale-nachhaltigkeit/) - [Open Source, Open Data und TikTok: Podium zur digitalen Nachhaltigkeit ](https://www.generationentandem.ch/online/volldigital/digitale-nachhaltigkeit/)
+
+Veranstaltung im Rahmen der Schweizer Digitaltage: Unter dem Motto «Gemeinsam gestalten wir die Zukunft» bietet der Wirtschaftsraum Thun vom 7.–10. September als Partnerstadt und -Kanton der Schweizer Digitaltage gemeinsam mit verschiedenen regionalen Institutionen zahlreiche live- und online-Events an. Mit einem vielfältigen Angebot ist auch und» das Generationentandem als PartnerIn des WRT Thun wieder massgeblich beteiligt.
+
+{% include youtube.html id="iSMCEAdv4lU" %}
+
+Fachpersonen im Gespräch mit der Politik über Digitale Nachhaltigkeit. Das Politpodium von «und» das Generationentandem im Rahmen der Schweizer Digitaltage in Zusammenarbeit mit dem Wirtschaftsraum Thun sensibilisiert für digitale Themen. Alle Generationen sollen fit gemacht werden für die Reise durch die digitale Gegenwart und in die digitale Zukunft.
+
+Im Podiumsgespräch wird ein Blick in die Zukunft der digitalen Welt gewagt. Welche Chancen und Risiken bringen Social Media, Big Data und neue Technologien morgen? Wie profitieren wir davon? Wie können wir unser Wissen für die Zukunft digital sichern? Und welche Gefahren müssen wir als Gesellschaft und als Individuen im Auge behalten? VertreterInnen aus Wissenschaft, Politik und Praxis tauschen sich aus und geben Antworten, auch auf Fragen aus dem Publikum.
+
 #### `de` [SITIC DL Topic Forum](https://sitic.org/digital-sustainability/) - [Keynote Nachhaltige Digitalisierung &| Digitale Nachhaltigkeit?](https://github.com/open-co-de/2022-sitic-dina-workshop/blob/main/slides/index.html)
 
 ![](https://sitic.org/wordpress/wp-content/uploads/logo.png)
