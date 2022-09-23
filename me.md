@@ -11,7 +11,7 @@ Dipl.-Inf. (FH)
 
 ## role(s)
 
-### Member of BalMATE : [**Bal**oise (Group)](https://baloise.github.io) **M**anagement of **A**rchitecture, **T**echnology and **E**ngineering - Focus on Software Engineering & Quality
+### Lecturer & consultant @ Digital Sustainability Lab within the [Institute for Public Sector Transformation](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/) | Bern University of Applied Sciences | BFH
 ### Vice president and member of executive board @ [CH Open](https://www.ch-open.ch/en/ueber-ch-open/executive-board/)
 ### Member of the [DINAcon](https://dinacon.ch) organizing committee
 ### [Intr`]open[`eur](https://en.wikipedia.org/wiki/Intrapreneurship)
