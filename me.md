@@ -12,7 +12,7 @@ Dipl.-Inf. (FH)
 ## role(s)
 
 ### Member of BalMATE : [**Bal**oise (Group)](https://baloise.github.io) **M**anagement of **A**rchitecture, **T**echnology and **E**ngineering - Focus on Software Engineering & Quality
-### Vice president and member of executive board @ [CH Open](https://www.ch-open.ch)
+### Vice president and member of executive board @ [CH Open](https://www.ch-open.ch/en/ueber-ch-open/executive-board/)
 ### Member of the [DINAcon](https://dinacon.ch/uber-uns/) organizing committee
 ### [Intr`]open[`eur](https://en.wikipedia.org/wiki/Intrapreneurship)
 
