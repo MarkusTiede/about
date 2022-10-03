@@ -77,7 +77,19 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2022
 
-#### `de` [digitalswitzerland Schweizer Digitaltage](https://digitaltage.swiss/programm/digitale-nachhaltigkeit/) - [Open Source, Open Data und TikTok: Podium zur digitalen Nachhaltigkeit ](https://www.generationentandem.ch/online/volldigital/digitale-nachhaltigkeit/)
+#### `de` [Bits & Bäume 2022](https://bits-und-baeume.org) - [OSS-Maturität in Unternehmen](https://fahrplan22.bits-und-baeume.org/bitsundbaeume/talk/BWSLF3/)
+
+- [Folien & Quellen](https://github.com/digital-sustainability/open-source/blob/main/docs/slides/2022-bb/content.md)
+
+{% include youtube.html id="YYTD0gDtXfI" %}
+
+Was macht dein Unternehmen mit Open-Source Software: ignorieren, nutzen oder gar mitwirken?
+
+Wir steigen ein mit einem leichtgewichtigen Maturitätsmodell zur eigenen Standortbestimmung; diskutieren dann individuelle Vor- und Nachbedingungen sowie Empfehlungen für das erfolgreiche Beschreiten dieses, nach unserem Verständnis, unausweichlichen Weges für moderne Unternehmen im digitalen Zeitalter.
+
+Abgerundet wird der Vortrag durch eine ganze Reihe von Erfahrungen, Referenzen und weiterführenden Informationen aus verschiedenen Unternehmen und Wirtschaftszweigen.
+
+#### `de` [digitalswitzerland Schweizer Digitaltage](https://digitaltage.swiss/programm/digitale-nachhaltigkeit/) - [Open Source, Open Data und TikTok: Podium zur digitalen Nachhaltigkeit](https://www.generationentandem.ch/online/volldigital/digitale-nachhaltigkeit/)
 
 Veranstaltung im Rahmen der Schweizer Digitaltage: Unter dem Motto «Gemeinsam gestalten wir die Zukunft» bietet der Wirtschaftsraum Thun vom 7.–10. September als Partnerstadt und -Kanton der Schweizer Digitaltage gemeinsam mit verschiedenen regionalen Institutionen zahlreiche live- und online-Events an. Mit einem vielfältigen Angebot ist auch und» das Generationentandem als PartnerIn des WRT Thun wieder massgeblich beteiligt.
 
