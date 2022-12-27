@@ -77,6 +77,10 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2022
 
+#### `de` [Forschungsstelle Digitale Nachhaltigkeit - Institut für Informatik der Universität Bern](https://www.digitale-nachhaltigkeit.unibe.ch) - [Gastreferat zu "Digital nachhaltige Unternehmens-IT"](https://github.com/baloise/open-source/issues/313)
+
+![](https://www.digitale-nachhaltigkeit.unibe.ch/media/logo_unibern@2x.png)
+
 #### `de` [Bits & Bäume 2022](https://bits-und-baeume.org) - [OSS-Maturität in Unternehmen](https://fahrplan22.bits-und-baeume.org/bitsundbaeume/talk/BWSLF3/)
 
 - [Folien & Quellen](https://github.com/digital-sustainability/open-source/blob/main/docs/slides/2022-bb/content.md)
@@ -136,6 +140,10 @@ In this workshop we will cover together:
  - real-world use-cases and very useful and nifty best-practices when presenting
 
 ### talks 2021
+
+#### `de` [Forschungsstelle Digitale Nachhaltigkeit - Institut für Informatik der Universität Bern](https://www.digitale-nachhaltigkeit.unibe.ch) - [Gastreferat zu "Digital nachhaltige Unternehmens-IT"](https://github.com/baloise/open-source/issues/313)
+
+![](https://www.digitale-nachhaltigkeit.unibe.ch/media/logo_unibern@2x.png)
 
 #### `de` DINAcon Awards
  - [dinacon.ch](https://awards.dinacon.ch)
