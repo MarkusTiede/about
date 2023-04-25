@@ -75,6 +75,18 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2023
 
+#### `de` [IIBA - Swiss German Chapter](https://swissgerman.iiba.org/event/open-source-was-bedeutet-das-fur-business-analysten-what-does-it-mean-business-analysts) - [OPEN SOURCE - WAS BEDEUTET DAS FÜR BUSINESS ANALYSTEN?](https://github.com/bfh/opensource/blob/main/docs/slides/2023-iiba/content.md)
+
+![](https://www.dxc-academy.com/cache/public/contentDownload/8011/815/496446/FeaturedImage.png)
+
+Was bedeutet "Open Source" für Business Analysten? Unsere einstündige (online) Session wird sich um die Einordnung und die Beantwortung ebendieser Frage drehen.
+- Wir starten kurz mit den Grundlagen der Business Analyse und wie Open-Source-Prinzipien diese (unter)-stützen.
+- Weiter geht es mit einem kurzen Ausflug zu den „Top Low-Hanging Open-Source-Fruits“-Alternativen: 10 Tools in 10 Minuten.
+- Im Anschluss werden wir uns eingehender mit Open-Source Grundlagen beschäftigen, konkret mit: Lizenzen und anderen Bewertungskriterien, die bei der Evaluation eine wichtige Rolle spielen.
+- Abgerundet wird der Vortrag durch eine Vorstellung nationaler sowie internationaler Aktivitäten und aktuellen Trends.
+
+Im Anschluss an den Vortrag wird es zudem genügend Zeit für Fragen sowie einen offenen und lockeren Austausch geben.
+
 ### talks 2022
 
 #### `de` [Forschungsstelle Digitale Nachhaltigkeit - Institut für Informatik der Universität Bern](https://www.digitale-nachhaltigkeit.unibe.ch) - [Gastreferat zu "Digital nachhaltige Unternehmens-IT"](https://github.com/baloise/open-source/issues/313)
