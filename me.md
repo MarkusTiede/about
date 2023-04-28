@@ -77,7 +77,7 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 #### `de` [IIBA - Swiss German Chapter](https://swissgerman.iiba.org/event/open-source-was-bedeutet-das-fur-business-analysten-what-does-it-mean-business-analysts) - [OPEN SOURCE - WAS BEDEUTET DAS FÜR BUSINESS ANALYSTEN?](https://github.com/bfh/opensource/blob/main/docs/slides/2023-iiba/content.md)
 
-![](https://www.dxc-academy.com/cache/public/contentDownload/8011/815/496446/FeaturedImage.png)
+{% include youtube.html id="tNfhKfQP9B4" %}
 
 Was bedeutet "Open Source" für Business Analysten? Unsere einstündige (online) Session wird sich um die Einordnung und die Beantwortung ebendieser Frage drehen.
 - Wir starten kurz mit den Grundlagen der Business Analyse und wie Open-Source-Prinzipien diese (unter)-stützen.
