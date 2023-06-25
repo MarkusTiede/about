@@ -54,7 +54,7 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 |      | [talks / Vorträge](#talks--vorträge) | [paper / Artikel](#paper--artikel)  |
 |:----:| ------------------:| ------------------:|
-| 2023 | [...](#talks-2023) |                    |
+| 2023 | [...](#talks-2023) | [...](#paper-2023) |
 | 2022 | [...](#talks-2022) |                    |
 | 2021 | [...](#talks-2021) | [...](#paper-2021) |
 | 2020 | [...](#talks-2020) |                    |
@@ -555,9 +555,18 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 ## paper / Artikel
 
+### paper 2023
+
+#### `en` [SHAPING DIGITAL TRANSFORMATION FOR A SUSTAINABLE SOCIETY - Contributions from Bits & Bäume](https://publication2023.bits-und-baeume.org): RESEARCH ARTICLE [ON DIGITAL SUSTAINABILITY AND DIGITAL PUBLIC GOODS](http://www.mtiede.de/paper/p.2023.bb.pdf) - Matthias Stürmer, Markus Tiede, Jasmin Nussbaumer & Flurina Wäspi
+
+![](https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/94fd593b-b6e5-4edf-8567-c7be0f398b87/content)
+
+[...] Several 2022 reports from government and academic organisations contain the key message that sustainable development can be achieved using digital technologies. The report ‹Digital Reset› (Digitalization for Sustainability, 2022) calls for using digital technologies to reduce greenhouse gas emissions and resource waste in the agricul- ture, mobility, industry, and energy sectors. The researchers see digitalisation as a means to an end for sustainable transformation. Similarly, the report by the Coalition for Digital Environmental Sustainability (CODES, 2022), presents an action plan that includes impact initiatives to «achieve a sustainable planet in the digital age». The EU argues that digital technologies must play a key role in achieving climate neutrality in the EU by 2050 (Muench et al., 2022). The authors call for a ‹twin transition›, man- aging digital and green transitions simultaneously so that they reinforce each other. [...]
+
 ### paper 2021
 
 #### `de` ["Sei du selbst, aber bleib nicht wie du bist - Open Source Studie Schweiz 2021"](https://oss-studie.ch/assets/pdfs/OSS-Studie2021.pdf) Organisationsportrait Baloise Group, [Markus Tiede et al.](https://github.com/baloise/open-source/pull/289) - [oss-studie.ch](https://oss-studie.ch)
+ - [Auszug "Open Source Studie Schweiz 2021"](http://www.mtiede.de/paper/p.2021.os.pdf)
 
 Versicherung und Bank – hier sind wir doppelt gut. Im Herz und im Fokus haben wir unsere Kund`*`innen. Wir möchten zuhören, sie abholen, überraschen und verblüffen, und wir versuchen hier immer besser zu werden – auch einfacher und intuitiver, um neue Bedürfnisse zu erfüllen.
 
