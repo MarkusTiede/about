@@ -37,8 +37,9 @@ im Alltag - privat / beruflich
 --
 ### aktiv / bewusst 🤓
 - Sprachassistenten: Siri, Alexa; Inhalte abspielen, erkennen
-- Fotos (Finden, Bearbeiten) am Mobilgerät, ...
+- Fotos (Aufnehmen, Finden, Bearbeiten) am Mobilgerät, ...
 - Texte verfassen / übersetzen: eMail, Anträge, Anschreiben, ...
+- offline: Drohne
 - ...
 
 ### passiv / unbewusst 😮
@@ -83,15 +84,36 @@ layers with features
 ![](5.png)
 --
 # text
+
+https://chat.openai.com
+
+https://open-assistant.io/chat/
 --
-# bild + merge
+# bild
+
+midjourney: https://youtu.be/7iqgor2AmXQ
+
+stable diffusion: https://youtu.be/DaLS4Baiqgk
 --
-# sprachen
+## note: prompt engineering 
+
+use ChatGPT for prompts
 --
-# programming
+# audio
+sprache: https://youtu.be/oyZ87y38zsI&t=293s
+
+musik: https://youtu.be/7NK_JOkuSVY?t=69
+--
+# video ✅
+--
+# programming ✅
 ---
 # 🔭
 ## Ausblick & Risiken
+--
+# merging
+
+https://youtu.be/AlSCx-4d51U?t=160
 --
 ## jobs
 
@@ -122,8 +144,14 @@ black box
 ![](https://www.citeco.fr/sites/default/files/field/image/Gafam-siteV2_0.jpg)
 
 monopols: data & hardware
+--
+![](https://upload.wikimedia.org/wikipedia/de/thumb/e/ec/Superman_Logo.svg/480px-Superman_Logo.svg.png)
 ---
 ## Diskussion
+--
+[![YouTube Video Link](https://img.youtube.com/vi/1KQc6zHOmtU/0.jpg)](https://www.youtube.com/watch?v=1KQc6zHOmtU)
+
+https://youtu.be/1KQc6zHOmtU
 --
 [![YouTube Video Link](https://img.youtube.com/vi/WXuK6gekU1Y/0.jpg)](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 
