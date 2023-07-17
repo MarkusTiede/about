@@ -11,7 +11,7 @@
 
 Executive Director @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
 
-![Friend of Eclipse](https://www.eclipse.org/community/newsletter/imagesmisc/frendsEclipse.png "Friend of Eclipse")
+![Mensa](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Mensa_Deutschland.svg/64px-Logo_Mensa_Deutschland.svg.png "Mensa DE")
 --
 [![](https://www.bfh.ch/.imaging/mte/bfh-theme/image-and-gallery-lg/dam/bfh.ch/departementsinhalte/wirtschaft/bild/veranstaltungen/TRANSFORM-2023/2023-Transform-01-Rathaussaal-Moderation-Flurina.jpg/jcr:content/2023-Transform-01-Rathaussaal-Moderation-Flurina.jpg)](https://www.bfh.ch/de/aktuell/fachveranstaltungen/transform-2023/)
 ---
@@ -30,22 +30,20 @@ Diskussion ~ 45'
 --
 # 🤔
 
-## Wie nutzt ihr bereits KI?
-im Alltag - privat / beruflich
+## Wie kommt ihr im Alltag mit KI in Kontakt?
+privat / beruflich
 --
 ![](https://www.slido.com/_next/static/media/slido-polling-video-thumbnail.66f09d6e.jpg)
 --
-### aktiv / bewusst 🤓
+#### aktiv / bewusst 🤓
 - Sprachassistenten: Siri, Alexa; Inhalte abspielen, erkennen
 - Fotos (Aufnehmen, Finden, Bearbeiten) am Mobilgerät, ...
 - Texte verfassen / übersetzen: eMail, Anträge, Anschreiben, ...
-- offline: Drohne
-- ...
+- offline: Drohne, ...
 
-### passiv / unbewusst 😮
+#### passiv / unbewusst 😮
 - YouTube (Urheberrechtsanalyse, Transkript zB Untertitel, ...)
-- Werbung (zT gefühlt auch im Pricing)
-- ...
+- Werbung (zT gefühlt auch im Pricing), ...
 ---
 # 🔤
 ## Einleitung & Grundlagen
@@ -56,9 +54,13 @@ LLMs am Beispiel: ~~Chat~~**GPT**
 
 > **G**enerative **P**re-trained **T**ransformer
 --
+<img src="https://mriquestions.com/uploads/3/4/5/7/34572113/perceptron-with-neuron_1.png" height="500px">
+
+biological & **artificial neurons**
+--
 ![](1.png)
 
-_weighted_ **network** of _layered, biased_ **neurons**
+_weighted_ **network** of _layered, biased_ neurons
 --
 ![](2.png)
 
@@ -103,10 +105,16 @@ use ChatGPT for prompts
 sprache: https://youtu.be/oyZ87y38zsI&t=293s
 
 musik: https://youtu.be/7NK_JOkuSVY?t=69
+
+https://www.beethovenx-ai.com
 --
 # video ✅
+
+https://youtu.be/t52Bi-ZUZjA
 --
 # programming ✅
+
+https://youtu.be/4RfD5JiXt3A
 ---
 # 🔭
 ## Ausblick & Risiken
@@ -147,7 +155,7 @@ monopols: data & hardware
 --
 ![](https://upload.wikimedia.org/wikipedia/de/thumb/e/ec/Superman_Logo.svg/480px-Superman_Logo.svg.png)
 ---
-## Diskussion
+# 🍽️
 --
 [![YouTube Video Link](https://img.youtube.com/vi/1KQc6zHOmtU/0.jpg)](https://www.youtube.com/watch?v=1KQc6zHOmtU)
 
@@ -156,5 +164,7 @@ https://youtu.be/1KQc6zHOmtU
 [![YouTube Video Link](https://img.youtube.com/vi/WXuK6gekU1Y/0.jpg)](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 
 https://youtu.be/WXuK6gekU1Y
+--
+## Fragen & Diskussion
 --
 ![](https://miro.medium.com/v2/resize:fit:1400/1*xq_s0TKxNpG3cvI80k8m8w.png)
