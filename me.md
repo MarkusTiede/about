@@ -76,6 +76,13 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2023
 
+#### `de` G14 - TAGUNG 2023 - [Digitale Nachhaltigkeit & Nachhaltige Digitalisierung](https://github.com/bfh/opensource/blob/main/docs/slides/2023-sol/content.md)
+
+![](https://solingen.digital/logo-black.svg)
+
+Das Wort Nachhaltigkeit kennt man im Zusammenhang mit Klimathemen und ökologischen Fragestellungen. Was aber ist digitale Nachhaltigkeit?
+Digitale Nachhaltigkeit bedeutet, dass digitale Wissensgüter ressourcenschonend hergestellt, frei genutzt, kollaborativ weiterentwickelt und langfristig zugänglich gesichert werden. Die Stabstelle solingen.digital arbeitet mit der Universität Bern daran, dieses Prinzip auf die digitale Infrastruktur der Stadt Solingen zu übertragen. [...]
+
 #### `de` [IIBA - Swiss German Chapter](https://swissgerman.iiba.org/event/open-source-was-bedeutet-das-fur-business-analysten-what-does-it-mean-business-analysts) - [OPEN SOURCE - WAS BEDEUTET DAS FÜR BUSINESS ANALYSTEN?](https://github.com/bfh/opensource/blob/main/docs/slides/2023-iiba/content.md)
 
 {% include youtube.html id="tNfhKfQP9B4" %}
