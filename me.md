@@ -55,6 +55,7 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 |      | [talks / Vorträge](#talks--vorträge) | [paper / Artikel](#paper--artikel)  |
 |:----:| ------------------:| ------------------:|
+| 2024 | [...](#talks-2024) | [...](#paper-2024) |
 | 2023 | [...](#talks-2023) | [...](#paper-2023) |
 | 2022 | [...](#talks-2022) |                    |
 | 2021 | [...](#talks-2021) | [...](#paper-2021) |
@@ -73,6 +74,8 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 | 2008 | [...](#talks-2008) |                    |
 
 ## talks / Vorträge
+
+### talks 2024
 
 ### talks 2023
 
