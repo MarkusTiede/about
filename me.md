@@ -573,21 +573,21 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 #### `de` Beitrag "Open Source Software: Kollaborativ und robust: Warum sich der professionelle Einsatz von lizenzoffener Software lohnt" in [«Public Sector Perspectives - Empfehlungen für den öffentlichen Sektor»](http://www.mtiede.de/paper/p.2024.psp-complete.pdf) - Markus Tiede
 
-[<img src="http://www.mtiede.de/paper/preview/p.2024.psp.oss.png" height="600px">](http://www.mtiede.de/paper/p.2024.psp.oss.pdf)
+[![](http://www.mtiede.de/paper/preview/p.2024.psp.oss.png)](http://www.mtiede.de/paper/p.2024.psp.oss.pdf)
 
 Praktisch alle modernen Softwarelösungen bauen auf Komponenten, die unter einer offenen Lizenz stehen. Damit bildet Open Source Software das Rückgrat sowohl von proprietären als auch von nicht­proprietären Anwendungen. Für die Ver­waltung sind Open-­Source-­Lösungen interessant, weil sie sich herstellerunabhängig weiterentwickeln lassen. [...]
 
 ### paper 2023
 
-#### `de` Präsenz - Das Magazin des Departements Wirtschaft - No. 2 | 2023: [Open Source @ Berner Fachhochschule - die Welt der freien Software und Zusammenarbeit](http://www.mtiede.de/paper/p.2023.bfh.pdf) - Markus Tiede
+#### `de` Präsenz - Das Magazin des Departements Wirtschaft - No. 2 | 2023: «Open Source @ Berner Fachhochschule - die Welt der freien Software und Zusammenarbeit» - Markus Tiede
 
-<img src="http://www.mtiede.de/paper/preview/p.2023.bfh.png" height="600px">
+[![](http://www.mtiede.de/paper/preview/p.2023.bfh.png)](http://www.mtiede.de/paper/p.2023.bfh.pdf)
 
 Die BFH baut eine Anlaufstelle und Informationsplattform zum Thema «Open Source» auf. Künftig können Forscher*innen und Student*innen hier eine Übersicht von geeigneten Alternativen zu proprietärer Software finden. Und sie erfahren, wie sie selbst an bestehenden, quelloffenen Projekten mitarbeiten oder sogar neue eigene Projekte in unserer Organisation starten können. [...]
 
-#### `en` [SHAPING DIGITAL TRANSFORMATION FOR A SUSTAINABLE SOCIETY - Contributions from Bits & Bäume](https://publication2023.bits-und-baeume.org): RESEARCH ARTICLE [ON DIGITAL SUSTAINABILITY AND DIGITAL PUBLIC GOODS](http://www.mtiede.de/paper/p.2023.bb.pdf) - Matthias Stürmer, Markus Tiede, Jasmin Nussbaumer & Flurina Wäspi
+#### `en` [SHAPING DIGITAL TRANSFORMATION FOR A SUSTAINABLE SOCIETY - Contributions from Bits & Bäume](https://publication2023.bits-und-baeume.org): RESEARCH ARTICLE «ON DIGITAL SUSTAINABILITY AND DIGITAL PUBLIC GOODS» - Matthias Stürmer, Markus Tiede, Jasmin Nussbaumer & Flurina Wäspi
 
-<img src="https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/94fd593b-b6e5-4edf-8567-c7be0f398b87/content" height="600px">
+[![](https://api-depositonce.tu-berlin.de/server/api/core/bitstreams/94fd593b-b6e5-4edf-8567-c7be0f398b87/content)](http://www.mtiede.de/paper/p.2023.bb.pdf)
 
 [...] Several 2022 reports from government and academic organisations contain the key message that sustainable development can be achieved using digital technologies. The report ‹Digital Reset› (Digitalization for Sustainability, 2022) calls for using digital technologies to reduce greenhouse gas emissions and resource waste in the agricul- ture, mobility, industry, and energy sectors. The researchers see digitalisation as a means to an end for sustainable transformation. Similarly, the report by the Coalition for Digital Environmental Sustainability (CODES, 2022), presents an action plan that includes impact initiatives to «achieve a sustainable planet in the digital age». The EU argues that digital technologies must play a key role in achieving climate neutrality in the EU by 2050 (Muench et al., 2022). The authors call for a ‹twin transition›, man- aging digital and green transitions simultaneously so that they reinforce each other. [...]
 
