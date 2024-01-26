@@ -566,6 +566,14 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 ## paper / Artikel
 
+### paper 2024
+
+#### `de` Beitrag "Open Source Software: Kollaborativ und robust: Warum sich der professionelle Einsatz von lizenzoffener Software lohnt" in [«Public Sector Perspectives - Empfehlungen für den öffentlichen Sektor»](http://www.mtiede.de/paper/p.2024.psp.oss.pdf) - Markus Tiede
+
+<img src="http://www.mtiede.de/paper/preview/p.2024.psp.oss.png" height="600px">
+
+Praktisch alle modernen Softwarelösungen bauen auf Komponenten, die unter einer offenen Lizenz stehen. Damit bildet Open Source Software das Rückgrat sowohl von proprietären als auch von nicht­proprietären Anwendungen. Für die Ver­waltung sind Open-­Source-­Lösungen interessant, weil sie sich herstellerunabhängig weiterentwickeln lassen. [...]
+
 ### paper 2023
 
 #### `de` Präsenz - Das Magazin des Departements Wirtschaft - No. 2 | 2023: [Open Source @ Berner Fachhochschule - die Welt der freien Software und Zusammenarbeit](http://www.mtiede.de/paper/p.2023.bfh.pdf) - Markus Tiede
