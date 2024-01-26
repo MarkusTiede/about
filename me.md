@@ -1,6 +1,5 @@
 ---
 layout: page
-title: about/me | Markus Tiede
 ---
 
 # Marku[s](https://github.com/MarkusTiede/about/blob/main/slides/intro/me.md) Andreas Tiede
