@@ -1,0 +1,26 @@
+title: about/me
+description: Information about me and my public activities. 
+remote_theme: jekyll/minima
+
+author:
+  name: Markus Tiede
+  email: markus.tiede@open-co.de
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-avatar
+
+header_pages:
+  - me.md 
+
+future: true
+
+minima:
+  skin: classic
+  date_format: "%d.%m.%Y"
+  social_links:
+    - { platform: github, user_url: "https://github.com/MarkusTiede/" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/markus-tiede/" }
+    - { platform: twitter, user_url: "https://twitter.com/Markus" }
+    - { platform: youtube, user_url: "https://www.youtube.com/@MarkusTiede" }
