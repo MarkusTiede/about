@@ -1,3 +1,2 @@
 source "https://rubygems.org"
-
-end
+gem 'github-pages'
