@@ -3,7 +3,7 @@ layout: page
 title: Markus Tiede
 ---
 
-> «Digitale Transparenz & Offenheit unternehmerisch gelebt - so gehen wir gemeinsam & souverän in eine nachhaltige Zukunft.»
+> «Digitale Transparenz & Offenheit unternehmerisch gelebt - so gehen wir gemeinsam & souverän in eine nachhaltige Zukunft. 🌱»
 
 ![An official picture of me - Markus Tiede](img/me-circle.png "Markus Tiede")
 
