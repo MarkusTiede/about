@@ -3,7 +3,7 @@
 `Dipl.-Inf. (FH)`
 ## [Markus Tiede](http://www.mtiede.de) 👨‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) / [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/)
 
-Executive Director @ [CH Open](https://www.ch-open.ch) + OK @ [DINAcon](https://dinacon.ch)
+Executive Board @ [CH Open](https://www.ch-open.ch): [DINAcon](https://dinacon.ch), [Workshoptage](https://workshoptage.ch), ...
 
 --
 <img height="600" src="https://markustiede.github.io/about/img/overview/certs.png" />
