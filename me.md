@@ -46,7 +46,8 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 | profiles @... |
 | :--: |
-| [![X](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/200px-X_logo_2023.svg.png "X")](https://x.com/MarkusTiede) |
+| [![BFH](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Berner_Fachhochschule_Logo_small.svg/128px-Berner_Fachhochschule_Logo_small.svg.png "BFH")](https://www.bfh.ch/de/markus-andreas-tiede) |
+| [![X](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/128px-X_logo_2023.svg.png "X")](https://x.com/MarkusTiede) |
 | [![CH Open](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)](https://www.ch-open.ch/en/ueber-ch-open/vorstand/) |
 | [![Eclipse Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eclipse_Foundation_Logo.svg/200px-Eclipse_Foundation_Logo.svg.png "Eclipse Foundation")](https://accounts.eclipse.org/users/mtiede) |
 | [![App(le)Store](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/100px-Apple_logo_black.svg.png)](https://apps.apple.com/de/developer/markus-tiede/id1086476841) |
