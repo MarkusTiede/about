@@ -46,7 +46,7 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 | profiles @... |
 | :--: |
-| [![Twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/200px-Logo_of_Twitter.svg.png "Twitter")](https://twitter.com/MarkusTiede) |
+| [![X](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/200px-X_logo_2023.svg.png "X")](https://x.com/MarkusTiede) |
 | [![CH Open](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)](https://www.ch-open.ch/en/ueber-ch-open/vorstand/) |
 | [![Eclipse Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eclipse_Foundation_Logo.svg/200px-Eclipse_Foundation_Logo.svg.png "Eclipse Foundation")](https://accounts.eclipse.org/users/mtiede) |
 | [![App(le)Store](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/100px-Apple_logo_black.svg.png)](https://apps.apple.com/de/developer/markus-tiede/id1086476841) |
