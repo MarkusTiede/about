@@ -81,6 +81,16 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2024
 
+#### `de` OpenEducationDay 2024 - [reveal.js - Hands-on with the open (source) presentation framework](https://github.com/bfh/opensource/blob/main/docs/slides/2024-oed/content.md)
+
+{% include youtube.html id="UgXbPIK24wE" %}
+
+In dieser Session werden wir uns gemeinsam das open source Präsentationsframework **[revealjs](https://revealjs.com)** anschauen. Im Gegensatz zu üblichen [WYSIWYG](https://de.wikipedia.org/wiki/WYSIWYG)-Tools wie Powerpoint, Impress & Co lassen sich so **moderne Präsentationen erstellen, die selber auch quelloffen sind - und das quasi ohne Programmierkenntnisse!**
+
+Wir starten mit einer kurzen Einleitung und einer **Übersicht der Features** und schauen uns dann gemeinsam das notwendige, leichtgewichtige **technische Setup** an: natürlich in einer **Live-Demonstration**!
+
+Abgerundet wird der Vortrag durch eine Reihe von **Referenzen aus der Lehrpraxis** aus dem Departement Wirtschaft der Berner Fachhochschule.
+
 ### talks 2023
 
 #### `de` G14 - TAGUNG 2023 - [Digitale Nachhaltigkeit & Nachhaltige Digitalisierung](https://github.com/bfh/opensource/blob/main/docs/slides/2023-sol/content.md)
