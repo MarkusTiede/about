@@ -16,7 +16,9 @@ Dipl.-Inf. (FH)
 
 ### Lecturer & consultant as [Senior Open Source Practitioner](https://www.bfh.ch/de/aktuell/news/2022/markus-tiede/) @ Digital Sustainability Lab within the [Institute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/) | Bern University of Applied Sciences | BFH
 ### Member of the Executive Board @ [CH Open](https://www.ch-open.ch/en/ueber-ch-open/executive-board/)
+### [Digital Economy Award](https://www.digitaleconomyaward.ch) jury member for the DIGITAL EXCELLENCE GOVERNMENT & NPO category focussing on [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit)
 ### Member of the [DINAcon](https://dinacon.ch) organizing committee
+### Member of the [Workshoptage](https://workshoptage.ch) organizing committee
 ### [Intr`]open[`eur](https://en.wikipedia.org/wiki/Intrapreneurship)
 
 ## experience(s)
