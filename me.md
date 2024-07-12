@@ -14,12 +14,13 @@ Dipl.-Inf. (FH)
 
 ## role(s)
 
-### Lecturer & consultant as [Senior Open Source Practitioner](https://www.bfh.ch/de/aktuell/news/2022/markus-tiede/) @ Digital Sustainability Lab within the [Institute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/) | Bern University of Applied Sciences | BFH
-### Member of the Executive Board @ [CH Open](https://www.ch-open.ch/en/ueber-ch-open/executive-board/)
-### [Digital Economy Award](https://www.digitaleconomyaward.ch) jury member for the DIGITAL EXCELLENCE GOVERNMENT & NPO category focussing on [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit)
-### Member of the [DINAcon](https://dinacon.ch) organizing committee
-### Member of the [Workshoptage](https://workshoptage.ch) organizing committee
-### [Intr`]open[`eur](https://en.wikipedia.org/wiki/Intrapreneurship)
+| where | what |
+| :--: | :-- |
+| [![BFH](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Berner_Fachhochschule_Logo_small.svg/128px-Berner_Fachhochschule_Logo_small.svg.png "BFH")](https://www.bfh.ch/de/markus-andreas-tiede) | Lecturer & consultant as [Senior Open Source Practitioner](https://www.bfh.ch/de/aktuell/news/2022/markus-tiede/) @ Digital Sustainability Lab within the [Institute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/) | Bern University of Applied Sciences | BFH |
+| [![CH Open](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)](https://www.ch-open.ch/en/ueber-ch-open/vorstand/) | Member of the Executive Board @ [CH Open](https://www.ch-open.ch/en/ueber-ch-open/executive-board/) |
+| ![](https://www.digitaleconomyaward.ch/themes/digital_ecomony_award_2018/img/digital_economy_award.svg) | [Digital Economy Award](https://www.digitaleconomyaward.ch) jury member for the DIGITAL EXCELLENCE GOVERNMENT & NPO category focussing on [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit) |
+| ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DINAcon_Logo_rgb_RZ.svg/128px-DINAcon_Logo_rgb_RZ.svg.png) | Member of the [DINAcon](https://dinacon.ch) organizing committee |
+|  | Member of the [Workshoptage](https://workshoptage.ch) organizing committee |
 
 ## experience(s)
 
@@ -48,9 +49,7 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 | profiles @... |
 | :--: |
-| [![BFH](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Berner_Fachhochschule_Logo_small.svg/128px-Berner_Fachhochschule_Logo_small.svg.png "BFH")](https://www.bfh.ch/de/markus-andreas-tiede) |
 | [![X](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/128px-X_logo_2023.svg.png "X")](https://x.com/MarkusTiede) |
-| [![CH Open](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)](https://www.ch-open.ch/en/ueber-ch-open/vorstand/) |
 | [![Eclipse Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eclipse_Foundation_Logo.svg/200px-Eclipse_Foundation_Logo.svg.png "Eclipse Foundation")](https://accounts.eclipse.org/users/mtiede) |
 | [![App(le)Store](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/100px-Apple_logo_black.svg.png)](https://apps.apple.com/de/developer/markus-tiede/id1086476841) |
 | [**OpenHub.net**](https://www.openhub.net/accounts/MarkusTiede) |
