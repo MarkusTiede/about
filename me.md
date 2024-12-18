@@ -86,6 +86,20 @@ Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus au
 
 ### talks 2024
 
+#### `de` DINAcon 2024 - [Digitale Souveränität von Vereinen "civil42"](https://github.com/digital-sustainability/civil42/blob/main/docs/slides/24-dinacon/content.md)
+
+Ergebnisse einer Innovationsscheck-Studie zum Thema "Digitale Souveränität von Vereinen"
+
+Die heutige Landschaft von eingesetzten digitalen Tools zur Organisation von Vereinen und anderen Non-Profit-Organisationen ist stark geprägt von proprietären Software-Lösungen, welche nur ein geringes Mass an s.g. digitaler Souveränität mit sich bringen. Dies führt zu einer starken Abhängigkeit zwischen Nutzenden und Anbietern auch bekannt als “Vendor bzw. Produkt Lock-In”.
+
+Wir haben im Rahmen eines Innovationsschecks geprüft, ob
+
+ - In den NPOs bereits eine Sensibilisierung für das Thema vorliegt
+ - Wo Bedarf an digitalen Lösungen und Anbindungen besteht und welche Software zum Einsatz kommt
+ - Es für den Bedarf in den jeweiligen Teilbereichen (Kommunizieren und Arbeiten, Dokumente & Datenablage, Projektmanagement, …) offene (s.g. open source) Lösungen gibt, welche als Alternativen angeführt bzw. empfohlen werden können
+
+Ziel war es die Souveränität von ehrenamtlichen Organisationen in Bezug auf Digitalisierung zu unterstützen und zu stärken.
+
 #### `de` OpenEducationDay 2024 - [reveal.js - Hands-on with the open (source) presentation framework](https://github.com/bfh/opensource/blob/main/docs/slides/2024-oed/content.md)
 
 {% include youtube.html id="UgXbPIK24wE" %}
