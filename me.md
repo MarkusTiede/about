@@ -601,6 +601,12 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 ### paper 2025
 
+#### `de` Beitrag "Open Source Software - Mit mehr Flexibilität schrittweise raus aus dem «Vendor Lock-in»" in [«Public Sector Perspectives 2025 - Inspirationen für einen offenen, innovativen und nachhaltigen öffentlichen Sektor»](http://www.mtiede.de/paper/p.2025.psp-complete.pdf) - Markus Tiede
+
+[![](http://www.mtiede.de/paper/preview/p.2025.psp.oss.png)](http://www.mtiede.de/paper/p.2025.psp.oss.pdf)
+
+Proprietäre Software bindet Organisationen oft langfristig an einen Anbieter. Open Source stellt dazu eine Alternative dar: Durch transparente Lösungen und offene Standards können Unternehmen den «Vendor Lock-in» reduzieren, souverän über ihre IT-Infrastruktur entscheiden und die Kontrolle über ihre Daten behalten. [...]
+
 ### paper 2024
 
 #### `de` [Projekt Cloud Enabling Büroautomation (CEBA) - Studie zu Open-Source-Alternativen von Microsoft Services und Produkten in der Schweizerischen Bundesverwaltung Backend-Services](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/bueroautomation/projekt-ceba.html) - Dr. Ronny Standtke | Dipl.-Inf. (FH) Markus Tiede
@@ -611,7 +617,7 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 [![](documents/oss-bk-24-2.png)](https://www.bk.admin.ch/dam/bk/de/dokumente/dti/themen/CEBA/studie-zu-open-source-alternativen-von-microsoft-services-und-produkten-in-der-schweizerischen-bundesverwaltung-frontend-services.pdf.download.pdf/Studie%20zu%20Open-Source-Alternativen%20von%20Microsoft%20Services%20und%20Produkten%20in%20der%20Schweizerischen%20Bundesverwaltung%20Frontend-Services.pdf)
 
-#### `de` Beitrag "Open Source Software: Kollaborativ und robust: Warum sich der professionelle Einsatz von lizenzoffener Software lohnt" in [«Public Sector Perspectives - Empfehlungen für den öffentlichen Sektor»](http://www.mtiede.de/paper/p.2024.psp-complete.pdf) - Markus Tiede
+#### `de` Beitrag "Open Source Software - Kollaborativ und robust: Warum sich der professionelle Einsatz von lizenzoffener Software lohnt" in [«Public Sector Perspectives 2024 - Empfehlungen für den öffentlichen Sektor»](http://www.mtiede.de/paper/p.2024.psp-complete.pdf) - Markus Tiede
 
 [![](http://www.mtiede.de/paper/preview/p.2024.psp.oss.png)](http://www.mtiede.de/paper/p.2024.psp.oss.pdf)
 
