@@ -14,6 +14,8 @@ Dipl.-Inf. (FH)
 
 ## role(s)
 
+{% include youtube.html id="hOLxIl31X4k" %}
+
 | where | what |
 | :--: | :-- |
 | [![BFH](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Berner_Fachhochschule_Logo_small.svg/128px-Berner_Fachhochschule_Logo_small.svg.png "BFH")](https://www.bfh.ch/de/markus-andreas-tiede) | Lecturer & consultant as [Senior Open Source Practitioner](https://www.bfh.ch/de/aktuell/news/2022/markus-tiede/) @ Digital Sustainability Lab within the [Institute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/) > Bern University of Applied Sciences > BFH |
