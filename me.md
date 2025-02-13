@@ -31,10 +31,18 @@ Dipl.-Inf. (FH)
 ## bio
 
 ### en
-Markus is a software developer and release engineer with focus on high quality standards. Besides being a former open-source Eclipse Foundation committer and Package Maintainer for „Eclipse for Testers“ he holds a Diplom (German degree) in Computer Science from the [University of Applied Sciences in Braunschweig][ostfalia-en].
+Markus stands for digital transparency and openness as the basis for sustainable innovation. He holds a Diplom (German degree) in Computer Science from the [University of Applied Sciences in Braunschweig][ostfalia-en] and was born in 1985. As a senior open source practitioner and lecturer at Bern University of Applied Sciences (BFH) in the Digital Sustainability Lab, he advises companies and public institutions on digital sovereignty and sustainability.
+
+In addition, he has been involved in Switzerland for many years on the board of CH Open - the association for the promotion of open source software and open standards in Switzerland, as a jury member of the Digital Economy Awards and on the organizing committees of DINAcon - the conference for digital sustainability and the Swiss Workshop Days. His focus is on making open source and digital sustainability visible and usable in everyday life for business, administration and civil society.
+
+Characterized by many years of experience in software development and release engineering, including as a committer for the Eclipse Foundation and package maintainer for “Eclipse for Testers”, he stands for high quality standards and collaborative processes.
 
 ### de
-Markus arbeitet als Softwareentwickler und Release-Engineer mit starkem Fokus auf hohe Qualitätsstandards. Markus ist darüber hinaus ein ehemaliger open-source Eclipse Foundation Committer, Package Maintainer für „Eclipse for Testers“ und hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de].
+Markus steht für digitale Transparenz und Offenheit als Grundlage nachhaltiger Innovationen. Er hat einen Abschluss als Diplom-Informatiker von der [FH Braunschweig-Wolfenbüttel][ostfalia-de] und wurde im Jahr 1985 geboren. Als Senior Open Source Practitioner und Dozent an der Berner Fachhochschule (BFH) im Digital Sustainability Lab berät er Unternehmen und öffentliche Institutionen zu digitaler Souveränität und Nachhaltigkeit.
+
+Darüber hinaus engagiert er sich bereits langjährig in der Schweiz im Vorstand von CH Open - dem Verein zur Förderung von Open Source Software und offenen Standards in der Schweiz, als Jury-Mitglied der Digital Economy Awards sowie in den Organisationskomitees der DINAcon - der Konferenz für digitale Nachhaltigkeit und der schweizer Workshoptage. Sein Fokus liegt darauf, Open Source und digitale Nachhaltigkeit für Wirtschaft, Verwaltung und Zivilgesellschaft sichtbar und im Alltag nutzbar zu machen.
+
+Geprägt durch langjährige Erfahrung in der Softwareentwicklung und im Release-Engineering, unter anderem als Committer der Eclipse Foundation und Package-Maintainer für „Eclipse for Testers“, steht er für hohe Qualitätsstandards sowie kollaborative Prozesse.
 
 ## [qualifications / Qualifikationen](#other-qualifications--weitere-qualifikationen)
 
