@@ -11,12 +11,12 @@ title: Markus Tiede
 Dipl.-Inf. (FH)
 * 28.06.1985
 ```
-
+{% include youtube.html id="Y6SvSHtP7tQ" %}
 ## role(s)
 
 | where | what |
 | :--: | :-- |
-| [![BFH](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Berner_Fachhochschule_Logo_small.svg/128px-Berner_Fachhochschule_Logo_small.svg.png "BFH")](https://www.bfh.ch/de/markus-andreas-tiede) | Lecturer & consultant as [Senior Open Source Practitioner](https://www.bfh.ch/de/aktuell/news/2022/markus-tiede/) @ Digital Sustainability Lab within the [Institute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/) > Bern University of Applied Sciences > BFH |
+| {% include youtube.html id="hOLxIl31X4k" %} | Lecturer & consultant as [Senior Open Source Practitioner](https://www.bfh.ch/de/markus-andreas-tiede) @ Digital Sustainability Lab within the [Institute for Public Sector Transformation](https://www.bfh.ch/en/research/research-areas/public-sector-transformation/) > Bern University of Applied Sciences > BFH |
 | [![CH Open](https://www.ch-open.ch/wp-content/uploads/2019/04/logo_chopen_web_big-1.png)](https://www.ch-open.ch/en/ueber-ch-open/vorstand/) | Member of the Executive Board @ [CH Open](https://www.ch-open.ch/en/ueber-ch-open/executive-board/) |
 | [![](https://www.digitaleconomyaward.ch/themes/digital_ecomony_award_2018/img/digital_economy_award.svg)](https://www.digitaleconomyaward.ch/de/Awards/Digital-Excellence-Award/Public) | [Digital Economy Award](https://www.digitaleconomyaward.ch) jury member for the DIGITAL EXCELLENCE GOVERNMENT & NPO category focussing on [digital sustainability](https://de.wikipedia.org/wiki/Digitale_Nachhaltigkeit) |
 | [![](https://upload.wikimedia.org/wikipedia/commons/f/ff/DINAcon_Logo_rgb_RZ.svg)](https://dinacon.ch) | Member of the [DINAcon](https://dinacon.ch) organizing committee |
