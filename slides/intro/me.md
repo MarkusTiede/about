@@ -1,7 +1,7 @@
 ![me](https://github.com/MarkusTiede/about/raw/main/img/me-circle.png)
 
 `Dipl.-Inf. (FH)`
-## [Markus Tiede](http://www.mtiede.de) 👨‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) / [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/)
+## [Markus (Tiede)](http://www.mtiede.de) 👨🏻‍🏫 [DSL](https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/) / [IPST](https://www.bfh.ch/de/forschung/forschungsbereiche/public-sector-transformation/)
 
 Executive Board @ [CH Open](https://www.ch-open.ch): [DINAcon](https://dinacon.ch), [Workshoptage](https://workshoptage.ch), ...
 
