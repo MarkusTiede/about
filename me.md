@@ -280,6 +280,13 @@ Wie wir das bei der Basler leben und was wir in den letzten Jahren schon erreich
 
 ### talks 2019
 
+#### `en` Insurance and Open-Source (Software) - (im)possible!?
+ - [Red Hat Forum Switzerland][t.2019.redhat.slides]
+
+When thinking about insurance companies open-source wouldn't be one of the first things that comes to your mind: unless when you think of Baloise. For many years we've been "using", "contributing" and "releasing" open-source (software).
+
+In this session Markus will give a brief overview of these activities and the road we've traveled so far. Markus will share (reusable) resources that will help you starting open-source activities on your own.
+
 #### `de` Open-Source (Software) in der Versicherung(swelt)
  - [DINAcon][t.2019.dina]
 
@@ -783,6 +790,7 @@ Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](https://de.wikipedia.org/wi
 [ostfalia-de]: http://www.ostfalia.de
 [Jubula]: http://www.eclipse.org/jubula
 
+[t.2019.redhat.slides]: talks/2019-redhat.pdf?raw=true
 [t.2019.dina]: https://dinacon.ch/sessions/2019/open-source-software-in-der-versicherungswelt/
 [t.2019.dt]: https://www.digitaltag.swiss/programm/baloise-wissens-allmende-2.0/
 [t.2019.dt.slides]: https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-commons
