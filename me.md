@@ -71,6 +71,7 @@ Geprägt durch langjährige Erfahrung in der Softwareentwicklung und im Release-
 
 |      | [talks / Vorträge](#talks--vorträge) | [paper / Artikel](#paper--artikel)  |
 |:----:| ------------------:| ------------------:|
+| 2025 | [...](#talks-2026) | [...](#paper-2026) |
 | 2025 | [...](#talks-2025) | [...](#paper-2025) |
 | 2024 | [...](#talks-2024) | [...](#paper-2024) |
 | 2023 | [...](#talks-2023) | [...](#paper-2023) |
@@ -92,7 +93,21 @@ Geprägt durch langjährige Erfahrung in der Softwareentwicklung und im Release-
 
 ## talks / Vorträge
 
+### talks 2026
+
 ### talks 2025
+
+#### `de` Workshop-Tage 2025 - [Das "kleine 1x1" des professionellen Umgangs mit Quelloffenheit: Open Source Program Offices](https://github.com/bfh/opensource/tree/main/docs/slides/2025-1x1/content)
+
+Wir widmen uns einen Tag lang den Grundlagen des professionellen Umgangs mit quelloffener Software, offenen kollaborativen Ökosystemen und deren strategischer Wirkung.
+
+Dabei decken wir die relvanten Themen auf den allen Stufen des leichtgewichtigen Open Source Maturitätsmodells der Linux Foundation ab:
+- Angefangen bei der bewussten und korrekten Nutzung von quelloffenen Artefakten,
+- über das Mitwirken an Open Source Projekten,
+- sowie das Initiieren von eigenen Projekten,
+- abgerundet wird der Workshop am Nachmittag mit zwei Sessions auf strategischer Flughöhe.
+
+Begleiten werden uns durch den Tag eine Vielfalt von Interaktionen und Möglichkeiten des persönliches Erfahrungsaustausches.
 
 ### talks 2024
 
@@ -615,6 +630,8 @@ Begin by looking at the agile development process to determine the requirements 
 This 5-minute lightning talk emphasised spotting the spam when thinking about UI test automation tools.
 
 ## paper / Artikel
+
+### paper 2026
 
 ### paper 2025
 
