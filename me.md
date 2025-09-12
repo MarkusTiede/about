@@ -71,7 +71,7 @@ Geprägt durch langjährige Erfahrung in der Softwareentwicklung und im Release-
 
 |      | [talks / Vorträge](#talks--vorträge) | [paper / Artikel](#paper--artikel)  |
 |:----:| ------------------:| ------------------:|
-| 2025 | [...](#talks-2026) | [...](#paper-2026) |
+| 2026 | [...](#talks-2026) | [...](#paper-2026) |
 | 2025 | [...](#talks-2025) | [...](#paper-2025) |
 | 2024 | [...](#talks-2024) | [...](#paper-2024) |
 | 2023 | [...](#talks-2023) | [...](#paper-2023) |
