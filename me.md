@@ -62,7 +62,6 @@ Geprägt durch langjährige Erfahrung in der Softwareentwicklung und im Release-
 | :--: |
 | [![X](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/128px-X_logo_2023.svg.png "X")](https://x.com/MarkusTiede) |
 | [![Eclipse Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eclipse_Foundation_Logo.svg/200px-Eclipse_Foundation_Logo.svg.png "Eclipse Foundation")](https://accounts.eclipse.org/users/mtiede) |
-| [![App(le)Store](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/100px-Apple_logo_black.svg.png)](https://apps.apple.com/de/developer/markus-tiede/id1086476841) |
 | [**OpenHub.net**](https://www.openhub.net/accounts/MarkusTiede) |
 | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/200px-LinkedIn_Logo.svg.png "LinkedIn")](https://www.linkedin.com/in/markus-tiede) |
 | [![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png)](https://scholar.google.com/citations?user=UAO4J5IAAAAJ) |
