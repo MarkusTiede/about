@@ -632,6 +632,12 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 ### paper 2026
 
+#### `de` Beitrag "Open Source Software - Die Schweiz nimmt eine Vorreiterrolle ein" in [«Public Sector Perspectives 2026 - Inspirationen für einen offenen, innovativen und nachhaltigen öffentlichen Sektor»](https://www.bfh.ch/dam/jcr:7dbe3572-a8cd-479e-b4ab-0db976e14ecb/Public%20Sector%20Perspectives%202026_digital.pdf) - Markus Tiede
+
+[![](paper/preview/p.2026.psp.oss.png)](https://www.bfh.ch/dam/jcr:b631f7fb-984d-40aa-a24d-8e6b7633b02b/PSP2026_21_Open%20Source%20Software.pdf)
+
+Im Kontext der Open Source Software ebnet die Schweiz den Weg für nachhaltige, sichere und souveräne Softwareentwicklung. Doch auch auf europäischer Ebene bewegt sich viel: Der Cyber Resilience Act und die fortschreitende Regulierung setzen neue Massstäbe für den Umgang mit Open Source. [...]
+
 ### paper 2025
 
 #### `de` Beitrag "Open Source Software - Mit mehr Flexibilität schrittweise raus aus dem «Vendor Lock-in»" in [«Public Sector Perspectives 2025 - Inspirationen für einen offenen, innovativen und nachhaltigen öffentlichen Sektor»](http://www.mtiede.de/paper/p.2025.psp-complete.pdf) - Markus Tiede
