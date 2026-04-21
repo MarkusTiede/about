@@ -52,18 +52,18 @@ Geprägt durch langjährige Erfahrung in der Softwareentwicklung und im Release-
 
 | where | what |
 | :--: | :--: |
-| [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Foodsharing-Logo_dunkel_Gabel.png/256px-Foodsharing-Logo_dunkel_Gabel.png)](https://foodsharing.de/user/818290/profile/public) | foodsaver & [betriebsverantwortlicher](https://wiki.foodsharing.de/Betriebsverantwortliche*r) |
-| [![](https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Lions_Clubs_International_logo.svg/128px-Lions_Clubs_International_logo.svg.png)](https://muellheim-neuenburg.lions.de) | member & [webmaster](https://muellheim-neuenburg.lions.de/vorstand) |
-| [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Mensa_Deutschland.svg/128px-Logo_Mensa_Deutschland.svg.png)](https://www.mensa.de) | member |
+| [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Foodsharing-Logo_dunkel_Gabel.png/250px-Foodsharing-Logo_dunkel_Gabel.png)](https://foodsharing.de/user/818290/profile/public) | foodsaver & [betriebsverantwortlicher](https://wiki.foodsharing.de/Betriebsverantwortliche*r) |
+| [![](https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Lions_Clubs_International_logo.svg/120px-Lions_Clubs_International_logo.svg.png)](https://muellheim-neuenburg.lions.de) | member & [webmaster](https://muellheim-neuenburg.lions.de/vorstand) |
+| [![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Mensa_Deutschland.svg/120px-Logo_Mensa_Deutschland.svg.png)](https://www.mensa.de) | member |
 
 ### other references / weitere Referenzen
 
 | profiles @... |
 | :--: |
 | [![X](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/120px-X_logo_2023.svg.png "X")](https://x.com/MarkusTiede) |
-| [![Eclipse Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eclipse_Foundation_Logo.svg/200px-Eclipse_Foundation_Logo.svg.png "Eclipse Foundation")](https://accounts.eclipse.org/users/mtiede) |
+| [![Eclipse Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Eclipse_Foundation_Logo.svg/120px-Eclipse_Foundation_Logo.svg.png "Eclipse Foundation")](https://accounts.eclipse.org/users/mtiede) |
 | [**OpenHub.net**](https://www.openhub.net/accounts/MarkusTiede) |
-| [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/200px-LinkedIn_Logo.svg.png "LinkedIn")](https://www.linkedin.com/in/markus-tiede) |
+| [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/120px-LinkedIn_Logo.svg.png "LinkedIn")](https://www.linkedin.com/in/markus-tiede) |
 | [![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png)](https://scholar.google.com/citations?user=UAO4J5IAAAAJ) |
 
 ## ToC / Inhaltsverzeichnis
