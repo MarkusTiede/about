@@ -632,6 +632,12 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 ### paper 2026
 
+#### `de` Studie ["Evaluierung von «openDesk» als Second-Source-Lösung für Microsoft 365" für die Organisation und Informatik (OIZ) der Stadt Zürich](https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/digitale-souveraenitaet-alternative-microsoft-365.html) - Markus Tiede et al.
+
+[![](paper/preview/p.26.stzh.opendesk.png)](https://www.stadt-zuerich.ch/content/dam/web/de/aktuell/medienmitteilungen/2026/05/stzh-studie-evaluierung-secound-source-digitale-souveraenitaet.pdf)
+
+Eine von der Organisation und Informatik (OIZ) gemeinsam mit der Berner Fachhochschule verfasste Studie zeigt, dass eine auf Open-Source basierende Lösung die grundlegenden Anforderungen an eine Standardsoftware für den Büroalltag abdeckt und damit elementare Funktionen der heutigen M365-Umgebung ersetzen könnte. Bei komplexeren Themen wie Automatisierung, Telefonie und Cyber Security bestehen jedoch Herausforderungen. Ein geplanter Praxistest wird weitere Erkenntnisse liefern.
+
 #### `de` Beitrag "Open Source Software - Die Schweiz nimmt eine Vorreiterrolle ein" in [«Public Sector Perspectives 2026 - Inspirationen für einen offenen, innovativen und nachhaltigen öffentlichen Sektor»](https://www.bfh.ch/dam/jcr:7dbe3572-a8cd-479e-b4ab-0db976e14ecb/Public%20Sector%20Perspectives%202026_digital.pdf) - Markus Tiede
 
 [![](paper/preview/p.2026.psp.oss.png)](https://www.bfh.ch/dam/jcr:b631f7fb-984d-40aa-a24d-8e6b7633b02b/PSP2026_21_Open%20Source%20Software.pdf)
