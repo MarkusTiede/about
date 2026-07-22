@@ -94,6 +94,10 @@ Geprägt durch langjährige Erfahrung in der Softwareentwicklung und im Release-
 
 ### talks 2026
 
+#### `de` #DIGITUP 2026 - [Open Source Program Office (OSPO) als strategisches Instrument](https://www.swissict.ch/digitup-gv-2026/)
+
+[![https://www.swissict.ch/app/uploads/2026/04/dd57043371777b0ce9d9a91dbb25de49.png]()](https://github.com/bfh/opensource/blob/main/docs/slides/2026-swissict-ospo/content.md)
+
 ### talks 2025
 
 #### `de` Workshop-Tage 2025 - [Das "kleine 1x1" des professionellen Umgangs mit Quelloffenheit: Open Source Program Offices](https://github.com/bfh/opensource/tree/main/docs/slides/2025-1x1/content)
