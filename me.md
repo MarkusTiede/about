@@ -638,13 +638,13 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 #### `de` Studie ["Evaluierung von «openDesk» als Second-Source-Lösung für Microsoft 365" für die Organisation und Informatik (OIZ) der Stadt Zürich](https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/digitale-souveraenitaet-alternative-microsoft-365.html) - Markus Tiede et al.
 
-[![](paper/preview/p.26.stzh.opendesk.png)](https://www.stadt-zuerich.ch/content/dam/web/de/aktuell/medienmitteilungen/2026/05/stzh-studie-evaluierung-secound-source-digitale-souveraenitaet.pdf)
+[![](paper/preview/p.26.stzh.opendesk.png){: loading="lazy"}](https://www.stadt-zuerich.ch/content/dam/web/de/aktuell/medienmitteilungen/2026/05/stzh-studie-evaluierung-secound-source-digitale-souveraenitaet.pdf)
 
 Eine von der Organisation und Informatik (OIZ) gemeinsam mit der Berner Fachhochschule verfasste Studie zeigt, dass eine auf Open-Source basierende Lösung die grundlegenden Anforderungen an eine Standardsoftware für den Büroalltag abdeckt und damit elementare Funktionen der heutigen M365-Umgebung ersetzen könnte. Bei komplexeren Themen wie Automatisierung, Telefonie und Cyber Security bestehen jedoch Herausforderungen. Ein geplanter Praxistest wird weitere Erkenntnisse liefern.
 
 #### `de` Beitrag "Open Source Software - Die Schweiz nimmt eine Vorreiterrolle ein" in [«Public Sector Perspectives 2026 - Inspirationen für einen offenen, innovativen und nachhaltigen öffentlichen Sektor»](https://www.bfh.ch/dam/jcr:7dbe3572-a8cd-479e-b4ab-0db976e14ecb/Public%20Sector%20Perspectives%202026_digital.pdf) - Markus Tiede
 
-[![](paper/preview/p.2026.psp.oss.png)](https://www.bfh.ch/dam/jcr:b631f7fb-984d-40aa-a24d-8e6b7633b02b/PSP2026_21_Open%20Source%20Software.pdf)
+[![](paper/preview/p.2026.psp.oss.png){: loading="lazy"}](https://www.bfh.ch/dam/jcr:b631f7fb-984d-40aa-a24d-8e6b7633b02b/PSP2026_21_Open%20Source%20Software.pdf)
 
 Im Kontext der Open Source Software ebnet die Schweiz den Weg für nachhaltige, sichere und souveräne Softwareentwicklung. Doch auch auf europäischer Ebene bewegt sich viel: Der Cyber Resilience Act und die fortschreitende Regulierung setzen neue Massstäbe für den Umgang mit Open Source. [...]
 
@@ -652,7 +652,7 @@ Im Kontext der Open Source Software ebnet die Schweiz den Weg für nachhaltige, 
 
 #### `de` Beitrag "Open Source Software - Mit mehr Flexibilität schrittweise raus aus dem «Vendor Lock-in»" in [«Public Sector Perspectives 2025 - Inspirationen für einen offenen, innovativen und nachhaltigen öffentlichen Sektor»](http://www.mtiede.de/paper/p.2025.psp-complete.pdf) - Markus Tiede
 
-[![](paper/preview/p.2025.psp.oss.png)](http://www.mtiede.de/paper/p.2025.psp.oss.pdf)
+[![](paper/preview/p.2025.psp.oss.png){: loading="lazy"}](http://www.mtiede.de/paper/p.2025.psp.oss.pdf)
 
 Proprietäre Software bindet Organisationen oft langfristig an einen Anbieter. Open Source stellt dazu eine Alternative dar: Durch transparente Lösungen und offene Standards können Unternehmen den «Vendor Lock-in» reduzieren, souverän über ihre IT-Infrastruktur entscheiden und die Kontrolle über ihre Daten behalten. [...]
 
@@ -660,15 +660,15 @@ Proprietäre Software bindet Organisationen oft langfristig an einen Anbieter. O
 
 #### `de` [Projekt Cloud Enabling Büroautomation (CEBA) - Studie zu Open-Source-Alternativen von Microsoft Services und Produkten in der Schweizerischen Bundesverwaltung Backend-Services](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/standarddienste/bueroautomation/poc-boss.html) - Dr. Ronny Standtke | Dipl.-Inf. (FH) Markus Tiede
 
-[![](paper/preview/oss-bk-24-1.png)](https://www.bk.admin.ch/dam/bk/de/dokumente/dti/themen/CEBA/studie-zu-open-source-alternativen-von-microsoft-services-und-produkten-in-der-schweizerischen-bundesverwaltung-backend-services.pdf.download.pdf/Studie%20zu%20Open-Source-Alternativen%20von%20Microsoft%20Services%20und%20Produkten%20in%20der%20Schweizerischen%20Bundesverwaltung%20Backend-Services.pdf)
+[![](paper/preview/oss-bk-24-1.png){: loading="lazy"}](https://www.bk.admin.ch/dam/bk/de/dokumente/dti/themen/CEBA/studie-zu-open-source-alternativen-von-microsoft-services-und-produkten-in-der-schweizerischen-bundesverwaltung-backend-services.pdf.download.pdf/Studie%20zu%20Open-Source-Alternativen%20von%20Microsoft%20Services%20und%20Produkten%20in%20der%20Schweizerischen%20Bundesverwaltung%20Backend-Services.pdf)
 
 #### `de` [Projekt Cloud Enabling Büroautomation (CEBA) - Studie zu Open-Source-Alternativen von Microsoft Services und Produkten in der Schweizerischen Bundesverwaltung Frontend-Services](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/standarddienste/bueroautomation/poc-boss.html) - Dr. Ronny Standtke | Dipl.-Inf. (FH) Markus Tiede
 
-[![](paper/preview/oss-bk-24-2.png)](https://www.bk.admin.ch/dam/bk/de/dokumente/dti/themen/CEBA/studie-zu-open-source-alternativen-von-microsoft-services-und-produkten-in-der-schweizerischen-bundesverwaltung-frontend-services.pdf.download.pdf/Studie%20zu%20Open-Source-Alternativen%20von%20Microsoft%20Services%20und%20Produkten%20in%20der%20Schweizerischen%20Bundesverwaltung%20Frontend-Services.pdf)
+[![](paper/preview/oss-bk-24-2.png){: loading="lazy"}](https://www.bk.admin.ch/dam/bk/de/dokumente/dti/themen/CEBA/studie-zu-open-source-alternativen-von-microsoft-services-und-produkten-in-der-schweizerischen-bundesverwaltung-frontend-services.pdf.download.pdf/Studie%20zu%20Open-Source-Alternativen%20von%20Microsoft%20Services%20und%20Produkten%20in%20der%20Schweizerischen%20Bundesverwaltung%20Frontend-Services.pdf)
 
 #### `de` Beitrag "Open Source Software - Kollaborativ und robust: Warum sich der professionelle Einsatz von lizenzoffener Software lohnt" in [«Public Sector Perspectives 2024 - Empfehlungen für den öffentlichen Sektor»](http://www.mtiede.de/paper/p.2024.psp-complete.pdf) - Markus Tiede
 
-[![](paper/preview/p.2024.psp.oss.png)](http://www.mtiede.de/paper/p.2024.psp.oss.pdf)
+[![](paper/preview/p.2024.psp.oss.png){: loading="lazy"}](http://www.mtiede.de/paper/p.2024.psp.oss.pdf)
 
 Praktisch alle modernen Softwarelösungen bauen auf Komponenten, die unter einer offenen Lizenz stehen. Damit bildet Open Source Software das Rückgrat sowohl von proprietären als auch von nicht­proprietären Anwendungen. Für die Ver­waltung sind Open-­Source-­Lösungen interessant, weil sie sich herstellerunabhängig weiterentwickeln lassen. [...]
 
@@ -676,7 +676,7 @@ Praktisch alle modernen Softwarelösungen bauen auf Komponenten, die unter einer
 
 #### `de` Präsenz - Das Magazin des Departements Wirtschaft - No. 2 | 2023: «Open Source @ Berner Fachhochschule - die Welt der freien Software und Zusammenarbeit» - Markus Tiede
 
-[![](paper/preview/p.2023.bfh.png)](http://www.mtiede.de/paper/p.2023.bfh.pdf)
+[![](paper/preview/p.2023.bfh.png){: loading="lazy"}](http://www.mtiede.de/paper/p.2023.bfh.pdf)
 
 Die BFH baut eine Anlaufstelle und Informationsplattform zum Thema «Open Source» auf. Künftig können Forscher*innen und Student*innen hier eine Übersicht von geeigneten Alternativen zu proprietärer Software finden. Und sie erfahren, wie sie selbst an bestehenden, quelloffenen Projekten mitarbeiten oder sogar neue eigene Projekte in unserer Organisation starten können. [...]
 
@@ -759,7 +759,7 @@ A well thought-out system of event handling is therefore necessary to ensure tha
 #### `de` Modellbasiertes Testen grafischer Benutzeroberflächen: Ein Erfahrungsbericht
  - [Amazon.de][p.2010.bk]
 
-![Modellbasiertes Testen grafischer Benutzeroberflächen - Buchcover](documents/book-cover-mbt.jpg)
+![Modellbasiertes Testen grafischer Benutzeroberflächen - Buchcover](documents/book-cover-mbt.jpg){: loading="lazy"}
 
 ```
 Taschenbuch: 108 Seiten
@@ -778,7 +778,7 @@ Dieses Buch beschäftigt sich mit dem Thema, aus Modellgraphen, die Informatione
 Erfolgreiche Zertifizierung zum ["Certified SAFe® Architect" der Scaled Agile, Inc.](https://www.scaledagile.com/certification/certified-safe-for-architects/)
 
 ---
-![My Scaled Agile, Inc. - SAFe® Architect - Certificate](documents/cert-safe-arch.png "Scaled Agile, Inc. - SAFe® Architect - Certificate")
+![My Scaled Agile, Inc. - SAFe® Architect - Certificate](documents/cert-safe-arch.png "Scaled Agile, Inc. - SAFe® Architect - Certificate"){: loading="lazy"}
 ---
 
 ### 2019: ISTQB® - Certified Tester - Foundation Level
@@ -786,7 +786,7 @@ Erfolgreiche Zertifizierung zum ["Certified SAFe® Architect" der Scaled Agile, 
 Erfolgreiche Zertifizierung zum ["Certified Tester - Foundation Level (CTFL)" des ISTQB®](https://www.istqb.org/certification-path-root/foundation-level-2018.html)
 
 ---
-![My ISTQB® - Certified Tester - Foundation Level Certificate](documents/cert-istqb-ct-fl.jpg "ISTQB® - Certified Tester - Foundation Level certificate")
+![My ISTQB® - Certified Tester - Foundation Level Certificate](documents/cert-istqb-ct-fl.jpg "ISTQB® - Certified Tester - Foundation Level certificate"){: loading="lazy"}
 ---
 
 ### 2018: iSAQB® - Certified Professional for Software Architecture – Foundation Level
@@ -794,7 +794,7 @@ Erfolgreiche Zertifizierung zum ["Certified Tester - Foundation Level (CTFL)" de
 Erfolgreiche Zertifizierung zum ["Certified Professional for Software Architecture (CPSA-F®)" des iSAQB®](https://www.isaqb.org/certifications/foundation-level/)
 
 ---
-![My iSAQB CPSA-F®](documents/cert-isaqb-cpsa-f.jpg "iSAQB CPSA-F® certificate")
+![My iSAQB CPSA-F®](documents/cert-isaqb-cpsa-f.jpg "iSAQB CPSA-F® certificate"){: loading="lazy"}
 ---
 
 ### 2013: Certified ScrumMaster® (CSM®)
@@ -802,7 +802,7 @@ Erfolgreiche Zertifizierung zum ["Certified Professional for Software Architectu
 Erfolgreiche Zertifizierung zum [CSM®¹](http://bcert.me/sqbimzrq).
 
 ---
-![My CSM certificate](documents/cert-csm.png "Certified ScrumMaster® certificate")
+![My CSM certificate](documents/cert-csm.png "Certified ScrumMaster® certificate"){: loading="lazy"}
 ---
 ¹ Certified ScrumMaster® is a certification mark of [Scrum Alliance®, Inc](http://www.scrumalliance.org). Any unauthorized use is strictly prohibited.
 
@@ -811,7 +811,7 @@ Erfolgreiche Zertifizierung zum [CSM®¹](http://bcert.me/sqbimzrq).
 Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](https://de.wikipedia.org/wiki/Ausbilder#Ausbildung_in_Deutschland) der [IHK Braunschweig](http://www.braunschweig.ihk.de).
 
 ---
-![My AEVO certificate](documents/cert-aevo.jpg "AEVO certificate")
+![My AEVO certificate](documents/cert-aevo.jpg "AEVO certificate"){: loading="lazy"}
 ---
 
 

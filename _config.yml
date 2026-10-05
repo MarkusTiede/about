@@ -1,5 +1,7 @@
 title: about/me
-description: Information about me and my public activities. 
+description: Information about me and my public activities.
+url: https://markustiede.github.io
+baseurl: /about
 remote_theme: jekyll/minima
 
 author:
@@ -7,7 +9,9 @@ author:
   email: markus.tiede@open-co.de
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-avatar
 
@@ -15,6 +19,16 @@ header_pages:
   - me.md 
 
 future: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - .gitpod
+  - .project
+  - .settings
+  - "**/*.graphml"
+  - "**/*.md_"
 
 minima:
   skin: classic
