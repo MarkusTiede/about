@@ -163,7 +163,7 @@ Im Anschluss an den Vortrag wird es zudem genügend Zeit für Fragen sowie einen
 
 #### `de` [Forschungsstelle Digitale Nachhaltigkeit - Institut für Informatik der Universität Bern](https://www.digitale-nachhaltigkeit.unibe.ch) - [Gastreferat zu "Digital nachhaltige Unternehmens-IT"](https://github.com/baloise/open-source/issues/313)
 
-![](https://www.digitale-nachhaltigkeit.unibe.ch/media/logo_unibern@2x.png)
+![](https://www.digitale-nachhaltigkeit.unibe.ch/assets/media/image/logo_unibern@2x.png)
 
 #### `de` [Bits & Bäume 2022](https://bits-und-baeume.org) - [OSS-Maturität in Unternehmen](https://fahrplan22.bits-und-baeume.org/bitsundbaeume/talk/BWSLF3/)
 
@@ -177,7 +177,7 @@ Wir steigen ein mit einem leichtgewichtigen Maturitätsmodell zur eigenen Stando
 
 Abgerundet wird der Vortrag durch eine ganze Reihe von Erfahrungen, Referenzen und weiterführenden Informationen aus verschiedenen Unternehmen und Wirtschaftszweigen.
 
-#### `de` [digitalswitzerland Schweizer Digitaltage](https://digitaltage.swiss/programm/digitale-nachhaltigkeit/) - [Open Source, Open Data und TikTok: Podium zur digitalen Nachhaltigkeit](https://www.generationentandem.ch/online/volldigital/digitale-nachhaltigkeit/)
+#### `de` [digitalswitzerland Schweizer Digitaltage](https://web.archive.org/web/20230203080650/https://digitaltage.swiss/programm/digitale-nachhaltigkeit/) - [Open Source, Open Data und TikTok: Podium zur digitalen Nachhaltigkeit](https://www.generationentandem.ch/online/volldigital/digitale-nachhaltigkeit/)
 
 Veranstaltung im Rahmen der Schweizer Digitaltage: Unter dem Motto «Gemeinsam gestalten wir die Zukunft» bietet der Wirtschaftsraum Thun vom 7.–10. September als Partnerstadt und -Kanton der Schweizer Digitaltage gemeinsam mit verschiedenen regionalen Institutionen zahlreiche live- und online-Events an. Mit einem vielfältigen Angebot ist auch und» das Generationentandem als PartnerIn des WRT Thun wieder massgeblich beteiligt.
 
@@ -199,7 +199,7 @@ Im Podiumsgespräch wird ein Blick in die Zukunft der digitalen Welt gewagt. Wel
 
 {% include youtube.html id="OFyud1R56Uc" %}
 
-In immer mehr Bereichen unserer Gesellschaft und Wirtschaft sind Bestrebungen im Gang, eine innovative Nutzung von Daten zu fördern, um bessere und bedürfnisgerechtere Dienstleistungen anzubieten und um knappe Ressourcen effizienter zu verwalten. In einem [Bericht des UVEK und des EDA](https://www.newsd.admin.ch/newsd/message/attachments/70835.pdf) werden Beispiele aus den Bereichen Gesundheit, Mobilität, Energie, Bildung und Finanzwesen genannt. Auch im Tourismus und anderen Branchen arbeitet man an Modellen, wie lokale Akteure gemeinsam Daten nutzen, um Kunden ein besseres Erlebnis zu bieten und neue Perspektiven für die lokale Wertschöpfung zu generieren. In den Kantonen Genf und Waadt haben sich verschiedene Akteure zu einem [«trust valley»](https://trustvalley.swiss) zusammengeschlossen, um Innovation durch sichere und gemeinsame Datennutzung zu fördern. Am 30. März 2022 hat der Bundesrat verschiedene [Massnahmen](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-87780.html) zur Förderung von vertrauenswürdigen Datenräumen und der «digitalen Selbstbestimmung» beschlossen, darunter die Erarbeitung eines freiwilligen Verhaltenskodexes für vertrauenswürdige Datenräume. Ein Bericht des Bundes zu einem künftigen «digitalen Service Public» soll noch dieses Jahr verabschiedet werden. Die EU hat eine [europäische Datenstrategie](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_de) verabschiedet und kürzlich die Schaffung eines [europäischen Gesundheitsdatenraums](https://ec.europa.eu/health/ehealth-digital-health-and-care/european-health-data-space_de) vorgeschlagen.
+In immer mehr Bereichen unserer Gesellschaft und Wirtschaft sind Bestrebungen im Gang, eine innovative Nutzung von Daten zu fördern, um bessere und bedürfnisgerechtere Dienstleistungen anzubieten und um knappe Ressourcen effizienter zu verwalten. In einem [Bericht des UVEK und des EDA](https://www.newsd.admin.ch/newsd/message/attachments/70835.pdf) werden Beispiele aus den Bereichen Gesundheit, Mobilität, Energie, Bildung und Finanzwesen genannt. Auch im Tourismus und anderen Branchen arbeitet man an Modellen, wie lokale Akteure gemeinsam Daten nutzen, um Kunden ein besseres Erlebnis zu bieten und neue Perspektiven für die lokale Wertschöpfung zu generieren. In den Kantonen Genf und Waadt haben sich verschiedene Akteure zu einem [«trust valley»](https://trustvalley.swiss) zusammengeschlossen, um Innovation durch sichere und gemeinsame Datennutzung zu fördern. Am 30. März 2022 hat der Bundesrat verschiedene [Massnahmen](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-87780.html) zur Förderung von vertrauenswürdigen Datenräumen und der «digitalen Selbstbestimmung» beschlossen, darunter die Erarbeitung eines freiwilligen Verhaltenskodexes für vertrauenswürdige Datenräume. Ein Bericht des Bundes zu einem künftigen «digitalen Service Public» soll noch dieses Jahr verabschiedet werden. Die EU hat eine [europäische Datenstrategie](https://digital-strategy.ec.europa.eu/de/policies/strategy-data) verabschiedet und kürzlich die Schaffung eines [europäischen Gesundheitsdatenraums](https://ec.europa.eu/health/ehealth-digital-health-and-care/european-health-data-space_de) vorgeschlagen.
 
 Gleichzeitig sind viele Individuen und auch Unternehmen skeptisch gegenüber solchen Vorschlägen, denn sie befürchten, die Kontrolle über ihre eigenen Daten zu verlieren oder ihre bestehenden Wettbewerbsvorteile und Geschäftsmodelle zu gefährden. Zudem sehen viele in der – mit der zunehmenden Datennutzung einhergehenden – Plattformisierung aller Bereiche unserer Gesellschaft und Wirtschaft das Risiko einer weiteren Abhängigkeit von grossen internationalen Tech-Giganten und fürchten um die «digitale Souveränität» unserer Gesellschaften.
 
@@ -207,7 +207,7 @@ Auf Basis von 3 kurzen Inputreferaten sollen die Anwesenden möglichst interakti
 
 #### `de` [Digital Business und Value Networks - Fachhochschule Nordwestschweiz](https://www.fhnw.ch/de/studium/wirtschaft/digital-business-value-networks) - [Gastreferat zu Open Source Software und Open Government Data](https://github.com/baloise/open-source/issues/331)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/FHNW_Logo.svg/640px-FHNW_Logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/FHNW_Logo.svg/500px-FHNW_Logo.svg.png)
 
  - https://oss-studie.ch
  - https://opendata.swiss
@@ -227,7 +227,7 @@ In this workshop we will cover together:
 
 #### `de` [Forschungsstelle Digitale Nachhaltigkeit - Institut für Informatik der Universität Bern](https://www.digitale-nachhaltigkeit.unibe.ch) - [Gastreferat zu "Digital nachhaltige Unternehmens-IT"](https://github.com/baloise/open-source/issues/313)
 
-![](https://www.digitale-nachhaltigkeit.unibe.ch/media/logo_unibern@2x.png)
+![](https://www.digitale-nachhaltigkeit.unibe.ch/assets/media/image/logo_unibern@2x.png)
 
 #### `de` DINAcon Awards
  - [dinacon.ch](https://awards.dinacon.ch)
@@ -320,8 +320,7 @@ Schon seit einigen Jahren gibt es eine aktive Open-Source Community (https://git
 Diese Vorstellung wird eingerahmt von Erkenntnissen und Lessons-Learned die wir entlang dieses Entwicklungspfades gesammelt haben.
 
 #### `de` (Wissens)-Allmende 2.0 by Baloise Group
- - [Digitaltag Schweiz][t.2019.dt]
- - [Slides][t.2019.dt.slides]
+ - Digitaltag Schweiz 2019
 
 Die Baloise ist Versicherung und Bank in einem und das mit über 150 Jahren Tradition. Mindestens ähnlich alt ist die Idee des Gemeinguts, oder Allmende.
 
@@ -333,7 +332,6 @@ Wie wir das bei der Basler leben, wohlgleich noch seinen Anfängen, wollen wir e
 
 #### `en` Pipelining quality - best practices, lessons learned and tools for continuous delivery processes
  - [BaselOne][t.2018.bo]
- - [Slides][t.2018.bo.slides]
 
 In this talk Markus will share hands-on project experience for building and maintaining CI processes applicable in small and large enterprises projects.
 
@@ -638,13 +636,13 @@ This 5-minute lightning talk emphasised spotting the spam when thinking about UI
 
 #### `de` Studie ["Evaluierung von «openDesk» als Second-Source-Lösung für Microsoft 365" für die Organisation und Informatik (OIZ) der Stadt Zürich](https://www.stadt-zuerich.ch/de/aktuell/medienmitteilungen/2026/05/digitale-souveraenitaet-alternative-microsoft-365.html) - Markus Tiede et al.
 
-[![](paper/preview/p.26.stzh.opendesk.png)](https://www.stadt-zuerich.ch/content/dam/web/de/aktuell/medienmitteilungen/2026/05/stzh-studie-evaluierung-secound-source-digitale-souveraenitaet.pdf)
+[![](paper/preview/p.26.stzh.opendesk.png){: loading="lazy"}](https://www.stadt-zuerich.ch/content/dam/web/de/aktuell/medienmitteilungen/2026/05/stzh-studie-evaluierung-secound-source-digitale-souveraenitaet.pdf)
 
 Eine von der Organisation und Informatik (OIZ) gemeinsam mit der Berner Fachhochschule verfasste Studie zeigt, dass eine auf Open-Source basierende Lösung die grundlegenden Anforderungen an eine Standardsoftware für den Büroalltag abdeckt und damit elementare Funktionen der heutigen M365-Umgebung ersetzen könnte. Bei komplexeren Themen wie Automatisierung, Telefonie und Cyber Security bestehen jedoch Herausforderungen. Ein geplanter Praxistest wird weitere Erkenntnisse liefern.
 
 #### `de` Beitrag "Open Source Software - Die Schweiz nimmt eine Vorreiterrolle ein" in [«Public Sector Perspectives 2026 - Inspirationen für einen offenen, innovativen und nachhaltigen öffentlichen Sektor»](https://www.bfh.ch/dam/jcr:7dbe3572-a8cd-479e-b4ab-0db976e14ecb/Public%20Sector%20Perspectives%202026_digital.pdf) - Markus Tiede
 
-[![](paper/preview/p.2026.psp.oss.png)](https://www.bfh.ch/dam/jcr:b631f7fb-984d-40aa-a24d-8e6b7633b02b/PSP2026_21_Open%20Source%20Software.pdf)
+[![](paper/preview/p.2026.psp.oss.png){: loading="lazy"}](https://www.bfh.ch/dam/jcr:b631f7fb-984d-40aa-a24d-8e6b7633b02b/PSP2026_21_Open%20Source%20Software.pdf)
 
 Im Kontext der Open Source Software ebnet die Schweiz den Weg für nachhaltige, sichere und souveräne Softwareentwicklung. Doch auch auf europäischer Ebene bewegt sich viel: Der Cyber Resilience Act und die fortschreitende Regulierung setzen neue Massstäbe für den Umgang mit Open Source. [...]
 
@@ -652,7 +650,7 @@ Im Kontext der Open Source Software ebnet die Schweiz den Weg für nachhaltige, 
 
 #### `de` Beitrag "Open Source Software - Mit mehr Flexibilität schrittweise raus aus dem «Vendor Lock-in»" in [«Public Sector Perspectives 2025 - Inspirationen für einen offenen, innovativen und nachhaltigen öffentlichen Sektor»](http://www.mtiede.de/paper/p.2025.psp-complete.pdf) - Markus Tiede
 
-[![](paper/preview/p.2025.psp.oss.png)](http://www.mtiede.de/paper/p.2025.psp.oss.pdf)
+[![](paper/preview/p.2025.psp.oss.png){: loading="lazy"}](http://www.mtiede.de/paper/p.2025.psp.oss.pdf)
 
 Proprietäre Software bindet Organisationen oft langfristig an einen Anbieter. Open Source stellt dazu eine Alternative dar: Durch transparente Lösungen und offene Standards können Unternehmen den «Vendor Lock-in» reduzieren, souverän über ihre IT-Infrastruktur entscheiden und die Kontrolle über ihre Daten behalten. [...]
 
@@ -660,15 +658,15 @@ Proprietäre Software bindet Organisationen oft langfristig an einen Anbieter. O
 
 #### `de` [Projekt Cloud Enabling Büroautomation (CEBA) - Studie zu Open-Source-Alternativen von Microsoft Services und Produkten in der Schweizerischen Bundesverwaltung Backend-Services](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/standarddienste/bueroautomation/poc-boss.html) - Dr. Ronny Standtke | Dipl.-Inf. (FH) Markus Tiede
 
-[![](paper/preview/oss-bk-24-1.png)](https://www.bk.admin.ch/dam/bk/de/dokumente/dti/themen/CEBA/studie-zu-open-source-alternativen-von-microsoft-services-und-produkten-in-der-schweizerischen-bundesverwaltung-backend-services.pdf.download.pdf/Studie%20zu%20Open-Source-Alternativen%20von%20Microsoft%20Services%20und%20Produkten%20in%20der%20Schweizerischen%20Bundesverwaltung%20Backend-Services.pdf)
+[![](paper/preview/oss-bk-24-1.png){: loading="lazy"}](https://www.bk.admin.ch/dam/bk/de/dokumente/dti/themen/CEBA/studie-zu-open-source-alternativen-von-microsoft-services-und-produkten-in-der-schweizerischen-bundesverwaltung-backend-services.pdf.download.pdf/Studie%20zu%20Open-Source-Alternativen%20von%20Microsoft%20Services%20und%20Produkten%20in%20der%20Schweizerischen%20Bundesverwaltung%20Backend-Services.pdf)
 
 #### `de` [Projekt Cloud Enabling Büroautomation (CEBA) - Studie zu Open-Source-Alternativen von Microsoft Services und Produkten in der Schweizerischen Bundesverwaltung Frontend-Services](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/standarddienste/bueroautomation/poc-boss.html) - Dr. Ronny Standtke | Dipl.-Inf. (FH) Markus Tiede
 
-[![](paper/preview/oss-bk-24-2.png)](https://www.bk.admin.ch/dam/bk/de/dokumente/dti/themen/CEBA/studie-zu-open-source-alternativen-von-microsoft-services-und-produkten-in-der-schweizerischen-bundesverwaltung-frontend-services.pdf.download.pdf/Studie%20zu%20Open-Source-Alternativen%20von%20Microsoft%20Services%20und%20Produkten%20in%20der%20Schweizerischen%20Bundesverwaltung%20Frontend-Services.pdf)
+[![](paper/preview/oss-bk-24-2.png){: loading="lazy"}](https://www.bk.admin.ch/dam/bk/de/dokumente/dti/themen/CEBA/studie-zu-open-source-alternativen-von-microsoft-services-und-produkten-in-der-schweizerischen-bundesverwaltung-frontend-services.pdf.download.pdf/Studie%20zu%20Open-Source-Alternativen%20von%20Microsoft%20Services%20und%20Produkten%20in%20der%20Schweizerischen%20Bundesverwaltung%20Frontend-Services.pdf)
 
 #### `de` Beitrag "Open Source Software - Kollaborativ und robust: Warum sich der professionelle Einsatz von lizenzoffener Software lohnt" in [«Public Sector Perspectives 2024 - Empfehlungen für den öffentlichen Sektor»](http://www.mtiede.de/paper/p.2024.psp-complete.pdf) - Markus Tiede
 
-[![](paper/preview/p.2024.psp.oss.png)](http://www.mtiede.de/paper/p.2024.psp.oss.pdf)
+[![](paper/preview/p.2024.psp.oss.png){: loading="lazy"}](http://www.mtiede.de/paper/p.2024.psp.oss.pdf)
 
 Praktisch alle modernen Softwarelösungen bauen auf Komponenten, die unter einer offenen Lizenz stehen. Damit bildet Open Source Software das Rückgrat sowohl von proprietären als auch von nicht­proprietären Anwendungen. Für die Ver­waltung sind Open-­Source-­Lösungen interessant, weil sie sich herstellerunabhängig weiterentwickeln lassen. [...]
 
@@ -676,7 +674,7 @@ Praktisch alle modernen Softwarelösungen bauen auf Komponenten, die unter einer
 
 #### `de` Präsenz - Das Magazin des Departements Wirtschaft - No. 2 | 2023: «Open Source @ Berner Fachhochschule - die Welt der freien Software und Zusammenarbeit» - Markus Tiede
 
-[![](paper/preview/p.2023.bfh.png)](http://www.mtiede.de/paper/p.2023.bfh.pdf)
+[![](paper/preview/p.2023.bfh.png){: loading="lazy"}](http://www.mtiede.de/paper/p.2023.bfh.pdf)
 
 Die BFH baut eine Anlaufstelle und Informationsplattform zum Thema «Open Source» auf. Künftig können Forscher*innen und Student*innen hier eine Übersicht von geeigneten Alternativen zu proprietärer Software finden. Und sie erfahren, wie sie selbst an bestehenden, quelloffenen Projekten mitarbeiten oder sogar neue eigene Projekte in unserer Organisation starten können. [...]
 
@@ -759,7 +757,7 @@ A well thought-out system of event handling is therefore necessary to ensure tha
 #### `de` Modellbasiertes Testen grafischer Benutzeroberflächen: Ein Erfahrungsbericht
  - [Amazon.de][p.2010.bk]
 
-![Modellbasiertes Testen grafischer Benutzeroberflächen - Buchcover](documents/book-cover-mbt.jpg)
+![Modellbasiertes Testen grafischer Benutzeroberflächen - Buchcover](documents/book-cover-mbt.jpg){: loading="lazy"}
 
 ```
 Taschenbuch: 108 Seiten
@@ -778,7 +776,7 @@ Dieses Buch beschäftigt sich mit dem Thema, aus Modellgraphen, die Informatione
 Erfolgreiche Zertifizierung zum ["Certified SAFe® Architect" der Scaled Agile, Inc.](https://www.scaledagile.com/certification/certified-safe-for-architects/)
 
 ---
-![My Scaled Agile, Inc. - SAFe® Architect - Certificate](documents/cert-safe-arch.png "Scaled Agile, Inc. - SAFe® Architect - Certificate")
+![My Scaled Agile, Inc. - SAFe® Architect - Certificate](documents/cert-safe-arch.png "Scaled Agile, Inc. - SAFe® Architect - Certificate"){: loading="lazy"}
 ---
 
 ### 2019: ISTQB® - Certified Tester - Foundation Level
@@ -786,7 +784,7 @@ Erfolgreiche Zertifizierung zum ["Certified SAFe® Architect" der Scaled Agile, 
 Erfolgreiche Zertifizierung zum ["Certified Tester - Foundation Level (CTFL)" des ISTQB®](https://www.istqb.org/certification-path-root/foundation-level-2018.html)
 
 ---
-![My ISTQB® - Certified Tester - Foundation Level Certificate](documents/cert-istqb-ct-fl.jpg "ISTQB® - Certified Tester - Foundation Level certificate")
+![My ISTQB® - Certified Tester - Foundation Level Certificate](documents/cert-istqb-ct-fl.jpg "ISTQB® - Certified Tester - Foundation Level certificate"){: loading="lazy"}
 ---
 
 ### 2018: iSAQB® - Certified Professional for Software Architecture – Foundation Level
@@ -794,40 +792,37 @@ Erfolgreiche Zertifizierung zum ["Certified Tester - Foundation Level (CTFL)" de
 Erfolgreiche Zertifizierung zum ["Certified Professional for Software Architecture (CPSA-F®)" des iSAQB®](https://www.isaqb.org/certifications/foundation-level/)
 
 ---
-![My iSAQB CPSA-F®](documents/cert-isaqb-cpsa-f.jpg "iSAQB CPSA-F® certificate")
+![My iSAQB CPSA-F®](documents/cert-isaqb-cpsa-f.jpg "iSAQB CPSA-F® certificate"){: loading="lazy"}
 ---
 
 ### 2013: Certified ScrumMaster® (CSM®)
 
-Erfolgreiche Zertifizierung zum [CSM®¹](http://bcert.me/sqbimzrq).
+Erfolgreiche Zertifizierung zum CSM®¹.
 
 ---
-![My CSM certificate](documents/cert-csm.png "Certified ScrumMaster® certificate")
+![My CSM certificate](documents/cert-csm.png "Certified ScrumMaster® certificate"){: loading="lazy"}
 ---
-¹ Certified ScrumMaster® is a certification mark of [Scrum Alliance®, Inc](http://www.scrumalliance.org). Any unauthorized use is strictly prohibited.
+¹ Certified ScrumMaster® is a certification mark of [Scrum Alliance®, Inc](https://www.scrumalliance.org). Any unauthorized use is strictly prohibited.
 
 ### 2009: IHK Ausbilderschein
 
-Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](https://de.wikipedia.org/wiki/Ausbilder#Ausbildung_in_Deutschland) der [IHK Braunschweig](http://www.braunschweig.ihk.de).
+Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](https://de.wikipedia.org/wiki/Ausbilder#Ausbildung_in_Deutschland) der [IHK Braunschweig](https://www.braunschweig.ihk.de).
 
 ---
-![My AEVO certificate](documents/cert-aevo.jpg "AEVO certificate")
+![My AEVO certificate](documents/cert-aevo.jpg "AEVO certificate"){: loading="lazy"}
 ---
 
 
 ==========================
 
 
-[ostfalia-en]: http://www.ostfalia.de/cms/en/index.html
-[ostfalia-de]: http://www.ostfalia.de
-[Jubula]: http://www.eclipse.org/jubula
+[ostfalia-en]: https://www.ostfalia.de/en
+[ostfalia-de]: https://www.ostfalia.de
+[Jubula]: https://www.eclipse.org/jubula
 
 [t.2019.redhat.slides]: talks/2019-redhat.pdf?raw=true
-[t.2019.dina]: https://dinacon.ch/sessions/2019/open-source-software-in-der-versicherungswelt/
-[t.2019.dt]: https://www.digitaltag.swiss/programm/baloise-wissens-allmende-2.0/
-[t.2019.dt.slides]: https://gitpitch.com/baloise/open-source/master?p=docs/slides/intro-commons
-[t.2018.bo]: https://baselone.ch/dam/baselone/assets/pdf/pipeliningQuality.pdf
-[t.2018.bo.slides]: https://gitpitch.com/baloise/talk-galileo_pipeliningQuality/18-baselone
+[t.2019.dina]: https://web.archive.org/web/20191118232739/https://dinacon.ch/sessions/2019/open-source-software-in-der-versicherungswelt/
+[t.2018.bo]: https://web.archive.org/web/20201124225010/https://baselone.ch/dam/baselone/assets/pdf/pipeliningQuality.pdf
 [t.2017.ece.j]: https://www.eclipsecon.org/europe2017/session/ui-test-automation-using-jubula-api-why-how-and-what
 [t.2017.ece.j.slides]: https://github.com/open-co-de/tutorial-jubula-api#slides
 [t.2017.ece.p]: https://www.eclipsecon.org/europe2017/session/pipelining-quality-best-practices-lessons-learned-and-tools-continuous-delivery-processes
@@ -855,8 +850,8 @@ Erfolgreich absolvierte [Ausbilder-Eignungsprüfung](https://de.wikipedia.org/wi
 [t.2011.ece]: https://www.eclipsecon.org/europe2011/sessions/starting-eclipse-project-first-90-days…-and-year-follows.html
 [t.2010.seacon]: https://www.sigs-datacom.de
 [t.2009.ese]: https://www.eclipsecon.org/summiteurope2009/sessions8f23.html?id=920
-[t.2009.el.slides]: https://www.eclipse.org/community/training/webinars/091201_CrossPlatform_Webinar.pdf
-[t.stpcon]: https://www.stpcon.com
+[t.2009.el.slides]: https://web.archive.org/web/20101207102703/http://www.eclipse.org/community/training/webinars/091201_CrossPlatform_Webinar.pdf
+[t.stpcon]: https://web.archive.org/web/20081218104255/http://www.stpcon.com/
 [t.2008.stpcon.slides]: talks/2008-stpcon-lt.pdf?raw=true
 
 [p.2015.em.lnk]: https://jaxenter.de/jubula-goes-junit-25358
